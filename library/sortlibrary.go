@@ -54,7 +54,7 @@ func MixUp(rttr []*models.Word, i string) {
 
 func SortLibrary(l []*models.Word, i string) {
 	fmt.Println("sort Theme 1 || sort Englisch 2 || sort Russian 3 || mix up 4 || sort RightAnswer 5")
-	c := Scan()
+	c, _ := Scan()
 	cc, err := strconv.Atoi(c)
 	if err != nil {
 		fmt.Println("Incorect, please enter number")

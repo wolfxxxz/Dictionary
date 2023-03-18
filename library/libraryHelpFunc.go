@@ -10,25 +10,90 @@ import (
 	"github.com/Wolfxxxz/Dictionary/internal/app/models"
 )
 
-// Del []Library DUblicat
+/*
+// Scan bufio
+
+	func Scan() string {
+		in := bufio.NewScanner(os.Stdin)
+		var nn string
+		if in.Scan() {
+			nn = in.Text()
+		}
+		return nn
+	}
+
+	func DelDublikat(s []*models.Word) []*models.Word {
+		c := []*models.Word{}
+		for ii, v := range s {
+			count := 0
+			var indexWord int
+			for i := ii; i <= len(s)-1; i++ {
+				if strings.EqualFold(v.English, s[i].English) {
+					count++
+				}
+				if count == 2 {
+					indexWord = i
+					fmt.Println(v.English, s[i].English, count)
+					count = 0
+				}
+			}
+			if count == 1 {
+				for _, val := range c {
+					if strings.EqualFold(v.English, val.English) {
+						break
+					}
+				}
+				c = append(c, v)
+				count = 0
+
+			} else if count == 0 && indexWord >= 1 {
+				fmt.Println("-------", v.English, s[indexWord].English)
+				fmt.Printf("Russian old value %s \n", v.Russian)
+				fmt.Printf("Russian new value %s \n", s[indexWord].Russian)
+				fmt.Printf("Theme old value %s || new value %s \n", s[indexWord].Theme, v.Theme)
+				fmt.Printf("RightAswer old value %v || new value %v \n", s[indexWord].RightAswer, v.RightAswer)
+				fmt.Println("add old value `1 enter`, add new value `2 enter` ")
+				answer, _ := Scan()
+				answerInt, _ := strconv.Atoi(answer)
+				if answerInt == 1 {
+					c = append(c, v)
+				} else if answerInt == 2 {
+					c = append(c, s[indexWord])
+				}
+			}
+		}
+		return c
+	}
+*/
 func DelDublikat(s []*models.Word) []*models.Word {
 	c := []*models.Word{}
 	count := 0
 	for ii, v := range s {
+
 		for i := ii; i <= len(s)-1; i++ {
 			if strings.EqualFold(v.English, s[i].English) {
-				//if v.English == s[i].English {
 				count++
 			}
 		}
 		if count == 1 {
 			c = append(c, v)
 			count = 0
+
 		} else {
 			count = 0
 		}
 	}
 	return c
+}
+func Scan() (string, error) {
+	in := bufio.NewScanner(os.Stdin)
+	if in.Scan() {
+		return in.Text(), nil
+	}
+	if err := in.Err(); err != nil {
+		return "", err
+	}
+	return "", nil
 }
 
 // Количество слов
@@ -44,33 +109,23 @@ func Print(l []*models.Word) {
 	}
 }
 
-// Scan bufio
-func Scan() string {
-	in := bufio.NewScanner(os.Stdin)
-	var nn string
-	if in.Scan() {
-		nn = in.Text()
-	}
-	return nn
-}
-
 // Исправить слова
 func CorectingWords(i int, l []*models.Word) {
 	fmt.Println("Оставить старое значение Enter|| или введите новое значение")
 	fmt.Println("write English", l[i].English)
 	//var englischW string
-	englischW := Scan()
+	englischW, _ := Scan()
 	if englischW != "" {
 		l[i].English = englischW
 	}
 	fmt.Println("write Russian", l[i].Russian)
-	russianW := Scan()
+	russianW, _ := Scan()
 	if russianW != "" {
 		l[i].Russian = russianW
 	}
 	//var themeW string
 	fmt.Println("write Theme", l[i].Theme)
-	themeW := Scan()
+	themeW, _ := Scan()
 	if themeW != "" {
 		l[i].Theme = themeW
 	}
@@ -84,19 +139,19 @@ func NewWordRukamy(l []*models.Word) {
 	for {
 		fmt.Println("Для выхода введите 1")
 		fmt.Println("English")
-		wordsEng := Scan()
+		wordsEng, _ := Scan()
 		if wordsEng == "1" {
 			break
 		}
 
 		fmt.Println("Russian")
-		wordsRus := Scan()
+		wordsRus, _ := Scan()
 		if wordsRus == "1" {
 			break
 		}
 
 		fmt.Println("Theme")
-		wordsTheme := Scan()
+		wordsTheme, _ := Scan()
 		if wordsTheme == "1" {
 			break
 		}
@@ -160,7 +215,7 @@ func AddTheme(ll []*models.Word) {
 		if v.Theme == "" {
 			fmt.Println("Для выхода введите 1, пропустить слово нажмите Enter, редактировать все данные 9")
 			fmt.Println(v.English, v.Russian)
-			wordTheme = Scan()
+			wordTheme, _ = Scan()
 		}
 		if wordTheme == "9" {
 			CorectingWords(i, ll)

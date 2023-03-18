@@ -29,13 +29,13 @@ func main() {
 	fmt.Println("Тест    знаний    введите   1")
 	fmt.Println("Добавить или изменить слова 2")
 	fmt.Println("Запустить сервер            3")
-	f := library.Scan()
+	f, _ := library.Scan()
 	ff, _ := strconv.Atoi(f)
 	if ff == 1 {
 		fmt.Println("Тест слов по количеству    1")
 		fmt.Println("Тест знаний по теме        2")
 
-		f := library.Scan()
+		f, _ := library.Scan()
 		fff, _ := strconv.Atoi(f)
 		if fff == 1 {
 			testink.TestKnowlig(Rttr)
@@ -49,7 +49,7 @@ func main() {
 		fmt.Println("Ввести новые слова в ручном режиме     2")
 		fmt.Println("Добавить тему или изменить слова       3")
 		fmt.Println("Сортировать библиотеку порядок изменится  4")
-		f := library.Scan()
+		f, _ := library.Scan()
 		fff, _ := strconv.Atoi(f)
 		if fff == 1 {
 			library.UpdateLibrary("txt/newWords.txt", Rttr)

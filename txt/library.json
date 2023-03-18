@@ -1178,13 +1178,6 @@
       },
       {
          "id": 0,
-         "english": "sound",
-         "russian": "звук",
-         "theme": "nature",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
          "english": "tonight",
          "russian": "сегодня",
          "theme": "adverb",
@@ -6400,13 +6393,6 @@
       },
       {
          "id": 0,
-         "english": "Look at",
-         "russian": "посмотри на (него)",
-         "theme": "preposition",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
          "english": "respect",
          "russian": "уважать",
          "theme": "verb",
@@ -6472,13 +6458,6 @@
          "id": 0,
          "english": "Required",
          "russian": "требовало (past)",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Effort",
-         "russian": "усилие",
          "theme": "",
          "rightAnswer": 0
       },
@@ -6722,20 +6701,6 @@
       },
       {
          "id": 0,
-         "english": "Strong",
-         "russian": "сильный",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Suddenly",
-         "russian": "вдруг",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
          "english": "Sound",
          "russian": "звучать",
          "theme": "",
@@ -6822,20 +6787,6 @@
          "id": 0,
          "english": "The following",
          "russian": "следующие (вопросы)",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Greatly",
-         "russian": "сильно (G)",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Fill",
-         "russian": "наполнять",
          "theme": "",
          "rightAnswer": 0
       },
@@ -7387,13 +7338,6 @@
       },
       {
          "id": 0,
-         "english": "Perform",
-         "russian": "выступать",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
          "english": "upon",
          "russian": "на",
          "theme": "pronoun",
@@ -7404,13 +7348,6 @@
          "english": "Only once in a year",
          "russian": "только раз в год?",
          "theme": "Phrase",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "there",
-         "russian": "там",
-         "theme": "pronoun",
          "rightAnswer": 0
       },
       {

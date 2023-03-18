@@ -166,7 +166,6 @@ usual - обычный - adjective
 print - печатать - verb
 Take on - одеть (шапку) - clothes
 just - просто - adverb
-sound - звук - nature
 tonight - сегодня - adverb
 travel - путешествовать - verb
 mother - мать - nature
@@ -912,7 +911,6 @@ Garden - сад - Place
 Impossible - невозможно - 
 forever - навсегда - adverb
 Loud - громко - 
-Look at - посмотри на (него) - preposition
 respect - уважать - verb
 think - думать - verb
 Subject - предмет - 
@@ -923,7 +921,6 @@ Dictionary - словарь - studies
 Remained - остался (past) - 
 Suggest - предлагать - 
 Required - требовало (past) - 
-Effort - усилие - 
 Describe - описывать - 
 die - умирать - verb
 Walk by - идти мимо - 
@@ -958,8 +955,6 @@ Count on - рассчитывать на -
 As far as i know - насколько я знаю - Phrase
 Gets - получает - 
 Ask for - просит _ - preposition
-Strong - сильный - 
-Suddenly - вдруг - 
 Sound - звучать - 
 Negative - отрицательная - 
 pull - тянуть - verb
@@ -973,8 +968,6 @@ Serves - подавать (девушка подаёт воду) -
 Non of us - никто из нас - Phrase
 he assumes - он предпологает - 
 The following - следующие (вопросы) - 
-Greatly - сильно (G) - 
-Fill - наполнять - 
 Suddenly - вдруг - 
 Find out - узнали - 
 yes/yeah - да - preposition
@@ -1053,10 +1046,8 @@ help - помогать - verb
 For years - годами - Time
 Advertisement - рекламное объявление - youtube
 Every human - каждый человек - Phrase
-Perform - выступать - 
 upon - на - pronoun
 Only once in a year - только раз в год? - Phrase
-there - там - pronoun
 bike - мотоцикл - noun
 Guess - отгадать - 
 Brave - смелая - 
