@@ -1,0 +1,5 @@
+bind_addr = ":8081"
+log_level = "debug"
+
+[store]
+database_url ="host=localhost dbname=dictionary port=5433 user=postgres password=1 sslmode=disable"

@@ -1,0 +1,694 @@
+Really - конечно! - 
+Not necessarily - не обязательно - Phrase
+Charge - заряд, обязанности, обвинение - 
+Perform - исполнять (выступать) - 
+Receive - получать - 
+Usually - обычно - Time
+Width - ширина - Work
+Decision - решение - Work
+Success - успех - Work
+Equal - одинаковые - Work
+To be - быть - 
+small - маленький - 
+Will Get tired - скоро устанешь - Phrase
+Follow - следуй, иди за мной - 
+Some - некоторый - 
+Sooner or later - рано или поздно - Phrase
+Greatly - очень сильно - 
+Everyone - все(he, she) - 
+Land - дать в долг - 
+Authorities - власти - 
+Mix up - перемешать - 
+Measure - меры - 
+More than enough - больше чем достаточно - Phrase
+Punish - наказывать - Home
+Apologize - извиняться - Home
+Sure - конечно S - 
+Certainly - конечно C - 
+Regret - сожалеть - Home
+Devote to - уделять _ (предлог) - 
+Borrow - брать в долг - 
+Disappointed - расстроенные - 
+Repair - исправить - 
+Achieve this aim - достигнуть этой цели - Phrase
+Skirt - юбка - clothes
+Suit - костюм - clothes
+Shirt - рубашка - clothes
+Clothes - одежда - clothes
+Solution to - решение _(предлог) - Work
+Translate - перевод - studies
+Dictionary - словарь - studies
+Lead to - приводит к - 
+Interrupt - перебивать - 
+Take part - принимать участие - studies
+Participate - принимать участие - studies
+Competition - соревнование - studies
+Influence - влиять - Work
+Any more - некогда больше - Phrase
+Any longer - не дольше - Phrase
+React - реагировать - 
+Deny - отрицать - 
+Continue - продолжать - 
+Insist on - настаивать - Work
+Notice - заметят - 
+Absence - отсутствие - 
+Present - присутствует - 
+Become - стать кем то - 
+Attractive - привлекательный - Home
+The only right - единственно верное - Phrase
+Approach - подход - Work
+Afternoon - днем - Time
+Except for - кроме (огурцов) - 
+Include - включает (еда) - 
+Brave - смелая - 
+Under - под (рубашка под штанами) - clothes
+Walk - гулять - Home
+Walk by - идти мимо - Home
+Because of - из за (твоей собаки) - 
+Go out - идти на выход, выходить - Phrase
+Among - среди - 
+Behind - позади - Place
+Until - до (завтра) - 
+During - на протяжении (моего сна) - 
+As - в то время когда (я ем _ я гуляю) - Time
+Tonight - сегодня вечером - Time
+Have read - прочитать - 
+Close - закрыть - Place
+Eyes - глаза - 
+Will it last for - это будет длиться ? - 
+The end - конец - 
+Run away - убегай - 
+Event - событие - Place
+Forever - вечно - Time
+Available - доступен - 
+Threat - угроза - 
+Mention - упоминать - 
+Impress - впечатлять - 
+Express - выразят, выскажут - 
+Guess - отгадать - 
+Criminal - преступник - Work
+Belong - принадлежать - 
+Aunt - тетка - Home
+Listen to - слышать кого - 
+Uncle - дядя - Home
+Second - секунда - Time
+Age - возраст - Time
+Bird - птица - 
+Marriage - свадьба - Place
+Party - вечеринка - Place
+Don't freak out - не паникуй - 
+No Biggie - не страшно - Phrase
+Sleep on it - обдумать еще раз - Phrase
+Piss me off - вывести из себя - Phrase
+You don't say - не может быть - Phrase
+Low blow - удар ниже пояса - Phrase
+Husband - муж - Home
+Wife - жена - Home
+Green - зелёный - 
+Birth - рождение - Home
+Birthday - день рождения - Home
+Play - играть - Home
+For years - годами - Time
+About - (говорить) про - 
+daughter - дочка - Home
+Son - сын - Home
+Watch your mouth - следи за словами - Phrase
+Zip it - закрой рот - Phrase
+Holy crap - чёрт возьми - Phrase
+Fair - ярмарок - Place
+a Bit - немного - 
+Family - семья - Home
+Beer - пиво - 
+Bear - медведь - 
+Correct - правильный - 
+Correctly - правильно - 
+Free - (быть) свободным - 
+Cost - стоить (глагол) - 
+Point at - указать на - 
+last for about - (это будет) длится около - Phrase
+Zoo - зоопарк - Place
+The day after tomorrow - послезавтра - Time
+Inform - информировать - 
+Assistant - ассистент - Work
+Easy - легко - 
+Possible - возможно - 
+In The end - в конце - Phrase
+at the end of the meeting - в конце встречи - Phrase
+In the beginning - в начале - Phrase
+at the beginning of the year - в конце этого года - Phrase
+Financial - финансовый - Work
+Get dark - темнеет - Weather
+Have - иметь - 
+Main - главный - Work
+Check - проверить - 
+Sign - подписать - Work
+Commercial - коммерческий - Work
+Potential - потенциальный - Work
+I'm interested in it - я заинтересован в этом - Phrase
+Miss - соскучиться (за кем - Home
+Attitude to - отношение - 
+Cook - готовить еду - Home
+Report - отчет - Work
+Meat - мясо - Home
+See you tomorrow - увидимся завтра - Phrase
+Tell - сказать (ей) - 
+Speak - говорить - 
+Take off - снять (одежду) - clothes
+Take on - одеть (шапку) - clothes
+cat - кот - Home
+train - тренировка - Home
+pronunciation - произношение - studies
+without - без - 
+pass - сдать (тест) - studies
+ok - окей - 
+police - полиция - Work
+catch - поймать - 
+Prepare for - подготовиться к - studies
+Go Shopping - ходить за покупками - Phrase
+communicate - общаться - 
+app - приложение - 
+admire - восхищаться - 
+water - вода - Place
+river - река - Place
+sea - море - Place
+rest - отдых - Place
+map - карта - Place
+visa - виза - 
+tent - палатка - Place
+bus - автобус - Place
+go - идти - 
+run - бежать - 
+car - машина - 
+think - думать - 
+Control - контролирую - 
+Salary - зарплата - 
+Advertising - реклама - Work
+Data - данные - Work
+Polite - вежливый - 
+Impolite - невежливый - 
+Library - библиотека - studies
+constant - постоянный - 
+heart - сердце - Home
+at first - сначала - 
+chief - начальник - Work
+bloody - кровавый - 
+bruh - братан - Home
+explain - объясни - 
+waterfall - водопад - Place
+ocean - океан - Place
+beach - пляж - Place
+taxi - такси - 
+ship - корабль - Place
+Desk - письменный стол - Work
+Condition - условия - 
+Explanation - объяснения - 
+The worst - самый худший - 
+Talk - разговаривать - 
+Convenient - подходящий - 
+Area - область, район - Place
+Clear - ясно понятно - 
+Final - финальное - 
+Adult - взрослый - Home
+Grown Up - взрослый - Home
+Laugh at - смеются над - Home
+Picture - картина, рисунок - Home
+Crazy - сумасшедший - 
+Mad - сумасшедший - 
+I'll - болен - Home
+Chair - стул - Home
+Armchair - кресло - Work
+Towards - (бегут) в направлении (нас) - 
+Take - брать, принять - 
+Employee - работник - Work
+Worker - рабочий - Work
+Often - часто - 
+Look at - посмотри на (него) - 
+Prison - тюрьма - Place
+Department - отдел - Place
+Border - граница - Place
+Tower - башня - Place
+North - север - Place
+Island - остров - Place
+Avenue - проспект - Place
+Road - дорога - Place
+Inside - изнутри, внутри - Place
+Town - город, квартал - Place
+City - город - Place
+Route - маршрут - Place
+Egg - яйцо - Home
+Castle - замок - Place
+Ground - земля - Place
+In general - в основном - Phrase
+always the same - всегда одно и тоже - Phrase
+i mean - я имею в виду - Phrase
+Each other - друг друга - Phrase
+On time - вовремя - Phrase
+Write it down - записывать что то - Phrase
+Perfectly realize - прекрасно осознавать - Phrase
+Raise - растить - 
+Question mark - вопросительный знак - 
+Property - недвижимость - Place
+In front - перед (собакой) - Place
+On top - сверху - Place
+jug - кувшин - Home
+Advertisement - рекламное объявление - youtube
+Phrase - фраза - youtube
+Criticize - критикует - youtube
+Fat - толстый - youtube
+Comfortable - удобное - youtube
+Table - стол - youtube
+Joke - шутка - youtube
+Furniture - мебель - youtube
+Elder - старше - youtube
+Delicious - очень вкусно - youtube
+Celebrate - праздновать - youtube
+Frighten - пугает - youtube
+Separately - раздельно - youtube
+Travel - путешествовать - youtube
+Swim - плавать - youtube
+Choice - выбор - 
+Clean - чистый - first
+Join - присоединится - first
+Regions - районы - Place
+flee - спасаться бегством - Phrase
+nasty weather - неприятная погода - Phrase
+Compete - соревноваться - youtube
+Reply - ответ (редко) - youtube
+Dream - мечта - youtube
+Coast - стоить (глагол) - youtube
+Alone - (живёт) сама - youtube
+Tasty - вкусно - youtube
+be able - смогу (будущее) - youtube
+Higher - выше - 
+Real - настоящая - first
+Start - начало (часто) - first
+Modern - современный - first
+Familiar - знакомо - Home
+Legal - законный - Work
+Religious - верующая - duolingo
+Friendly - дружелюбный - duolingo
+Floor - пол - Home
+Color - цвет - duolingo
+Workers - работники - Work
+Artist - художник - Work
+Judge - судья - Work
+Career - карьера - Work
+Will finish doing - закончит делать - phrase
+Garden - сад - place
+West Coast - западное побережье - place
+Farm - ферма - place
+It's just a mouse - это просто мышь - phrase
+Go away - уйди - phrase
+At least - принаймні - phrase
+Pass me - передай мне - phrase
+Capital - столица - Place
+it seems to be - это кажется - Phrase
+Waste of time - потеря времени - Phrase
+Inconvenient - неудобно (время) - youtube
+Disease - болезнь (тяжелая) - youtube
+Illness - болезнь (простуда) - youtube
+Behaviour - поведение - youtube
+Younger - младший (брат) - youtube
+Normal - обычный - first
+Come back - вернуться (два слова) - first
+Stage - стадия - first
+Opposite - противоположные - first
+Local - местный - Place
+Serious - серьезный - duolingo
+Community - сообщество - duolingo
+The staff - сотрудники - Work
+Guard - охранник - Work
+Produce - производить - Work
+Will Continue doing - продолжить делать - phrase
+Huge - огромный - youtube
+Stay - остаться - youtube
+Church - церковь - place
+Market - рынок - place
+Pass by - проходят мимо - phrase
+Corner - перекресток - place
+Walk into - зайти внутрь - phrase
+Experience - опыт - youtube
+Return - вернуться (одно слово) - Work
+Manage - уметь (управлять) - Work
+tsunami - цунами - Travel
+ticket - билет - Travel
+Waiter - официант - Travel
+Waitress - официантка - Travel
+Summer - лето - Time
+Spring - весна - Time
+Winter - Зима - Time
+Autumn - Осень - Time
+Quickly - быстро - Time
+Slowly - медленно - Time
+Morning - утро - Time
+Today - сегодня - Time
+Get a job - получить работу - Phrase
+In a year - (выучить) за год - Phrase
+Already - уже - duolingo
+Fresh - свежий - Food
+Fruit - фрукты - Food
+Vegetables - овощи - Food
+Letter - письмо - 
+Will Start doing - начать делать - phrase
+Valley - долина - place
+Front - перед (домом) - place
+Recent - свежая - 
+Begin - начало (формально) - first
+Living - живой - first
+Independent of - независимая от, самостоятельный - first
+Responsible - ответственный - Work
+Lawyer - юрист - Work
+lake - озеро - Travel
+Before - перед - Time
+Evening - вечер - Time
+Tomorrow - завтра - Time
+What time - в какое время - Time
+Bring - приносить - 
+Just in time - как раз вовремя - Phrase
+Neither me nor yours - не моя и не твоя - Phrase
+Careful - осторожно - youtube
+Everywhere - везде - youtube
+Cheaply - дешево - 
+Achievement - достижение - 
+Send - отправить - 
+Special - особенный - duolingo
+Yesterday - вчера - Time
+How often - как часто - Time
+Get up - вставать - Time
+Late - поздно - Time
+Right now - прямо сейчас - Time
+Between - между - Time
+On Tuesday - во вторник - Time
+In August - в августе - Time
+Monday - понедельник - Time
+Tuesday - вторник - Time
+Wednesday - среда - Time
+Thursday - четверг - Time
+Friday - пятница - Time
+Sunday - воскресенье - Time
+January - січень - Time
+February - лютий - Time
+March - березень - Time
+Resolve the conflict - решить конфликт - Phrase
+I feel sorry for the boy - мне жаль этого парня - Phrase
+Carefully - осторожнее - youtube
+Tremendous - огромный - youtube
+Continue doing - продолжить делать - 
+Anywhere - в любом месте - 
+Enough - хватит - youtube
+Will be able - смогу (будущее) - 
+Start doing - начать делать - 
+Amazing - восхитительно - 
+Nowhere - нигде - 
+Keep - сохранить - 
+Earn - заработать - youtube
+By profession - по профессии - 
+Go on - продолжать - phrase
+Square - площадь - place
+keep in touch - оставаться на связи - Phrase
+Frequent - часто происходит (прецедент) - first
+owe them - Должен им - Work
+gloomy - пасмурный - Weather
+Present day - сегодня - Time
+Go to bed - ложиться спать - Time
+On Wednesdays - по средам - Time
+April - квітень - Time
+May - травень - Time
+June - червень - Time
+July - липень - Time
+August - серпень - Time
+September - вересень - Time
+November - листопад - Time
+December - грудень - Time
+Month - месяц - Time
+Year - год - Time
+Decade - 10 летие - Time
+Century - 100 летие - Time
+generation - поколение - Time
+Look it up in a dictionary - найти это в словаре - Phrase
+Is it frequent - это бывает часто? - Phrase
+On a regular basis - на регулярной основе (регулярно) - Phrase
+He is away - он отсутствует (уехал далеко) - Phrase
+Bilingual - двуязычный (знает два языка) - studies
+Do The Shopping - делать покупки - Home
+Much - много - Home
+Flat - квартира - Home
+apartment - квартира - Home
+Thoroughly - тщательно - youtube
+Wait - жди - Time
+October - жовтень - Time
+Hour - час - Time
+Week - неделя - Time
+I busy next week - я занят на следующей неделе - Time
+Keen on - увлекатся - youtube
+Take place - проходит (иметь место) - Phrase
+He is out - его нет дома (но он рядом) - Phrase
+Siblings - братья и сёстры (одно слово) - Family
+One more time - еще раз - 
+again - еще раз - 
+Elementary - элементарный - studies
+Educated - образованный - studies
+Native speaker - носитель языка - studies
+Finish it - закончить это - 
+Prefers - предпочитает - 
+Enjoy - наслаждаться(сильно нравиться) - 
+Surprising - удивительно - 
+Other - других(множина) - 
+Necessary - необходимо - 
+Loud - громко - 
+Subject - предмет - 
+Finish - закончить - 
+After - после - 
+Adapt - адаптация - 
+Fond of - обожаю - 
+Meaning - значение - studies
+Mean - означает (глагол) - studies
+Can - могу - 
+puddle - лужа - Travel
+Nowadays - настоящее время - Time
+Saturday - суббота - Time
+Could - могли (прошедшее) - 
+A lot - много - 
+Unusual - необычно - 
+Behave - ведёт себя - 
+Simplicity - простота - studies
+Expression - выражение - studies
+Must - должен - 
+Should - следует - 
+Long - длинный - 
+Short - короткий - 
+Rude - грубый - 
+Sentence - речення - studies
+Thin - тощий - 
+Slim - стройный - 
+Sell - продавать - Work
+Forget - забывать - studies
+Remember - помнить - studies
+The most interesting - самый интересный - 
+Light - светло, свет - 
+I - am - 
+Right - прав - 
+Here - здесь - 
+There - там - 
+Kind - Добрый - Home
+Rich - богатый - Work
+Poor - бедный - Home
+calm down - успокоиться - Phrase
+Earlier - ранее - Time
+catch up - догонять(два слова) - youtube
+Exercise - упражнение - studies
+That - (i known) что - 
+Advanced - продвинутый - studies
+Beginner - новичок - studies
+Attack - атаковать - 
+Foreign - иностранный - studies
+Buy - покупать - Work
+Divorced - разведен - Home
+Cry - плакать, слёзы - Home
+Certain - уверен - 
+Lazy - ленивые - Home
+Little - мало - 
+Dirty - грязная - Home
+High - высокий - 
+Low - низкий - 
+Expensive - дорогой - Home
+Cold - холодно - Weather
+Warm - тепло - Weather
+Hot - жарко - Weather
+Impossible - невозможно - 
+Simple - простой - studies
+Hard working - трудолюбивый - Work
+Busy - занят - Work
+Windy - ветреный - Weather
+Memory - память - Work
+Single - один - Home
+Full of - полон чего - 
+Angry - злой - Work
+Sad - грустный - Home
+Tired - устал - Work
+Dark - темно - Weather
+Trust - доверяю - Work
+Far - Далеко - 
+Near - близко - 
+Tall - высокий - 
+Lucky - везучий - 
+Own - собственная - Home
+Funny - забавно - Home
+Only - только (он) - 
+Pocket - карман - clothes
+Against - против - Work
+Prepare - подготовится - studies
+Might - возможно (modal) - 
+Bad - плохо - Work
+Then - тогда (почему) - 
+Cheap - дешевый - Home
+Wise - мудрый - studies
+Ineffective - неэффективно - Work
+Stupid - глупый - Work
+Wrong - не прав - Work
+Trousers - брюки - clothes
+First - первое - Time
+Currency - валюта - 
+Current - текущий (курс) - 
+Wish - желаю - 
+Trip - поездка - Work
+Kitchen - кухня - Place
+Glad - рада (видеть) - 
+Article - статья - Work
+multiplication - умножение - Time
+Famous - известный - Work
+Division - ділення - Time
+Only once in a year - только раз в год? - 
+The same - тоже (два слова) - 
+Dry - сушить - 
+Other side - другая сторона - 
+Intermediate - средний - studies
+Worse - хуже - 
+Clever - умный - Work
+Feeling - чувство - Home
+Even - даже (он) - 
+Pair - пара - 
+Third - третье - Time
+manner - манера - 
+Somebody - кто нибудь - 
+Bathroom - ванная - Place
+Dangerous - опасно - Work
+Opinion - мнение - Work
+Yard - двор - Home
+Easily - спокойно, легко - 
+Only once - только раз - 
+Also - тоже (4 буквы, одно слово) - 
+Too - тоже (3 буквы) - 
+Whole night - всю ночь - 
+Issue - проблема - 
+However - зато, про те - 
+Exactly - точно! Конкретнее - 
+Obviously - очевидно - studies
+Young - молодой - 
+Fourth - четвёртое - Time
+On a business trip - в командировке - Work
+Everybody - все body - 
+Passion - страсть - 
+Nobody - ніхто - 
+Truth - правда - Work
+False - не правда - Work
+Early - рано - Time
+Spend - проводят - Home
+Together - вместе - Home
+What kind of - какого рода - Phrase
+What - что - 
+Where - где - 
+Private - приватно - 
+Adapt to - адаптироваться к - preposition
+Depend on - зависит от - preposition
+Pay for - платить за - preposition
+Translate from into - переводить с на - preposition
+Tired of - устал от - preposition
+Wonderful - Замечательный, чудесный - Home
+Someone - кто то - 
+Satisfied with - удовлетворён с - pretext
+Multiply - умножить - Time
+Brilliant - блестящий - studies
+As soon as possible - как можно быстрее - Time
+Useless - бесполезный - Work
+Important - важный - Work
+An Important - не важный - Work
+When - когда - 
+Why - почему - 
+Who - кто - 
+Whose - чей, чья - 
+How - как - 
+How many - Сколько (друзей) - 
+React to - реагировать на - preposition
+Marry - выходить за - preposition
+Smile at - улыбается над - preposition
+Spend on - тратить на - preposition
+Bad at - плохо от - preposition
+Evidence - доказательство - 
+Married - женат - Home
+On Holiday - отпуск - Work
+Afraid of - боятся от - pretext
+Useful - полезный - Work
+How much - Сколько (денег) - 
+Refuse - отказываться - Home
+Worry - беспокоить - Home
+quantity - количество - Work
+give - давать - 
+Rains - дощ - Weather
+Share - разделять - 
+Get - добираться - Home
+Answer - ответ - 
+Great - огромное (удовольствие) - 
+Order - приказывать - Work
+Hard - усердно - Work
+Good at - хорошо от - preposition
+Activity - деятельность - 
+Purpose - цель (7 букв) - 
+Just in case - на всякий случай - 
+Powerful - мощный - 
+Difficult - тяжелый (уровень) - studies
+Excellent - отличный - studies
+Depends on - зависит от - studies
+Leave - уходить - Home
+Unknown - неизвестно - Work
+Pleasure - удовольствие - Home
+Complain - жалуется - Work
+Compare - сравнить - Work
+But - но - 
+Range - диапазон - Work
+Different - другой, разные - 
+Thing - вещь - Home
+Improve - улучшить - studies
+Better - лучше - studies
+Fluently - свободно - studies
+abroad - за границу - Travel
+Lend - давать в долг - Work
+Belong to - принадлежать (предлог) - preposition
+Grateful to for - благодарен __(кому) за - preposition
+Proud of - гордится за - preposition
+Heavy - тяжелый (груз) - 
+Objective - цель, задача, обьектив - 
+Equipment - оборудование - 
+Length - длина - Work
+Point of view - точка зрения - Phrase
+Disagree - не соглашаться - Work
+Match more - намного больше - 
+Inspired - вдохновлять - 
+Promise - обещать - Home
+Append - добавить - Work
+Rightly - правильно (r) - studies
+Fast - быстро - 
+Another - другой, другая - 
+The Costs - издержки, расходы - Work
+Think it over - обдумать это - Phrase
+Grateful - благодарным - 
+Reinvent - переизобрести - Work
+Invent - изобретать - Work
+Wheel - колесо - Home
+Calculate - рассчитать - Work
+Forgive - простить - 
+Hurry up - торопиться - 
+Somehow - как то - 
+Health - здоровье - Home
+Confuse - перепутать - 
+Sales - продажи - Work

@@ -1,0 +1,189 @@
+1. Создать C:\Users\Mvmir\go\src\github.com\Mvmir\go2\Slovarik
+
+2. go mod init 
+    . C:\Users\Mvmir\go\src\github.com\Mvmir\go2\Slovarik>
+    Доступ будет не только локально
+    ( если есть каталог cmd ТО -> /cd Slovarik
+    C:\Users\Mvmir\go\src\github.com\Mvmir\go2\StandartWebServer>go mod init github.com/Mvmir/go2/Slovarik
+2.1 При копировании умирают пути, переустановить связи библиотек
+   /////Ps 
+               go get -u github.com/gorilla/mux
+               go get -u github.com/joho/godotenv
+    Мои пакеты тоже исправить путь
+               github.com/Mvmir/go2/
+
+```
+usefull
+Стандарты составления пакетов и вообще
+ https://github.com/golang-standards/project-layout
+
+3. main.go
+C:\Users\Mvmir\go\src\github.com\Mvmir\go2\StandartWebServer\cmd\api
+create main.go
+
+4. (cmd) build struct command
+C:\Users\Mvmir\go\src\github.com\Mvmir\go2\StandartWebServer>go build -v ./cmd/api/
+(создаст api.exe)
+(cmd) run api.exe
+      api
+C:\Users\Mvmir\go\src\github.com\Mvmir\go2\slovarik>api
+
+5. api.go
+C:\Users\Mvmir\go\src\github.com\Mvmir\go2\slovarik\internal\app\api
+create api.go
+
+6. Создать папку configs and files .env , api.toml
+
+6.1 скачать пакет томл
+C:\Users\Mvmir\go\src\github.com\Mvmir\go2\slovarik>go get github.com/BurntSushi/toml
+
+C:\Users\Mvmir\go\src\github.com\Mvmir\go2\slovarik>go get -u github.com/BurntSushi/toml
+где -u обновить версию пакета томл
+
+6.1.1 Go build 
+C:\Users\Mvmir\go\src\github.com\Mvmir\go2\slovarik>go build -v ./cmd/api/
+
+6.1.2 run
+C:\Users\Mvmir\go\src\github.com\Mvmir\go2\slovarik>api
+
+6.2 flag.Stringvar - настройки конфиг
+flag.Parse() запускает выполнение этих настроек
+6.2 при запуске передать настройки с файла томл
+
+C:\Users\Mvmir\go\src\github.com\Mvmir\go2\slovarik>api -path configs/api.toml
+
+C:\Users\Mvmir\go\src\github.com\Mvmir\go2\slovarik>api -help
+
+C:\Users\Mvmir\go\src\github.com\Mvmir\go2\slovarik\cmd\api
+//////////////////Сменить каталог cmd
+CD C:\Users\Mvmir\go\src\github.com\Mvmir\go2\slovarik
+//////////
+
+7. Как конфиги передавать?
+Хочется запускать :
+```
+api.exe -path configs/api.toml
+```
+Установить библиотеку для отправки логов на разные серверы
+C:\Users\Mvmir\go\src\github.com\Mvmir\go2\slovarik>go get -u github.com/sirupsen/logrus
+--Добавить api logger logrus
+api.toml - Можно менять порт и уровень логирования ошибок
+
+### Шаг 8. Конфигурация http сервера
+Библиотека роутера
+C:\Users\Mvmir\go\src\github.com\Mvmir\go2\slovarik>go get -u github.com/gorilla/mux
+
+http://localhost:8080/
+Hello! This is rest api!
+
+
+go get -u github.com/gorilla/mux
+```
+
+### В дз на потом
+Установить makefile +
+gnuwin32.sourceforge.net/packages/make.htm
+Прописать в puth путь до make.exe
+```
+Добавить в ```makefile```
+* go build -v ./cmd/api/
++
+
+Хочется, чтобы была возможность запускать наше приложение как с ```.toml``` файлом, так и с ```.env```
+Добавить в код необходимые блоки, для того, чтобы можно было запускать приложение следующими командами:
+makefile
+slovarik_run:
+	api 
+
+build:
+	go build -v ./cmd/api/
+
+slovarik_path_toml:
+	api.exe -pathtoml configs/api.toml
+
+slovarik_path_env:
+	api.exe -pathenv configs/.env
+
+---------------------------------------------ServerAndDB----migration--------------------------------------------
+1.Create C:\Users\Mvmir\go\src\github.com\Mvmir\go2\ServerAndDB
+
+1.1 Copy All StandartWebSerwer to ServerAndDB
+
+1.2 Open vscode go.mod - corected
+    module github.com/Mvmir/go2/ServerAndDB
+
+           2.1 Create storage/storage.go
+           2.2 Create storage/config.go
+           2.3 Create storage/api.go
+
+3. скачать библиотеку pstgresql
+C:\Users\Mvmir\go\src\github.com\Mvmir\go2\ServerAndDB>go get -u github.com/lib/pq
+
+3.1  проверить библиотеку постгрес
+     storage.go
+     заглушеный импорт
+    _"github.com/lib/pq
+
+3.2 Open pgAdmin
+    create db restapi
+
+Исправить в маин аддрес пакета
+"github.com/Mvmir/go2/ServerAndDB/internal/app/api"
+
+порт sql 5433
+Собрать
+C:\Users\Mvmir\go\src\github.com\Mvmir\go2\ServerAndDB>go build -v ./cmd/api/
+
+запустить
+C:\Users\Mvmir\go\src\github.com\Mvmir\go2\ServerAndDB>api
+
+4) Instal Scoop
+scoop.sh
+поиск PowerShell, run 
+4.1.Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+ //4.2. (does`nt work) 2.Invoke-Expression (New-Object System.Net.WebClient).DownloadString(`https://get.scoop.sh`)
+scoop.sh
+4.2.PS C:\Users\Mvmir> irm get.scoop.sh | iex                                                                              
+                     >> # You can use proxies if you have network trouble in accessing GitHub, e.g.                                         
+                     >> irm get.scoop.sh -Proxy 'http://<ip:port>' | iex
+4.3.cmd
+  C:\Users\Mvmir\go\src\github.com\Mvmir\go2\ServerAndDB>scoop install migrate
+4. Первичная миграция (conspect md)
+Для начала установим ```scoop```
+* Открываем PowerShell: ```Set-ExecutionPolicy RemoteSigned -scope CurrentUser``` и ```Invoke-Expression (New-Object System.Net.WebClient).DownloadString('https://get.scoop.sh')```
+
+* Для линукса/мака : https://github.com/golang-migrate/migrate/blob/master/cmd/migrate/README.md
+
+После установки ```scoop``` выполним: ```scoop install migrate```
+
+### 5.1 Создание миграционного репозитория (conspect.md)
+В данном репозитории будут находится up/down пары sql миграционных запросов к бд.
+```
+migrate create -ext sql -dir migrations UsersCreationMigration
+```
+5.1. Создание миграционного репозитория
+migrate create -ext sql -dir migrations UsersCreationMigration
+migrate - миграция
+        create - создать
+               -ext sql - расширение
+                        -dir migrations - где хранить миграционные скрипты (директория)
+                                        UsersCreationMigration - коментарий
+cmd
+C:\Users\Mvmir\go\src\github.com\Mvmir\go2\ServerAndDB>migrate create -ext sql -dir migrations UsersCreationMigration
+Команда создаёт папку с двумя файлами ...up.sql (update) & ...down.sql (откат)
+
+### 5.2 Заполняем up/down sql файлов
+См. ```migrations/....up.sql``` и ```migrations/...down.sql```
+
+### Шаг 5.3 Применить миграцию
+
+cmd run
+migrate -path migrations -database "postgres://localhost:5433/words?sslmode=disable&user=postgres&password=1" up
+migrate - Миграция
+        -path migrations 
+                          -database "postgres://localhost:5433/restapi?sslmode=disable&
+                                   user=postgres&
+                                        password=1" 
+                                           up  - (Update)
+migrate -path migrations -database "postgres://localhost:5433/words?sslmode=disable&user=postgres&password=1" down
+down - запускает второй файл с командой DROP TABLE users

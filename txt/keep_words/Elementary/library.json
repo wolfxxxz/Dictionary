@@ -1,0 +1,3009 @@
+{
+   "Words": [
+      {
+         "english": "nature",
+         "russian": "природа",
+         "theme": "nature"
+      },
+      {
+         "english": "flower",
+         "russian": "цветок",
+         "theme": "nature"
+      },
+      {
+         "english": "water",
+         "russian": "вода",
+         "theme": "nature"
+      },
+      {
+         "english": "air",
+         "russian": "воздух",
+         "theme": "nature"
+      },
+      {
+         "english": "life",
+         "russian": "жизнь",
+         "theme": "nature"
+      },
+      {
+         "english": "death",
+         "russian": "смерть",
+         "theme": "nature"
+      },
+      {
+         "english": "land",
+         "russian": "земля",
+         "theme": "nature"
+      },
+      {
+         "english": "star",
+         "russian": "звезда",
+         "theme": "nature"
+      },
+      {
+         "english": "grass",
+         "russian": "трава",
+         "theme": "nature"
+      },
+      {
+         "english": "tree",
+         "russian": "дерево",
+         "theme": "nature"
+      },
+      {
+         "english": "gold",
+         "russian": "золото",
+         "theme": "nature"
+      },
+      {
+         "english": "silver",
+         "russian": "серебро",
+         "theme": "nature"
+      },
+      {
+         "english": "sound",
+         "russian": "звук",
+         "theme": "nature"
+      },
+      {
+         "english": "fire",
+         "russian": "огонь",
+         "theme": "nature"
+      },
+      {
+         "english": "sky",
+         "russian": "небо",
+         "theme": "nature"
+      },
+      {
+         "english": "ground",
+         "russian": "земля",
+         "theme": "nature"
+      },
+      {
+         "english": "sun",
+         "russian": "солнце",
+         "theme": "nature"
+      },
+      {
+         "english": "rain",
+         "russian": "дождь",
+         "theme": "nature"
+      },
+      {
+         "english": "moon",
+         "russian": "луна",
+         "theme": "nature"
+      },
+      {
+         "english": "stone",
+         "russian": "камень",
+         "theme": "nature"
+      },
+      {
+         "english": "wind",
+         "russian": "ветер",
+         "theme": "nature"
+      },
+      {
+         "english": "smoke",
+         "russian": "дым, курить",
+         "theme": "nature"
+      },
+      {
+         "english": "river",
+         "russian": "река",
+         "theme": "nature"
+      },
+      {
+         "english": "sea",
+         "russian": "море",
+         "theme": "nature"
+      },
+      {
+         "english": "lake",
+         "russian": "озеро",
+         "theme": "nature"
+      },
+      {
+         "english": "ocean",
+         "russian": "океан",
+         "theme": "nature"
+      },
+      {
+         "english": "beach",
+         "russian": "пляж",
+         "theme": "nature"
+      },
+      {
+         "english": "forest",
+         "russian": "лес",
+         "theme": "nature"
+      },
+      {
+         "english": "ice",
+         "russian": "лёд",
+         "theme": "nature"
+      },
+      {
+         "english": "color",
+         "russian": "цвет",
+         "theme": "nature"
+      },
+      {
+         "english": "weather",
+         "russian": "погода",
+         "theme": "nature"
+      },
+      {
+         "english": "snow",
+         "russian": "снег",
+         "theme": "nature"
+      },
+      {
+         "english": "animal",
+         "russian": "животное",
+         "theme": "nature"
+      },
+      {
+         "english": "bird",
+         "russian": "птица",
+         "theme": "nature"
+      },
+      {
+         "english": "egg",
+         "russian": "яйцо",
+         "theme": "nature"
+      },
+      {
+         "english": "dog",
+         "russian": "собака",
+         "theme": "nature"
+      },
+      {
+         "english": "cat",
+         "russian": "кошка",
+         "theme": "nature"
+      },
+      {
+         "english": "bear",
+         "russian": "медведь",
+         "theme": "nature"
+      },
+      {
+         "english": "wolf",
+         "russian": "волк",
+         "theme": "nature"
+      },
+      {
+         "english": "fish",
+         "russian": "рыба",
+         "theme": "nature"
+      },
+      {
+         "english": "dolphin",
+         "russian": "дельфин",
+         "theme": "nature"
+      },
+      {
+         "english": "camel",
+         "russian": "верблюд",
+         "theme": "nature"
+      },
+      {
+         "english": "horse",
+         "russian": "лошадь",
+         "theme": "nature"
+      },
+      {
+         "english": "chicken",
+         "russian": "курица, цыплёнок",
+         "theme": "nature"
+      },
+      {
+         "english": "eagle",
+         "russian": "орёл",
+         "theme": "nature"
+      },
+      {
+         "english": "cow",
+         "russian": "корова",
+         "theme": "nature"
+      },
+      {
+         "english": "duck",
+         "russian": "утка",
+         "theme": "nature"
+      },
+      {
+         "english": "goose",
+         "russian": "гусь",
+         "theme": "nature"
+      },
+      {
+         "english": "mouse",
+         "russian": "мышь",
+         "theme": "nature"
+      },
+      {
+         "english": "pig",
+         "russian": "свинья",
+         "theme": "nature"
+      },
+      {
+         "english": "rat",
+         "russian": "крыса",
+         "theme": "nature"
+      },
+      {
+         "english": "bull",
+         "russian": "бык",
+         "theme": "nature"
+      },
+      {
+         "english": "lion",
+         "russian": "лев",
+         "theme": "nature"
+      },
+      {
+         "english": "bee",
+         "russian": "пчела",
+         "theme": "nature"
+      },
+      {
+         "english": "spider",
+         "russian": "паук",
+         "theme": "nature"
+      },
+      {
+         "english": "elephant",
+         "russian": "слон",
+         "theme": "nature"
+      },
+      {
+         "english": "monkey",
+         "russian": "обезьяна",
+         "theme": "nature"
+      },
+      {
+         "english": "tiger",
+         "russian": "тигр",
+         "theme": "nature"
+      },
+      {
+         "english": "fox",
+         "russian": "лиса",
+         "theme": "nature"
+      },
+      {
+         "english": "shit",
+         "russian": "дерьмо",
+         "theme": "nature"
+      },
+      {
+         "english": "people",
+         "russian": "люди",
+         "theme": "nature"
+      },
+      {
+         "english": "man",
+         "russian": "человек, мужик",
+         "theme": "nature"
+      },
+      {
+         "english": "woman",
+         "russian": "женщина",
+         "theme": "nature"
+      },
+      {
+         "english": "child",
+         "russian": "ребёнок",
+         "theme": "nature"
+      },
+      {
+         "english": "person",
+         "russian": "человек",
+         "theme": "nature"
+      },
+      {
+         "english": "family",
+         "russian": "семья",
+         "theme": "nature"
+      },
+      {
+         "english": "mother",
+         "russian": "мать",
+         "theme": "nature"
+      },
+      {
+         "english": "father",
+         "russian": "отец",
+         "theme": "nature"
+      },
+      {
+         "english": "parent",
+         "russian": "родитель",
+         "theme": "nature"
+      },
+      {
+         "english": "girl",
+         "russian": "девочка",
+         "theme": "nature"
+      },
+      {
+         "english": "boy",
+         "russian": "мальчик",
+         "theme": "nature"
+      },
+      {
+         "english": "enemy",
+         "russian": "враг",
+         "theme": "nature"
+      },
+      {
+         "english": "friend",
+         "russian": "друг",
+         "theme": "nature"
+      },
+      {
+         "english": "wife",
+         "russian": "жена",
+         "theme": "nature"
+      },
+      {
+         "english": "dad",
+         "russian": "папа",
+         "theme": "nature"
+      },
+      {
+         "english": "mom",
+         "russian": "мама",
+         "theme": "nature"
+      },
+      {
+         "english": "son",
+         "russian": "сын",
+         "theme": "nature"
+      },
+      {
+         "english": "baby",
+         "russian": "(babe) крошка",
+         "theme": "nature"
+      },
+      {
+         "english": "brother",
+         "russian": "брат",
+         "theme": "nature"
+      },
+      {
+         "english": "sister",
+         "russian": "сестра",
+         "theme": "nature"
+      },
+      {
+         "english": "daughter",
+         "russian": "дочь",
+         "theme": "nature"
+      },
+      {
+         "english": "husband",
+         "russian": "муж",
+         "theme": "nature"
+      },
+      {
+         "english": "teacher",
+         "russian": "учитель",
+         "theme": "nature"
+      },
+      {
+         "english": "soldier",
+         "russian": "солдат",
+         "theme": "nature"
+      },
+      {
+         "english": "engineer",
+         "russian": "инженер",
+         "theme": "nature"
+      },
+      {
+         "english": "policeman",
+         "russian": "полицейский",
+         "theme": "nature"
+      },
+      {
+         "english": "guy",
+         "russian": "парень, чувак",
+         "theme": "nature"
+      },
+      {
+         "english": "girlfriend",
+         "russian": "девушка (его)",
+         "theme": "nature"
+      },
+      {
+         "english": "boyfriend",
+         "russian": "парень (её)",
+         "theme": "nature"
+      },
+      {
+         "english": "sir",
+         "russian": "сэр",
+         "theme": "nature"
+      },
+      {
+         "english": "body",
+         "russian": "тело",
+         "theme": "body"
+      },
+      {
+         "english": "finger",
+         "russian": "палец",
+         "theme": "body"
+      },
+      {
+         "english": "hand",
+         "russian": "рука",
+         "theme": "body"
+      },
+      {
+         "english": "head",
+         "russian": "голова",
+         "theme": "body"
+      },
+      {
+         "english": "wing",
+         "russian": "крыло",
+         "theme": "body"
+      },
+      {
+         "english": "face",
+         "russian": "лицо",
+         "theme": "body"
+      },
+      {
+         "english": "brain",
+         "russian": "мозг",
+         "theme": "body"
+      },
+      {
+         "english": "eye",
+         "russian": "глаз",
+         "theme": "body"
+      },
+      {
+         "english": "nose",
+         "russian": "нос",
+         "theme": "body"
+      },
+      {
+         "english": "ear",
+         "russian": "ухо",
+         "theme": "body"
+      },
+      {
+         "english": "mouth",
+         "russian": "рот",
+         "theme": "body"
+      },
+      {
+         "english": "foot",
+         "russian": "нога",
+         "theme": "body"
+      },
+      {
+         "english": "heart",
+         "russian": "сердце",
+         "theme": "body"
+      },
+      {
+         "english": "soul",
+         "russian": "душа",
+         "theme": "body"
+      },
+      {
+         "english": "mind",
+         "russian": "разум",
+         "theme": "body"
+      },
+      {
+         "english": "voice",
+         "russian": "голос",
+         "theme": "body"
+      },
+      {
+         "english": "hair",
+         "russian": "волосы",
+         "theme": "body"
+      },
+      {
+         "english": "blood",
+         "russian": "кровь",
+         "theme": "body"
+      },
+      {
+         "english": "time",
+         "russian": "время",
+         "theme": "time"
+      },
+      {
+         "english": "year",
+         "russian": "год",
+         "theme": "time"
+      },
+      {
+         "english": "hour",
+         "russian": "час",
+         "theme": "time"
+      },
+      {
+         "english": "week",
+         "russian": "неделя",
+         "theme": "time"
+      },
+      {
+         "english": "month",
+         "russian": "месяц",
+         "theme": "time"
+      },
+      {
+         "english": "day",
+         "russian": "день",
+         "theme": "time"
+      },
+      {
+         "english": "evening",
+         "russian": "вечер",
+         "theme": "time"
+      },
+      {
+         "english": "night",
+         "russian": "ночь",
+         "theme": "time"
+      },
+      {
+         "english": "morning",
+         "russian": "утро",
+         "theme": "time"
+      },
+      {
+         "english": "January",
+         "russian": "январь",
+         "theme": "time"
+      },
+      {
+         "english": "February",
+         "russian": "февраль",
+         "theme": "time"
+      },
+      {
+         "english": "March",
+         "russian": "март",
+         "theme": "time"
+      },
+      {
+         "english": "April",
+         "russian": "апрель",
+         "theme": "time"
+      },
+      {
+         "english": "June",
+         "russian": "июнь",
+         "theme": "time"
+      },
+      {
+         "english": "July",
+         "russian": "июль",
+         "theme": "time"
+      },
+      {
+         "english": "August",
+         "russian": "август",
+         "theme": "time"
+      },
+      {
+         "english": "September",
+         "russian": "сентябрь",
+         "theme": "time"
+      },
+      {
+         "english": "October",
+         "russian": "октябрь",
+         "theme": "time"
+      },
+      {
+         "english": "November",
+         "russian": "ноябрь",
+         "theme": "time"
+      },
+      {
+         "english": "December",
+         "russian": "декабрь",
+         "theme": "time"
+      },
+      {
+         "english": "Monday",
+         "russian": "понедельник",
+         "theme": "time"
+      },
+      {
+         "english": "Tuesday",
+         "russian": "вторник",
+         "theme": "time"
+      },
+      {
+         "english": "Wednesday",
+         "russian": "среда",
+         "theme": "time"
+      },
+      {
+         "english": "Thursday",
+         "russian": "четверг",
+         "theme": "time"
+      },
+      {
+         "english": "Friday",
+         "russian": "пятница",
+         "theme": "time"
+      },
+      {
+         "english": "Saturday",
+         "russian": "суббота",
+         "theme": "time"
+      },
+      {
+         "english": "Sunday",
+         "russian": "воскресенье",
+         "theme": "time"
+      },
+      {
+         "english": "spring",
+         "russian": "весна",
+         "theme": "time"
+      },
+      {
+         "english": "summer",
+         "russian": "лето",
+         "theme": "time"
+      },
+      {
+         "english": "autumn",
+         "russian": "осень",
+         "theme": "time"
+      },
+      {
+         "english": "winter",
+         "russian": "зима",
+         "theme": "time"
+      },
+      {
+         "english": "thing",
+         "russian": "вещь",
+         "theme": "noun"
+      },
+      {
+         "english": "ring",
+         "russian": "кольцо",
+         "theme": "noun"
+      },
+      {
+         "english": "toy",
+         "russian": "игрушка",
+         "theme": "noun"
+      },
+      {
+         "english": "book",
+         "russian": "книга",
+         "theme": "noun"
+      },
+      {
+         "english": "textbook",
+         "russian": "учебник",
+         "theme": "noun"
+      },
+      {
+         "english": "notebook",
+         "russian": "тетрадь",
+         "theme": "noun"
+      },
+      {
+         "english": "page",
+         "russian": "страница",
+         "theme": "noun"
+      },
+      {
+         "english": "tale",
+         "russian": "сказка",
+         "theme": "noun"
+      },
+      {
+         "english": "button",
+         "russian": "кнопка",
+         "theme": "noun"
+      },
+      {
+         "english": "door",
+         "russian": "дверь",
+         "theme": "noun"
+      },
+      {
+         "english": "car",
+         "russian": "автомобиль",
+         "theme": "noun"
+      },
+      {
+         "english": "ship",
+         "russian": "корабль",
+         "theme": "noun"
+      },
+      {
+         "english": "bus",
+         "russian": "автобус",
+         "theme": "noun"
+      },
+      {
+         "english": "bike",
+         "russian": "мотоцикл",
+         "theme": "noun"
+      },
+      {
+         "english": "pen",
+         "russian": "ручка",
+         "theme": "noun"
+      },
+      {
+         "english": "pencil",
+         "russian": "карандаш",
+         "theme": "noun"
+      },
+      {
+         "english": "mirror",
+         "russian": "зеркало",
+         "theme": "noun"
+      },
+      {
+         "english": "news",
+         "russian": "новости",
+         "theme": "noun"
+      },
+      {
+         "english": "map",
+         "russian": "карта",
+         "theme": "noun"
+      },
+      {
+         "english": "bed",
+         "russian": "кровать",
+         "theme": "noun"
+      },
+      {
+         "english": "picture",
+         "russian": "картинка",
+         "theme": "noun"
+      },
+      {
+         "english": "table",
+         "russian": "стол",
+         "theme": "noun"
+      },
+      {
+         "english": "wall",
+         "russian": "стена",
+         "theme": "noun"
+      },
+      {
+         "english": "window",
+         "russian": "окно",
+         "theme": "noun"
+      },
+      {
+         "english": "box",
+         "russian": "коробка",
+         "theme": "noun"
+      },
+      {
+         "english": "present",
+         "russian": "подарок",
+         "theme": "noun"
+      },
+      {
+         "english": "ball",
+         "russian": "мяч",
+         "theme": "noun"
+      },
+      {
+         "english": "screen",
+         "russian": "экран",
+         "theme": "noun"
+      },
+      {
+         "english": "net",
+         "russian": "сеть",
+         "theme": "noun"
+      },
+      {
+         "english": "knife",
+         "russian": "нож",
+         "theme": "noun"
+      },
+      {
+         "english": "spoon",
+         "russian": "ложка",
+         "theme": "noun"
+      },
+      {
+         "english": "fork",
+         "russian": "вилка",
+         "theme": "noun"
+      },
+      {
+         "english": "cup",
+         "russian": "чашка",
+         "theme": "noun"
+      },
+      {
+         "english": "plate",
+         "russian": "тарелка",
+         "theme": "noun"
+      },
+      {
+         "english": "clock",
+         "russian": "часы",
+         "theme": "noun"
+      },
+      {
+         "english": "coin",
+         "russian": "монета",
+         "theme": "noun"
+      },
+      {
+         "english": "device",
+         "russian": "прибор",
+         "theme": "noun"
+      },
+      {
+         "english": "food",
+         "russian": "еда",
+         "theme": "food"
+      },
+      {
+         "english": "breakfast",
+         "russian": "завтрак",
+         "theme": "food"
+      },
+      {
+         "english": "lunch",
+         "russian": "обед",
+         "theme": "food"
+      },
+      {
+         "english": "dinner",
+         "russian": "ужин",
+         "theme": "food"
+      },
+      {
+         "english": "supper",
+         "russian": "поздний ужин",
+         "theme": "food"
+      },
+      {
+         "english": "bottle",
+         "russian": "бутылка",
+         "theme": "food"
+      },
+      {
+         "english": "milk",
+         "russian": "молоко",
+         "theme": "food"
+      },
+      {
+         "english": "meat",
+         "russian": "мясо",
+         "theme": "food"
+      },
+      {
+         "english": "sugar",
+         "russian": "сахар",
+         "theme": "food"
+      },
+      {
+         "english": "cake",
+         "russian": "пироженое",
+         "theme": "food"
+      },
+      {
+         "english": "cheese",
+         "russian": "сыр",
+         "theme": "food"
+      },
+      {
+         "english": "fruit",
+         "russian": "фрукт",
+         "theme": "food"
+      },
+      {
+         "english": "bread",
+         "russian": "хлеб",
+         "theme": "food"
+      },
+      {
+         "english": "tea",
+         "russian": "чай",
+         "theme": "food"
+      },
+      {
+         "english": "soup",
+         "russian": "суп",
+         "theme": "food"
+      },
+      {
+         "english": "pasta",
+         "russian": "макароны",
+         "theme": "food"
+      },
+      {
+         "english": "beer",
+         "russian": "пиво",
+         "theme": "food"
+      },
+      {
+         "english": "apple",
+         "russian": "яблоко",
+         "theme": "food"
+      },
+      {
+         "english": "lemon",
+         "russian": "лимон",
+         "theme": "food"
+      },
+      {
+         "english": "cherry",
+         "russian": "вишня",
+         "theme": "food"
+      },
+      {
+         "english": "juice",
+         "russian": "сок",
+         "theme": "food"
+      },
+      {
+         "english": "world",
+         "russian": "мир",
+         "theme": "noun"
+      },
+      {
+         "english": "country",
+         "russian": "страна",
+         "theme": "noun"
+      },
+      {
+         "english": "kingdom",
+         "russian": "королевство",
+         "theme": "noun"
+      },
+      {
+         "english": "capital",
+         "russian": "столица",
+         "theme": "noun"
+      },
+      {
+         "english": "city",
+         "russian": "город",
+         "theme": "noun"
+      },
+      {
+         "english": "place",
+         "russian": "место",
+         "theme": "noun"
+      },
+      {
+         "english": "school",
+         "russian": "школа",
+         "theme": "noun"
+      },
+      {
+         "english": "lesson",
+         "russian": "урок",
+         "theme": "noun"
+      },
+      {
+         "english": "hospital",
+         "russian": "больница",
+         "theme": "noun"
+      },
+      {
+         "english": "job",
+         "russian": "работа",
+         "theme": "noun"
+      },
+      {
+         "english": "market",
+         "russian": "рынок",
+         "theme": "noun"
+      },
+      {
+         "english": "street",
+         "russian": "улица",
+         "theme": "noun"
+      },
+      {
+         "english": "road",
+         "russian": "дорога",
+         "theme": "noun"
+      },
+      {
+         "english": "town",
+         "russian": "город",
+         "theme": "noun"
+      },
+      {
+         "english": "shop",
+         "russian": "магазин",
+         "theme": "noun"
+      },
+      {
+         "english": "money",
+         "russian": "деньги",
+         "theme": "noun"
+      },
+      {
+         "english": "price",
+         "russian": "цена",
+         "theme": "noun"
+      },
+      {
+         "english": "home",
+         "russian": "дом",
+         "theme": "noun"
+      },
+      {
+         "english": "house",
+         "russian": "дом",
+         "theme": "noun"
+      },
+      {
+         "english": "castle",
+         "russian": "замок",
+         "theme": "noun"
+      },
+      {
+         "english": "room",
+         "russian": "комната",
+         "theme": "noun"
+      },
+      {
+         "english": "kitchen",
+         "russian": "кухня",
+         "theme": "noun"
+      },
+      {
+         "english": "bedroom",
+         "russian": "спальня",
+         "theme": "noun"
+      },
+      {
+         "english": "toilet",
+         "russian": "туалет",
+         "theme": "noun"
+      },
+      {
+         "english": "bathroom",
+         "russian": "ванная",
+         "theme": "noun"
+      },
+      {
+         "english": "word",
+         "russian": "слово",
+         "theme": "noun"
+      },
+      {
+         "english": "letter",
+         "russian": "буква",
+         "theme": "noun"
+      },
+      {
+         "english": "message",
+         "russian": "сообщение",
+         "theme": "noun"
+      },
+      {
+         "english": "speech",
+         "russian": "речь",
+         "theme": "noun"
+      },
+      {
+         "english": "song",
+         "russian": "песня",
+         "theme": "noun"
+      },
+      {
+         "english": "name",
+         "russian": "имя, назвать",
+         "theme": "noun"
+      },
+      {
+         "english": "nickname",
+         "russian": "прозвище",
+         "theme": "noun"
+      },
+      {
+         "english": "question",
+         "russian": "вопрос",
+         "theme": "noun"
+      },
+      {
+         "english": "fun",
+         "russian": "веселье",
+         "theme": "noun"
+      },
+      {
+         "english": "truth",
+         "russian": "правда",
+         "theme": "noun"
+      },
+      {
+         "english": "joke",
+         "russian": "шутка",
+         "theme": "noun"
+      },
+      {
+         "english": "language",
+         "russian": "язык",
+         "theme": "noun"
+      },
+      {
+         "english": "game",
+         "russian": "игра",
+         "theme": "noun"
+      },
+      {
+         "english": "party",
+         "russian": "вечеринка",
+         "theme": "noun"
+      },
+      {
+         "english": "king",
+         "russian": "король",
+         "theme": "noun"
+      },
+      {
+         "english": "queen",
+         "russian": "королева",
+         "theme": "noun"
+      },
+      {
+         "english": "god",
+         "russian": "бог",
+         "theme": "noun"
+      },
+      {
+         "english": "devil",
+         "russian": "дьявол",
+         "theme": "noun"
+      },
+      {
+         "english": "art",
+         "russian": "искусство",
+         "theme": "noun"
+      },
+      {
+         "english": "hell",
+         "russian": "ад",
+         "theme": "noun"
+      },
+      {
+         "english": "paradise",
+         "russian": "рай",
+         "theme": "noun"
+      },
+      {
+         "english": "way",
+         "russian": "путь",
+         "theme": "noun"
+      },
+      {
+         "english": "force",
+         "russian": "сила",
+         "theme": "noun"
+      },
+      {
+         "english": "power",
+         "russian": "сила",
+         "theme": "noun"
+      },
+      {
+         "english": "top",
+         "russian": "верх",
+         "theme": "noun"
+      },
+      {
+         "english": "size",
+         "russian": "размер",
+         "theme": "noun"
+      },
+      {
+         "english": "half",
+         "russian": "половина",
+         "theme": "noun"
+      },
+      {
+         "english": "speed",
+         "russian": "скорость",
+         "theme": "noun"
+      },
+      {
+         "english": "luck",
+         "russian": "удача",
+         "theme": "noun"
+      },
+      {
+         "english": "trouble",
+         "russian": "проблема",
+         "theme": "noun"
+      },
+      {
+         "english": "fortune",
+         "russian": "удача, случай",
+         "theme": "noun"
+      },
+      {
+         "english": "danger",
+         "russian": "опасность",
+         "theme": "noun"
+      },
+      {
+         "english": "war",
+         "russian": "война",
+         "theme": "noun"
+      },
+      {
+         "english": "victory",
+         "russian": "победа",
+         "theme": "noun"
+      },
+      {
+         "english": "peace",
+         "russian": "мир",
+         "theme": "noun"
+      },
+      {
+         "english": "holiday",
+         "russian": "праздник",
+         "theme": "noun"
+      },
+      {
+         "english": "web",
+         "russian": "сеть, паутина",
+         "theme": "noun"
+      },
+      {
+         "english": "mail",
+         "russian": "почта",
+         "theme": "noun"
+      },
+      {
+         "english": "do",
+         "russian": "делать",
+         "theme": "verb"
+      },
+      {
+         "english": "have",
+         "russian": "иметь",
+         "theme": "verb"
+      },
+      {
+         "english": "go",
+         "russian": "идти",
+         "theme": "verb"
+      },
+      {
+         "english": "get",
+         "russian": "получать",
+         "theme": "verb"
+      },
+      {
+         "english": "know",
+         "russian": "знать",
+         "theme": "verb"
+      },
+      {
+         "english": "make",
+         "russian": "делать",
+         "theme": "verb"
+      },
+      {
+         "english": "can",
+         "russian": "может",
+         "theme": "verb"
+      },
+      {
+         "english": "could",
+         "russian": "мог",
+         "theme": "verb"
+      },
+      {
+         "english": "must",
+         "russian": "должен",
+         "theme": "verb"
+      },
+      {
+         "english": "think",
+         "russian": "думать",
+         "theme": "verb"
+      },
+      {
+         "english": "like",
+         "russian": "любить",
+         "theme": "verb"
+      },
+      {
+         "english": "see",
+         "russian": "видеть",
+         "theme": "verb"
+      },
+      {
+         "english": "take",
+         "russian": "брать",
+         "theme": "verb"
+      },
+      {
+         "english": "come",
+         "russian": "приходить",
+         "theme": "verb"
+      },
+      {
+         "english": "work",
+         "russian": "работать",
+         "theme": "verb"
+      },
+      {
+         "english": "use",
+         "russian": "использовать",
+         "theme": "verb"
+      },
+      {
+         "english": "look",
+         "russian": "смотреть",
+         "theme": "verb"
+      },
+      {
+         "english": "want",
+         "russian": "хотеть",
+         "theme": "verb"
+      },
+      {
+         "english": "hope",
+         "russian": "надеяться",
+         "theme": "verb"
+      },
+      {
+         "english": "find",
+         "russian": "находить",
+         "theme": "verb"
+      },
+      {
+         "english": "give",
+         "russian": "давать",
+         "theme": "verb"
+      },
+      {
+         "english": "tell",
+         "russian": "говорить",
+         "theme": "verb"
+      },
+      {
+         "english": "call",
+         "russian": "звать",
+         "theme": "verb"
+      },
+      {
+         "english": "need",
+         "russian": "нуждаться",
+         "theme": "verb"
+      },
+      {
+         "english": "may",
+         "russian": "мочь",
+         "theme": "verb"
+      },
+      {
+         "english": "wash",
+         "russian": "мыть",
+         "theme": "verb"
+      },
+      {
+         "english": "feel",
+         "russian": "чувствовать",
+         "theme": "verb"
+      },
+      {
+         "english": "play",
+         "russian": "играть",
+         "theme": "verb"
+      },
+      {
+         "english": "try",
+         "russian": "пробовать",
+         "theme": "verb"
+      },
+      {
+         "english": "live",
+         "russian": "жить",
+         "theme": "verb"
+      },
+      {
+         "english": "show",
+         "russian": "показывать",
+         "theme": "verb"
+      },
+      {
+         "english": "ask",
+         "russian": "спрашивать",
+         "theme": "verb"
+      },
+      {
+         "english": "help",
+         "russian": "помогать",
+         "theme": "verb"
+      },
+      {
+         "english": "talk",
+         "russian": "разговаривать",
+         "theme": "verb"
+      },
+      {
+         "english": "move",
+         "russian": "двигаться",
+         "theme": "verb"
+      },
+      {
+         "english": "begin",
+         "russian": "начинать",
+         "theme": "verb"
+      },
+      {
+         "english": "become",
+         "russian": "становиться",
+         "theme": "verb"
+      },
+      {
+         "english": "build",
+         "russian": "строить",
+         "theme": "verb"
+      },
+      {
+         "english": "start",
+         "russian": "начинать",
+         "theme": "verb"
+      },
+      {
+         "english": "change",
+         "russian": "изменять",
+         "theme": "verb"
+      },
+      {
+         "english": "let",
+         "russian": "позволять",
+         "theme": "verb"
+      },
+      {
+         "english": "run",
+         "russian": "бежать",
+         "theme": "verb"
+      },
+      {
+         "english": "write",
+         "russian": "писать",
+         "theme": "verb"
+      },
+      {
+         "english": "keep",
+         "russian": "держать",
+         "theme": "verb"
+      },
+      {
+         "english": "hold",
+         "russian": "держать",
+         "theme": "verb"
+      },
+      {
+         "english": "repeat",
+         "russian": "повторять",
+         "theme": "verb"
+      },
+      {
+         "english": "put",
+         "russian": "класть",
+         "theme": "verb"
+      },
+      {
+         "english": "end",
+         "russian": "заканчивать",
+         "theme": "verb"
+      },
+      {
+         "english": "study",
+         "russian": "учиться",
+         "theme": "verb"
+      },
+      {
+         "english": "hear",
+         "russian": "слышать",
+         "theme": "verb"
+      },
+      {
+         "english": "teach",
+         "russian": "учить",
+         "theme": "verb"
+      },
+      {
+         "english": "open",
+         "russian": "открывать",
+         "theme": "verb"
+      },
+      {
+         "english": "add",
+         "russian": "добавлять",
+         "theme": "verb"
+      },
+      {
+         "english": "love",
+         "russian": "любить",
+         "theme": "verb"
+      },
+      {
+         "english": "believe",
+         "russian": "верить",
+         "theme": "verb"
+      },
+      {
+         "english": "read",
+         "russian": "читать",
+         "theme": "verb"
+      },
+      {
+         "english": "mean",
+         "russian": "значить",
+         "theme": "verb"
+      },
+      {
+         "english": "pay",
+         "russian": "платить",
+         "theme": "verb"
+      },
+      {
+         "english": "stand",
+         "russian": "стоять",
+         "theme": "verb"
+      },
+      {
+         "english": "understand",
+         "russian": "понимать",
+         "theme": "verb"
+      },
+      {
+         "english": "learn",
+         "russian": "учиться",
+         "theme": "verb"
+      },
+      {
+         "english": "sit",
+         "russian": "сидеть",
+         "theme": "verb"
+      },
+      {
+         "english": "win",
+         "russian": "побеждать",
+         "theme": "verb"
+      },
+      {
+         "english": "break",
+         "russian": "ломать",
+         "theme": "verb"
+      },
+      {
+         "english": "lose",
+         "russian": "проигрывать",
+         "theme": "verb"
+      },
+      {
+         "english": "watch",
+         "russian": "смотреть",
+         "theme": "verb"
+      },
+      {
+         "english": "speak",
+         "russian": "говорить",
+         "theme": "verb"
+      },
+      {
+         "english": "stop",
+         "russian": "останавливать",
+         "theme": "verb"
+      },
+      {
+         "english": "walk",
+         "russian": "идти пешком",
+         "theme": "verb"
+      },
+      {
+         "english": "cut",
+         "russian": "резать",
+         "theme": "verb"
+      },
+      {
+         "english": "wait",
+         "russian": "ждать",
+         "theme": "verb"
+      },
+      {
+         "english": "kill",
+         "russian": "убивать",
+         "theme": "verb"
+      },
+      {
+         "english": "buy",
+         "russian": "покупать",
+         "theme": "verb"
+      },
+      {
+         "english": "remember",
+         "russian": "помнить",
+         "theme": "verb"
+      },
+      {
+         "english": "die",
+         "russian": "умирать",
+         "theme": "verb"
+      },
+      {
+         "english": "answer",
+         "russian": "отвечать",
+         "theme": "verb"
+      },
+      {
+         "english": "fight",
+         "russian": "драться",
+         "theme": "verb"
+      },
+      {
+         "english": "pull",
+         "russian": "тянуть",
+         "theme": "verb"
+      },
+      {
+         "english": "paint",
+         "russian": "рисовать",
+         "theme": "verb"
+      },
+      {
+         "english": "eat",
+         "russian": "есть",
+         "theme": "verb"
+      },
+      {
+         "english": "listen",
+         "russian": "слушать",
+         "theme": "verb"
+      },
+      {
+         "english": "smile",
+         "russian": "улыбаться",
+         "theme": "verb"
+      },
+      {
+         "english": "save",
+         "russian": "спасать",
+         "theme": "verb"
+      },
+      {
+         "english": "choose",
+         "russian": "выбирать",
+         "theme": "verb"
+      },
+      {
+         "english": "sleep",
+         "russian": "спать",
+         "theme": "verb"
+      },
+      {
+         "english": "travel",
+         "russian": "путешествовать",
+         "theme": "verb"
+      },
+      {
+         "english": "fill",
+         "russian": "наполнять",
+         "theme": "verb"
+      },
+      {
+         "english": "push",
+         "russian": "толкать",
+         "theme": "verb"
+      },
+      {
+         "english": "fall",
+         "russian": "падать",
+         "theme": "verb"
+      },
+      {
+         "english": "fly",
+         "russian": "летать",
+         "theme": "verb"
+      },
+      {
+         "english": "hunt",
+         "russian": "охотиться",
+         "theme": "verb"
+      },
+      {
+         "english": "finish",
+         "russian": "заканчивать",
+         "theme": "verb"
+      },
+      {
+         "english": "delete",
+         "russian": "удалять",
+         "theme": "verb"
+      },
+      {
+         "english": "sing",
+         "russian": "петь",
+         "theme": "verb"
+      },
+      {
+         "english": "cook",
+         "russian": "готовить",
+         "theme": "verb"
+      },
+      {
+         "english": "dream",
+         "russian": "мечтать",
+         "theme": "verb"
+      },
+      {
+         "english": "dance",
+         "russian": "танцевать",
+         "theme": "verb"
+      },
+      {
+         "english": "sell",
+         "russian": "продавать",
+         "theme": "verb"
+      },
+      {
+         "english": "drink",
+         "russian": "пить",
+         "theme": "verb"
+      },
+      {
+         "english": "respect",
+         "russian": "уважать",
+         "theme": "verb"
+      },
+      {
+         "english": "enjoy",
+         "russian": "наслаждаться",
+         "theme": "verb"
+      },
+      {
+         "english": "forget",
+         "russian": "забывать",
+         "theme": "verb"
+      },
+      {
+         "english": "wish",
+         "russian": "желать",
+         "theme": "verb"
+      },
+      {
+         "english": "cry",
+         "russian": "плакать",
+         "theme": "verb"
+      },
+      {
+         "english": "mix",
+         "russian": "смешивать",
+         "theme": "verb"
+      },
+      {
+         "english": "print",
+         "russian": "печатать",
+         "theme": "verb"
+      },
+      {
+         "english": "jump",
+         "russian": "прыгать",
+         "theme": "verb"
+      },
+      {
+         "english": "hate",
+         "russian": "ненавидеть",
+         "theme": "verb"
+      },
+      {
+         "english": "kiss",
+         "russian": "целовать",
+         "theme": "verb"
+      },
+      {
+         "english": "excuse",
+         "russian": "извинять",
+         "theme": "verb"
+      },
+      {
+         "english": "translate",
+         "russian": "переводить",
+         "theme": "verb"
+      },
+      {
+         "english": "swim",
+         "russian": "плавать",
+         "theme": "verb"
+      },
+      {
+         "english": "relax",
+         "russian": "расслабляться",
+         "theme": "verb"
+      },
+      {
+         "english": "fuck",
+         "russian": "трахать",
+         "theme": "verb"
+      },
+      {
+         "english": "more",
+         "russian": "более",
+         "theme": "adjective"
+      },
+      {
+         "english": "most",
+         "russian": "наиболее",
+         "theme": "adjective"
+      },
+      {
+         "english": "less",
+         "russian": "менее",
+         "theme": "adjective"
+      },
+      {
+         "english": "least",
+         "russian": "наименее",
+         "theme": "adjective"
+      },
+      {
+         "english": "left",
+         "russian": "левый",
+         "theme": "adjective"
+      },
+      {
+         "english": "new",
+         "russian": "новый",
+         "theme": "adjective"
+      },
+      {
+         "english": "good",
+         "russian": "хороший",
+         "theme": "adjective"
+      },
+      {
+         "english": "better",
+         "russian": "лучший",
+         "theme": "adjective"
+      },
+      {
+         "english": "bad",
+         "russian": "плохой",
+         "theme": "adjective"
+      },
+      {
+         "english": "worse",
+         "russian": "хуже",
+         "theme": "adjective"
+      },
+      {
+         "english": "the",
+         "russian": "worst самый худший",
+         "theme": "adjective"
+      },
+      {
+         "english": "last",
+         "russian": "последний",
+         "theme": "adjective"
+      },
+      {
+         "english": "own",
+         "russian": "собственный",
+         "theme": "adjective"
+      },
+      {
+         "english": "usual",
+         "russian": "обычный",
+         "theme": "adjective"
+      },
+      {
+         "english": "long",
+         "russian": "длинный",
+         "theme": "adjective"
+      },
+      {
+         "english": "high",
+         "russian": "высокий",
+         "theme": "adjective"
+      },
+      {
+         "english": "little",
+         "russian": "маленький",
+         "theme": "adjective"
+      },
+      {
+         "english": "great",
+         "russian": "великий",
+         "theme": "adjective"
+      },
+      {
+         "english": "real",
+         "russian": "реальный",
+         "theme": "adjective"
+      },
+      {
+         "english": "old",
+         "russian": "старый",
+         "theme": "adjective"
+      },
+      {
+         "english": "big",
+         "russian": "большой",
+         "theme": "adjective"
+      },
+      {
+         "english": "same",
+         "russian": "тот же",
+         "theme": "adjective"
+      },
+      {
+         "english": "next",
+         "russian": "следующий",
+         "theme": "adjective"
+      },
+      {
+         "english": "large",
+         "russian": "обширный",
+         "theme": "adjective"
+      },
+      {
+         "english": "kind",
+         "russian": "добрый",
+         "theme": "adjective"
+      },
+      {
+         "english": "small",
+         "russian": "маленький",
+         "theme": "adjective"
+      },
+      {
+         "english": "young",
+         "russian": "молодой",
+         "theme": "adjective"
+      },
+      {
+         "english": "beautiful",
+         "russian": "красивый",
+         "theme": "adjective"
+      },
+      {
+         "english": "cheap",
+         "russian": "дешёвый",
+         "theme": "adjective"
+      },
+      {
+         "english": "light",
+         "russian": "лёгкий",
+         "theme": "adjective"
+      },
+      {
+         "english": "dark",
+         "russian": "тёмный",
+         "theme": "adjective"
+      },
+      {
+         "english": "true",
+         "russian": "верный, правильный",
+         "theme": "adjective"
+      },
+      {
+         "english": "hard",
+         "russian": "тяжёлый, жёсткий",
+         "theme": "adjective"
+      },
+      {
+         "english": "soft",
+         "russian": "мягкий",
+         "theme": "adjective"
+      },
+      {
+         "english": "close",
+         "russian": "близкий",
+         "theme": "adjective"
+      },
+      {
+         "english": "far",
+         "russian": "далёкий",
+         "theme": "adjective"
+      },
+      {
+         "english": "final",
+         "russian": "последний",
+         "theme": "adjective"
+      },
+      {
+         "english": "low",
+         "russian": "низкий",
+         "theme": "adjective"
+      },
+      {
+         "english": "easy",
+         "russian": "лёгкий",
+         "theme": "adjective"
+      },
+      {
+         "english": "difficult",
+         "russian": "трудный",
+         "theme": "adjective"
+      },
+      {
+         "english": "strong",
+         "russian": "сильный",
+         "theme": "adjective"
+      },
+      {
+         "english": "quick",
+         "russian": "быстрый",
+         "theme": "adjective"
+      },
+      {
+         "english": "short",
+         "russian": "короткий",
+         "theme": "adjective"
+      },
+      {
+         "english": "slow",
+         "russian": "медленный",
+         "theme": "adjective"
+      },
+      {
+         "english": "dear",
+         "russian": "дорогой, уважаемый",
+         "theme": "adjective"
+      },
+      {
+         "english": "glad",
+         "russian": "радостный",
+         "theme": "adjective"
+      },
+      {
+         "english": "happy",
+         "russian": "счастливый",
+         "theme": "adjective"
+      },
+      {
+         "english": "drunk",
+         "russian": "пьяный",
+         "theme": "adjective"
+      },
+      {
+         "english": "sad",
+         "russian": "грустный",
+         "theme": "adjective"
+      },
+      {
+         "english": "dead",
+         "russian": "мёртвый",
+         "theme": "adjective"
+      },
+      {
+         "english": "ready",
+         "russian": "готовый",
+         "theme": "adjective"
+      },
+      {
+         "english": "fake",
+         "russian": "поддельный",
+         "theme": "adjective"
+      },
+      {
+         "english": "social",
+         "russian": "общественный",
+         "theme": "adjective"
+      },
+      {
+         "english": "random",
+         "russian": "случайный",
+         "theme": "adjective"
+      },
+      {
+         "english": "fast",
+         "russian": "быстрый",
+         "theme": "adjective"
+      },
+      {
+         "english": "main",
+         "russian": "главный",
+         "theme": "adjective"
+      },
+      {
+         "english": "hot",
+         "russian": "горячий",
+         "theme": "adjective"
+      },
+      {
+         "english": "cold",
+         "russian": "холодный",
+         "theme": "adjective"
+      },
+      {
+         "english": "warm",
+         "russian": "тёплый",
+         "theme": "adjective"
+      },
+      {
+         "english": "full",
+         "russian": "полный",
+         "theme": "adjective"
+      },
+      {
+         "english": "heavy",
+         "russian": "тяжёлый",
+         "theme": "adjective"
+      },
+      {
+         "english": "black",
+         "russian": "чёрный",
+         "theme": "adjective"
+      },
+      {
+         "english": "white",
+         "russian": "белый",
+         "theme": "adjective"
+      },
+      {
+         "english": "red",
+         "russian": "красный",
+         "theme": "adjective"
+      },
+      {
+         "english": "green",
+         "russian": "зелёный",
+         "theme": "adjective"
+      },
+      {
+         "english": "blue",
+         "russian": "синий",
+         "theme": "adjective"
+      },
+      {
+         "english": "yellow",
+         "russian": "жёлтый",
+         "theme": "adjective"
+      },
+      {
+         "english": "gray/grey",
+         "russian": "серый",
+         "theme": "adjective"
+      },
+      {
+         "english": "pink",
+         "russian": "розовый",
+         "theme": "adjective"
+      },
+      {
+         "english": "orange",
+         "russian": "оранжевый",
+         "theme": "adjective"
+      },
+      {
+         "english": "clean",
+         "russian": "чистый",
+         "theme": "adjective"
+      },
+      {
+         "english": "dirty",
+         "russian": "грязный",
+         "theme": "adjective"
+      },
+      {
+         "english": "nice",
+         "russian": "приятный",
+         "theme": "adjective"
+      },
+      {
+         "english": "modern",
+         "russian": "современный",
+         "theme": "adjective"
+      },
+      {
+         "english": "right",
+         "russian": "правильный",
+         "theme": "adjective"
+      },
+      {
+         "english": "wrong",
+         "russian": "неправильный",
+         "theme": "adjective"
+      },
+      {
+         "english": "fresh",
+         "russian": "свежий",
+         "theme": "adjective"
+      },
+      {
+         "english": "strange",
+         "russian": "странный",
+         "theme": "adjective"
+      },
+      {
+         "english": "crazy",
+         "russian": "безумный",
+         "theme": "adjective"
+      },
+      {
+         "english": "mad",
+         "russian": "безумный",
+         "theme": "adjective"
+      },
+      {
+         "english": "wild",
+         "russian": "дикий",
+         "theme": "adjective"
+      },
+      {
+         "english": "cool",
+         "russian": "классный",
+         "theme": "adjective"
+      },
+      {
+         "english": "sweet",
+         "russian": "сладкий",
+         "theme": "adjective"
+      },
+      {
+         "english": "number",
+         "russian": "число",
+         "theme": "число"
+      },
+      {
+         "english": "zero",
+         "russian": "0",
+         "theme": "число"
+      },
+      {
+         "english": "one",
+         "russian": "1",
+         "theme": "число"
+      },
+      {
+         "english": "two",
+         "russian": "2",
+         "theme": "число"
+      },
+      {
+         "english": "three",
+         "russian": "3",
+         "theme": "число"
+      },
+      {
+         "english": "four",
+         "russian": "4",
+         "theme": "число"
+      },
+      {
+         "english": "five",
+         "russian": "5",
+         "theme": "число"
+      },
+      {
+         "english": "six",
+         "russian": "6",
+         "theme": "число"
+      },
+      {
+         "english": "seven",
+         "russian": "7",
+         "theme": "число"
+      },
+      {
+         "english": "eight",
+         "russian": "8",
+         "theme": "число"
+      },
+      {
+         "english": "nine",
+         "russian": "9",
+         "theme": "число"
+      },
+      {
+         "english": "ten",
+         "russian": "10",
+         "theme": "число"
+      },
+      {
+         "english": "eleven",
+         "russian": "11",
+         "theme": "число"
+      },
+      {
+         "english": "twelve",
+         "russian": "12",
+         "theme": "число"
+      },
+      {
+         "english": "thirteen",
+         "russian": "13",
+         "theme": "число"
+      },
+      {
+         "english": "fourteen",
+         "russian": "14",
+         "theme": "число"
+      },
+      {
+         "english": "fifteen",
+         "russian": "15",
+         "theme": "число"
+      },
+      {
+         "english": "sixteen",
+         "russian": "16",
+         "theme": "число"
+      },
+      {
+         "english": "seventeen",
+         "russian": "17",
+         "theme": "число"
+      },
+      {
+         "english": "eighteen",
+         "russian": "18",
+         "theme": "число"
+      },
+      {
+         "english": "nineteen",
+         "russian": "19",
+         "theme": "число"
+      },
+      {
+         "english": "twenty",
+         "russian": "20",
+         "theme": "число"
+      },
+      {
+         "english": "hundred",
+         "russian": "100",
+         "theme": "число"
+      },
+      {
+         "english": "thousand",
+         "russian": "1000",
+         "theme": "число"
+      },
+      {
+         "english": "first",
+         "russian": "первый",
+         "theme": "число"
+      },
+      {
+         "english": "second",
+         "russian": "второй",
+         "theme": "число"
+      },
+      {
+         "english": "third",
+         "russian": "третий",
+         "theme": "число"
+      },
+      {
+         "english": "just",
+         "russian": "просто",
+         "theme": "adverb"
+      },
+      {
+         "english": "now",
+         "russian": "сейчас",
+         "theme": "adverb"
+      },
+      {
+         "english": "then",
+         "russian": "тогда",
+         "theme": "adverb"
+      },
+      {
+         "english": "back",
+         "russian": "назад",
+         "theme": "adverb"
+      },
+      {
+         "english": "forward",
+         "russian": "вперёд",
+         "theme": "adverb"
+      },
+      {
+         "english": "well",
+         "russian": "хорошо",
+         "theme": "adverb"
+      },
+      {
+         "english": "only",
+         "russian": "только",
+         "theme": "adverb"
+      },
+      {
+         "english": "also",
+         "russian": "также",
+         "theme": "adverb"
+      },
+      {
+         "english": "even",
+         "russian": "даже",
+         "theme": "adverb"
+      },
+      {
+         "english": "very",
+         "russian": "очень",
+         "theme": "adverb"
+      },
+      {
+         "english": "down",
+         "russian": "вниз",
+         "theme": "adverb"
+      },
+      {
+         "english": "still",
+         "russian": "всё ещё",
+         "theme": "adverb"
+      },
+      {
+         "english": "never",
+         "russian": "никогда",
+         "theme": "adverb"
+      },
+      {
+         "english": "again",
+         "russian": "снова",
+         "theme": "adverb"
+      },
+      {
+         "english": "today",
+         "russian": "сегодня",
+         "theme": "adverb"
+      },
+      {
+         "english": "tonight",
+         "russian": "сегодня",
+         "theme": "adverb"
+      },
+      {
+         "english": "tomorrow",
+         "russian": "завтра",
+         "theme": "adverb"
+      },
+      {
+         "english": "yesterday",
+         "russian": "вчера",
+         "theme": "adverb"
+      },
+      {
+         "english": "always",
+         "russian": "всегда",
+         "theme": "adverb"
+      },
+      {
+         "english": "enough",
+         "russian": "достаточно",
+         "theme": "adverb"
+      },
+      {
+         "english": "often",
+         "russian": "часто",
+         "theme": "adverb"
+      },
+      {
+         "english": "together",
+         "russian": "вместе",
+         "theme": "adverb"
+      },
+      {
+         "english": "already",
+         "russian": "уже",
+         "theme": "adverb"
+      },
+      {
+         "english": "maybe",
+         "russian": "может быть",
+         "theme": "adverb"
+      },
+      {
+         "english": "soon",
+         "russian": "скоро",
+         "theme": "adverb"
+      },
+      {
+         "english": "forever",
+         "russian": "навсегда",
+         "theme": "adverb"
+      },
+      {
+         "english": "all",
+         "russian": "все",
+         "theme": "pronoun"
+      },
+      {
+         "english": "any",
+         "russian": "любой",
+         "theme": "pronoun"
+      },
+      {
+         "english": "anybody",
+         "russian": "любой",
+         "theme": "pronoun"
+      },
+      {
+         "english": "anyone",
+         "russian": "любой",
+         "theme": "pronoun"
+      },
+      {
+         "english": "anything",
+         "russian": "что угодно",
+         "theme": "pronoun"
+      },
+      {
+         "english": "each",
+         "russian": "каждый",
+         "theme": "pronoun"
+      },
+      {
+         "english": "every",
+         "russian": "каждый",
+         "theme": "pronoun"
+      },
+      {
+         "english": "everybody",
+         "russian": "каждый (человек)",
+         "theme": "pronoun"
+      },
+      {
+         "english": "everything",
+         "russian": "всё",
+         "theme": "pronoun"
+      },
+      {
+         "english": "he",
+         "russian": "он",
+         "theme": "pronoun"
+      },
+      {
+         "english": "here",
+         "russian": "здесь",
+         "theme": "pronoun"
+      },
+      {
+         "english": "it",
+         "russian": "это",
+         "theme": "pronoun"
+      },
+      {
+         "english": "itself",
+         "russian": "сам",
+         "theme": "pronoun"
+      },
+      {
+         "english": "oneself",
+         "russian": "себя",
+         "theme": "pronoun"
+      },
+      {
+         "english": "nobody",
+         "russian": "никто",
+         "theme": "pronoun"
+      },
+      {
+         "english": "nothing",
+         "russian": "ничто",
+         "theme": "pronoun"
+      },
+      {
+         "english": "she",
+         "russian": "она",
+         "theme": "pronoun"
+      },
+      {
+         "english": "some",
+         "russian": "некоторое количество",
+         "theme": "pronoun"
+      },
+      {
+         "english": "somebody",
+         "russian": "кто нибудь",
+         "theme": "pronoun"
+      },
+      {
+         "english": "someone",
+         "russian": "кто нибудь",
+         "theme": "pronoun"
+      },
+      {
+         "english": "something",
+         "russian": "что нибудь",
+         "theme": "pronoun"
+      },
+      {
+         "english": "sometimes иногда",
+         "russian": "pronoun",
+         "theme": ""
+      },
+      {
+         "english": "such такой",
+         "russian": "pronoun",
+         "theme": ""
+      },
+      {
+         "english": "there там",
+         "russian": "pronoun",
+         "theme": ""
+      },
+      {
+         "english": "they они",
+         "russian": "pronoun",
+         "theme": ""
+      },
+      {
+         "english": "this",
+         "russian": "этот",
+         "theme": "pronoun"
+      },
+      {
+         "english": "that",
+         "russian": "тот",
+         "theme": "pronoun"
+      },
+      {
+         "english": "these",
+         "russian": "эти",
+         "theme": "pronoun"
+      },
+      {
+         "english": "those",
+         "russian": "те",
+         "theme": "pronoun"
+      },
+      {
+         "english": "we",
+         "russian": "мы",
+         "theme": "pronoun"
+      },
+      {
+         "english": "you",
+         "russian": "ты",
+         "theme": "pronoun"
+      },
+      {
+         "english": "how",
+         "russian": "как",
+         "theme": "pronoun"
+      },
+      {
+         "english": "when",
+         "russian": "когда",
+         "theme": "pronoun"
+      },
+      {
+         "english": "where",
+         "russian": "где",
+         "theme": "pronoun"
+      },
+      {
+         "english": "what",
+         "russian": "что",
+         "theme": "pronoun"
+      },
+      {
+         "english": "who",
+         "russian": "кто",
+         "theme": "pronoun"
+      },
+      {
+         "english": "why",
+         "russian": "почему",
+         "theme": "pronoun"
+      },
+      {
+         "english": "which",
+         "russian": "который",
+         "theme": "pronoun"
+      },
+      {
+         "english": "other",
+         "russian": "другой",
+         "theme": "pronoun"
+      },
+      {
+         "english": "another",
+         "russian": "любой другой",
+         "theme": "pronoun"
+      },
+      {
+         "english": "many",
+         "russian": "много",
+         "theme": "pronoun"
+      },
+      {
+         "english": "much",
+         "russian": "много",
+         "theme": "pronoun"
+      },
+      {
+         "english": "few",
+         "russian": "мало",
+         "theme": "pronoun"
+      },
+      {
+         "english": "away",
+         "russian": "прочь",
+         "theme": "pronoun"
+      },
+      {
+         "english": "along",
+         "russian": "вдоль",
+         "theme": "pronoun"
+      },
+      {
+         "english": "behind",
+         "russian": "за",
+         "theme": "pronoun"
+      },
+      {
+         "english": "else",
+         "russian": "ещё",
+         "theme": "pronoun"
+      },
+      {
+         "english": "upon",
+         "russian": "на",
+         "theme": "pronoun"
+      },
+      {
+         "english": "about",
+         "russian": "о",
+         "theme": "pronoun"
+      },
+      {
+         "english": "above",
+         "russian": "над",
+         "theme": "pronoun"
+      },
+      {
+         "english": "after",
+         "russian": "за",
+         "theme": "pronoun"
+      },
+      {
+         "english": "among",
+         "russian": "среди",
+         "theme": "pronoun"
+      },
+      {
+         "english": "around",
+         "russian": "вокруг",
+         "theme": "pronoun"
+      },
+      {
+         "english": "at",
+         "russian": "у, на",
+         "theme": "pronoun"
+      },
+      {
+         "english": "before",
+         "russian": "до",
+         "theme": "pronoun"
+      },
+      {
+         "english": "between",
+         "russian": "между",
+         "theme": "pronoun"
+      },
+      {
+         "english": "through",
+         "russian": "через",
+         "theme": "pronoun"
+      },
+      {
+         "english": "by",
+         "russian": "через",
+         "theme": "preposition"
+      },
+      {
+         "english": "for",
+         "russian": "для",
+         "theme": "preposition"
+      },
+      {
+         "english": "from",
+         "russian": "из",
+         "theme": "preposition"
+      },
+      {
+         "english": "in",
+         "russian": "в",
+         "theme": "preposition"
+      },
+      {
+         "english": "into",
+         "russian": "в",
+         "theme": "preposition"
+      },
+      {
+         "english": "near",
+         "russian": "около",
+         "theme": "preposition"
+      },
+      {
+         "english": "under",
+         "russian": "под",
+         "theme": "preposition"
+      },
+      {
+         "english": "with",
+         "russian": "с",
+         "theme": "preposition"
+      },
+      {
+         "english": "without",
+         "russian": "без",
+         "theme": "preposition"
+      },
+      {
+         "english": "and",
+         "russian": "и",
+         "theme": "preposition"
+      },
+      {
+         "english": "because",
+         "russian": "потому что",
+         "theme": "preposition"
+      },
+      {
+         "english": "against",
+         "russian": "против",
+         "theme": "preposition"
+      },
+      {
+         "english": "but",
+         "russian": "но",
+         "theme": "preposition"
+      },
+      {
+         "english": "if",
+         "russian": "если",
+         "theme": "preposition"
+      },
+      {
+         "english": "not",
+         "russian": "не",
+         "theme": "preposition"
+      },
+      {
+         "english": "or",
+         "russian": "или",
+         "theme": "preposition"
+      },
+      {
+         "english": "so",
+         "russian": "так",
+         "theme": "preposition"
+      },
+      {
+         "english": "than",
+         "russian": "чем",
+         "theme": "preposition"
+      },
+      {
+         "english": "too",
+         "russian": "слишком",
+         "theme": "preposition"
+      },
+      {
+         "english": "while",
+         "russian": "пока",
+         "theme": "preposition"
+      },
+      {
+         "english": "until",
+         "russian": "до тех пор",
+         "theme": "preposition"
+      },
+      {
+         "english": "of",
+         "russian": "из",
+         "theme": "preposition"
+      },
+      {
+         "english": "off",
+         "russian": "из, вне",
+         "theme": "preposition"
+      },
+      {
+         "english": "on",
+         "russian": "на",
+         "theme": "preposition"
+      },
+      {
+         "english": "over",
+         "russian": "над",
+         "theme": "preposition"
+      },
+      {
+         "english": "to",
+         "russian": "в, к",
+         "theme": "preposition"
+      },
+      {
+         "english": "please",
+         "russian": "пожалуйста",
+         "theme": "preposition"
+      },
+      {
+         "english": "sorry",
+         "russian": "мне жаль",
+         "theme": "preposition"
+      },
+      {
+         "english": "hello",
+         "russian": "привет",
+         "theme": "preposition"
+      },
+      {
+         "english": "bye",
+         "russian": "пока",
+         "theme": "preposition"
+      },
+      {
+         "english": "hi",
+         "russian": "привет",
+         "theme": "preposition"
+      },
+      {
+         "english": "goodbye",
+         "russian": "до свидания",
+         "theme": "preposition"
+      },
+      {
+         "english": "yes/yeah",
+         "russian": "да",
+         "theme": "preposition"
+      },
+      {
+         "english": "no",
+         "russian": "нет",
+         "theme": "preposition"
+      }
+   ]
+}
