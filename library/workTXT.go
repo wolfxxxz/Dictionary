@@ -128,7 +128,7 @@ func UpdateLibrary(filetxt string, l []*models.Word) {
 	SliceLib := TakeTXT(filetxt)
 	c := len(l)
 	//--------Соединяем два среза в один--------------
-	//rttr = append(rttr, newWords...)
+
 	SliceLib = append(SliceLib, l...)
 	//------------Удаляем дубликаты-------------------
 	rttt := DelDublikat(SliceLib)

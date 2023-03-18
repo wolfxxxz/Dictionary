@@ -1,0 +1,368 @@
+{
+   "Words": [
+      {
+         "id": 0,
+         "english": "Keep kept",
+         "russian": "хранить, прятать",
+         "theme": "irregular verb past",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Tell told",
+         "russian": "говорить кому то",
+         "theme": "irregular verb past",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Go went",
+         "russian": "идти",
+         "theme": "irregular verb past",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Write wrote",
+         "russian": "писать",
+         "theme": "irregular verb past",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Find found",
+         "russian": "найти",
+         "theme": "irregular verb past",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Death died",
+         "russian": "умер",
+         "theme": "irregular verb past",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Take took",
+         "russian": "брать",
+         "theme": "irregular verb past",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Eat ate",
+         "russian": "кушать",
+         "theme": "irregular verb past",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Lose lost",
+         "russian": "терять",
+         "theme": "irregular verb past",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Think thought",
+         "russian": "думать",
+         "theme": "irregular verb past",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Feel felt",
+         "russian": "чувствовать",
+         "theme": "irregular verb past",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Drink drank",
+         "russian": "пить",
+         "theme": "irregular verb past",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Give gave",
+         "russian": "дать",
+         "theme": "irregular verb past",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Left",
+         "russian": "оставил",
+         "theme": "irregular verb past",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Say said",
+         "russian": "сказал",
+         "theme": "irregular verb past",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Speak spoke",
+         "russian": "разговаривать",
+         "theme": "irregular verb past",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "See saw",
+         "russian": "видеть",
+         "theme": "irregular verb past",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Win won",
+         "russian": "выиграть",
+         "theme": "irregular verb past",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Make made",
+         "russian": "делать",
+         "theme": "irregular verb past",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Have had",
+         "russian": "иметь",
+         "theme": "irregular verb past",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Try tried",
+         "russian": "пробовать",
+         "theme": "irregular verb past",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Can be able",
+         "russian": "могу, умею",
+         "theme": "irregular verb past",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Talk",
+         "russian": "говорить с кем то",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Fell",
+         "russian": "упал",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Response",
+         "russian": "ответ",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Currently",
+         "russian": "наразі",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Fell off into",
+         "russian": "упал с , на",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Great",
+         "russian": "большая (британия), чудова",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Good",
+         "russian": "хорошо",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Screen",
+         "russian": "экран",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Smaller",
+         "russian": "меньше",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Bigger",
+         "russian": "больше",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Large",
+         "russian": "большой",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Long",
+         "russian": "длинный",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Cleaner",
+         "russian": "чище (дом)",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Short",
+         "russian": "короткий, низкий",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Able",
+         "russian": "умеет",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Better",
+         "russian": "лучше",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Cheaper",
+         "russian": "дешевле",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "While",
+         "russian": "пока (до тех пор)",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Nice",
+         "russian": "красивый, хороший",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Suit",
+         "russian": "костюм",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Happy",
+         "russian": "счастлив",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Clear",
+         "russian": "чистый, прозрачный",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Sweet",
+         "russian": "сладкий",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Fair",
+         "russian": "ярмарка, честно, справедливо",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Deep",
+         "russian": "глубоко",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Sharp",
+         "russian": "острый",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Ready",
+         "russian": "готов",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Already",
+         "russian": "уже",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Sure",
+         "russian": "уверен",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Weak",
+         "russian": "слабый",
+         "theme": "",
+         "rightAnswer": 0
+      }
+   ]
+}
