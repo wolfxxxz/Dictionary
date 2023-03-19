@@ -1,65 +1,27 @@
-A well paid job - хорошо оплачиваемая работа - 
+A well paid job - хорошо оплачиваемая работа - Phrase
 Accident - происшествие - 
-Accuse of - обвинять в - 
 Anniversary - годовщина - 
-At once - сразу же - 
-Attention - внимание - 
-Beauty - красота - 
-Behave very badly - вести себя очень плохо - 
-Confirm - подтвердить - 
-Conversation - разговор - 
-Cousin - двоюродный брат - 
-Crime - преступление - 
-Cross - пересекать (улицу) - 
-Customer - покупатель - 
+At once - сразу же (во первых) - 
 Defend - защищать - 
-Deliver - доставлять - 
 Deserve - заслуживать - 
-Deserved - заслужила - past
-Discover - открыть (Америку) - 
 Divide it into - делить это на - 
-Effort. - усилие - 
-Example. - пример - 
-Following. - следующие (ошибки) - 
-For no reason - без какой - либо причины
+For no reason - без какой либо причины - Phrase
 Guild - вина - 
 Had a rest - отдыхал - 
 Happen to - произошло с - 
-Have a rest - отдыхать - 
-He washed himself - он умылся - 
-I washed myself - я умылся - 
-Image. - воображать - 
 Immediately - сразу же - 
 Inform of - информировать о - 
 Innocent - невинный - 
 Invite to - приглашать на - 
-Knock at - стучать в - 
-Last for - длится _ - 
-Midnight - полночь - 
-Negative. - отрицательная - 
-Pack - упаковать - 
-Parcel - посылка - 
-Park there - парковаться там - 
 Prayed - молился - 
-Rarely - редко - 
 Remain - остатся (друзьями) - 
 Require - требовать - 
 Revis - повторить - 
-Saint - святой - 
 Seldom - редко - 
-Several - несколько - 
-She washed herself - она умылась - 
 Singer - певец - 
-Sound. - звучать - 
-Strong. - сильный - 
 Suspicious - подозрительно - 
-Task - задача - 
-Tend - тенденция - 
-Thief - вор - 
 To our surprise - к нашему удивлению - 
 Topic - тема - 
-Turn - поворачивать - 
-Unique - уникальная - 
 Wait for - ждать _ (кого - то)
 Wash up the dishes - мыть посуду - Phrase
 Fell - упал - 
@@ -1336,3 +1298,41 @@ Available - доступен -
 world - мир - noun
 sad - грустный - adjective
 wish - желать - verb
+Attention - внимание - 
+Beauty - красота - 
+Conversation - разговор - 
+Cross - пересекать (улицу) - 
+Deliver - доставлять - 
+Deserved - заслужила - past
+Discover - открыть (Америку) - 
+Example - пример - 
+Following - следующие (ошибки) - 
+I washed myself - я умылся - 
+Image - воображать - 
+Last for - длится _ - 
+Negative - отрицательная - 
+Park there - парковаться там - 
+Several - несколько - 
+Accuse of - обвинять в - 
+Behave very badly - вести себя очень плохо - Phrase
+Confirm - подтвердить - 
+Cousin - двоюродный брат - 
+Crime - преступление - 
+Customer - покупатель - 
+Effort - усилие - 
+Have a rest - отдыхать - Phrase
+He washed himself - он умылся - Phrase
+Knock at - стучать в - 
+Midnight - полночь - 
+Pack - упаковать - 
+Parcel - посылка - 
+Rarely - редко - 
+Saint - святой - 
+She washed herself - она умылась - 
+Sound - звучать - 
+Strong - сильный - 
+Task - задача - 
+Tend - тенденция - 
+Thief - вор - 
+Turn - поворачивать - 
+Unique - уникальная - 
