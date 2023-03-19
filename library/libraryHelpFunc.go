@@ -10,63 +10,9 @@ import (
 	"github.com/Wolfxxxz/Dictionary/internal/app/models"
 )
 
-/*
-// Scan bufio
-
-	func Scan() string {
-		in := bufio.NewScanner(os.Stdin)
-		var nn string
-		if in.Scan() {
-			nn = in.Text()
-		}
-		return nn
-	}
-
-	func DelDublikat(s []*models.Word) []*models.Word {
-		c := []*models.Word{}
-		for ii, v := range s {
-			count := 0
-			var indexWord int
-			for i := ii; i <= len(s)-1; i++ {
-				if strings.EqualFold(v.English, s[i].English) {
-					count++
-				}
-				if count == 2 {
-					indexWord = i
-					fmt.Println(v.English, s[i].English, count)
-					count = 0
-				}
-			}
-			if count == 1 {
-				for _, val := range c {
-					if strings.EqualFold(v.English, val.English) {
-						break
-					}
-				}
-				c = append(c, v)
-				count = 0
-
-			} else if count == 0 && indexWord >= 1 {
-				fmt.Println("-------", v.English, s[indexWord].English)
-				fmt.Printf("Russian old value %s \n", v.Russian)
-				fmt.Printf("Russian new value %s \n", s[indexWord].Russian)
-				fmt.Printf("Theme old value %s || new value %s \n", s[indexWord].Theme, v.Theme)
-				fmt.Printf("RightAswer old value %v || new value %v \n", s[indexWord].RightAswer, v.RightAswer)
-				fmt.Println("add old value `1 enter`, add new value `2 enter` ")
-				answer, _ := Scan()
-				answerInt, _ := strconv.Atoi(answer)
-				if answerInt == 1 {
-					c = append(c, v)
-				} else if answerInt == 2 {
-					c = append(c, s[indexWord])
-				}
-			}
-		}
-		return c
-	}
-*/
 func DelDublikat(s []*models.Word) []*models.Word {
-	c := []*models.Word{}
+	withoutDublicat := []*models.Word{}
+	dublicat := []*models.Word{}
 	count := 0
 	for ii, v := range s {
 
@@ -76,14 +22,22 @@ func DelDublikat(s []*models.Word) []*models.Word {
 			}
 		}
 		if count == 1 {
-			c = append(c, v)
+			withoutDublicat = append(withoutDublicat, v)
 			count = 0
 
 		} else {
+			dublicat = append(dublicat, v)
 			count = 0
 		}
 	}
-	return c
+	if len(dublicat) != 0 {
+		fmt.Println("                               dublikat deleted")
+		fmt.Println("          English ||  rus  ||  Theme  ||  quantity")
+		for i, v := range dublicat {
+			fmt.Println("number ", i, v.English, "||", v.Russian, "||", v.Theme, "||", v.RightAswer)
+		}
+	}
+	return withoutDublicat
 }
 func Scan() (string, error) {
 	in := bufio.NewScanner(os.Stdin)

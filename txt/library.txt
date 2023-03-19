@@ -1,33 +1,33 @@
+Happen to - произошло с - preposition
 A well paid job - хорошо оплачиваемая работа - Phrase
 Accident - происшествие - 
 Anniversary - годовщина - 
-At once - сразу же (во первых) - 
+At once - сразу же (во первых) - Phrase
 Defend - защищать - 
 Deserve - заслуживать - 
-Divide it into - делить это на - 
+Divide it into - делить это на - preposition
 For no reason - без какой либо причины - Phrase
 Guild - вина - 
 Had a rest - отдыхал - 
-Happen to - произошло с - 
 Immediately - сразу же - 
-Inform of - информировать о - 
+Inform of - информировать о - preposition
 Innocent - невинный - 
 Invite to - приглашать на - 
 Prayed - молился - 
-Remain - остатся (друзьями) - 
+Remain - остатся, продержатся - 
 Require - требовать - 
 Revis - повторить - 
 Seldom - редко - 
 Singer - певец - 
 Suspicious - подозрительно - 
-To our surprise - к нашему удивлению - 
+To our surprise - к нашему удивлению - Phrase
 Topic - тема - 
-Wait for - ждать _ (кого - то)
+Wait for - ждать _ (кого то) - preposition
 Wash up the dishes - мыть посуду - Phrase
 Fell - упал - 
 Response - ответ - 
 Currently - наразі - 
-Fell off into - упал с , на - 
+Fell off into - упал с , на - preposition
 Smaller - меньше - 
 Bigger - больше - 
 Cleaner - чище (дом) - 
@@ -992,8 +992,6 @@ Count on - рассчитывать на -
 As far as i know - насколько я знаю - Phrase
 Gets - получает - 
 Ask for - просит _ - preposition
-Sound - звучать - 
-Negative - отрицательная - 
 pull - тянуть - verb
 fight - драться - verb
 wind - ветер - nature
@@ -1029,7 +1027,6 @@ Local - местный - Place
 Inconvenient - неудобно (время) - youtube
 Suggested going - предлагал пойти (past) - Phrase
 Introduce - представить - 
-Example - пример - 
 Abilities - способности - 
 Appearance - внешность - 
 speech - речь - noun
@@ -1059,8 +1056,6 @@ Zoo - зоопарк -
 Criminal - преступник - 
 The study - исследование - 
 Announce - объявлять - 
-Effort - усилие - 
-Image - воображать - 
 itself - сам - pronoun
 mouth - рот - body
 Return - вернуться (одно слово) - 
@@ -1227,7 +1222,6 @@ spoon - ложка - noun
 Prefers - предпочитает - 
 Attack - атаковать - 
 Think it over - обдумать это - 
-strong - сильный - adjective
 swim - плавать - verb
 between - между - pronoun
 November - ноябрь - time

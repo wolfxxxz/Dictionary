@@ -2,6 +2,13 @@
    "Words": [
       {
          "id": 0,
+         "english": "Happen to",
+         "russian": "произошло с",
+         "theme": "preposition",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
          "english": "A well paid job",
          "russian": "хорошо оплачиваемая работа",
          "theme": "Phrase",
@@ -68,13 +75,6 @@
          "english": "Had a rest",
          "russian": "отдыхал",
          "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Happen to",
-         "russian": "произошло с",
-         "theme": "preposition",
          "rightAnswer": 0
       },
       {
@@ -6960,20 +6960,6 @@
       },
       {
          "id": 0,
-         "english": "Sound",
-         "russian": "звучать",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Negative",
-         "russian": "отрицательная",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
          "english": "pull",
          "russian": "тянуть",
          "theme": "verb",
@@ -7219,13 +7205,6 @@
       },
       {
          "id": 0,
-         "english": "Example",
-         "russian": "пример",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
          "english": "Abilities",
          "russian": "способности",
          "theme": "",
@@ -7424,20 +7403,6 @@
          "id": 0,
          "english": "Announce",
          "russian": "объявлять",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Effort",
-         "russian": "усилие",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Image",
-         "russian": "воображать",
          "theme": "",
          "rightAnswer": 0
       },
@@ -8601,13 +8566,6 @@
          "english": "Think it over",
          "russian": "обдумать это",
          "theme": "",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "strong",
-         "russian": "сильный",
-         "theme": "adjective",
          "rightAnswer": 1
       },
       {

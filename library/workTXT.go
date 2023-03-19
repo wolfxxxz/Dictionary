@@ -70,6 +70,9 @@ func TakeTXT(filetxt string) []*models.Word {
 		if v == 10 {
 			continue
 		}
+		if v == 46 {
+			continue
+		}
 		dbyte = append(dbyte, v)
 	}
 	//fmt.Println("workTXT", sliseString) //--------------------------------------------------
