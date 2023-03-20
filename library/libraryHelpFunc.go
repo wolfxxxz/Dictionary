@@ -50,50 +50,6 @@ func DelDublikat(s []*models.Word) []*models.Word {
 	return withoutDublicat
 }
 
-/*
-	func DelDublikat(s []*models.Word) []*models.Word {
-		withoutDublicat := []*models.Word{}
-		dublicat := []*models.Word{}
-		origin := []*models.Word{}
-		count := 0
-		for ii, v := range s {
-			numOrigin := 0
-			for i := ii; i <= len(s)-1; i++ {
-				if strings.EqualFold(v.English, s[i].English) {
-					count++
-					if count >= 2 {
-						numOrigin = i
-					}
-				}
-			}
-			if count == 1 {
-				withoutDublicat = append(withoutDublicat, v)
-				count = 0
-
-			} else {
-				//Если это дубликат то дубликат добавить в массив дубликатов
-				dublicat = append(dublicat, v)
-				// а оригинал переместить в начало слайса
-				// -- сначало скопировать в массив
-				origin = append(origin, s[numOrigin])
-				// -- потом удалить из входящего массива не получится (слетит range)
-				// -- значит єто нужно делать в if len(dublicat) != 0
-				count = 0
-			}
-		}
-		if len(dublicat) != 0 {
-			fmt.Println("                               dublikat deleted")
-			fmt.Println("          English ||  rus  ||  Theme  ||  quantity")
-			for i, v := range dublicat {
-				fmt.Println("number ", i, v.English, "||", v.Russian, "||", v.Theme, "||", v.RightAswer)
-			}
-			// переместить задвоенные в начало слайса
-			// добавить
-
-		}
-		return withoutDublicat
-	}
-*/
 func Scan() (string, error) {
 	in := bufio.NewScanner(os.Stdin)
 	if in.Scan() {
