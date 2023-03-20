@@ -1,53 +1,145 @@
-Happen to - произошло с - preposition
-A well paid job - хорошо оплачиваемая работа - Phrase
+A couple of questions - пара вопросов - 
+Abilities - способности - 
 Accident - происшествие - 
+Accuse of - обвинять в - 
+Adapt to - адаптироваться к - preposition
 Anniversary - годовщина - 
+Appearance - внешность - 
 At once - сразу же (во первых) - Phrase
+Attention - внимание - 
+Beauty - красота - 
+Behave very badly - вести себя очень плохо - Phrase
+Calm - спокойный - 
+Come came come - вернуть (irregular verbs) - 
+Complain - жалуется - Work
+Confirm - подтвердить - 
+Consider - учитывать - 
+Conversation - разговор - 
+Cousin - двоюродный брат - 
+Crime - преступление - 
+Cross - пересекать (улицу) - 
+Customer - покупатель - 
+dance - танцевать - verb
 Defend - защищать - 
+Deliver - доставлять - 
+Describe - описывать - 
+Description - описание - 
 Deserve - заслуживать - 
+Deserved - заслужила - past
+Developed - развивать (past) - 
+Died - умер (past) - 
+Disappeared - исчезли (past) - 
+Discover - открыть (Америку) - 
 Divide it into - делить это на - preposition
+During - на протяжении (моего сна) - 
+Effort - усилие - 
+Enter - входить, вступать, поступать - 
+Example - пример - 
+Expect - ожидать - 
+Expected - ожидал (past) - 
+Expectedly - ожидаемо - 
+Experience - опыт - youtube
+Face problem - столкнутся с проблемой - 
+fill - наполнять - verb
+Following - следующие (ошибки) - 
 For no reason - без какой либо причины - Phrase
+Goods - товары - 
+Greatly - очень сильно - 
 Guild - вина - 
 Had a rest - отдыхал - 
+Happen to - произошло с - 
+Happened to - произошло с - preposition
+Happily - счастливо - 
+Have a rest - отдыхать - Phrase
+He washed himself - он умылся - Phrase
+high - высокий - adjective
+I washed myself - я умылся - 
+Image - воображать - 
 Immediately - сразу же - 
 Inform of - информировать о - preposition
 Innocent - невинный - 
+Introduce - представить - 
 Invite to - приглашать на - 
+Killed - убили (past) - 
+Knock at - стучать в - 
+Last for - длится _ - 
+Midnight - полночь - 
+Moved - переехал (past) - 
+Negative - отрицательная - 
+Opportunity - возможность - 
+Pack - упаковать - 
+Parcel - посылка - 
+Park there - парковаться там - 
+Participate - принимать участие - 
+Partly - частично - 
+Passed - сдал (past) - 
+Perform - исполнять (выступать) - 
 Prayed - молился - 
+Provided - обеспечивали (предоставляли) - 
+Punish - наказывать - 
+Rarely - редко - 
+Reached - связался - 
+React to - реагировать на - preposition
+Receive - получать, принимать - 
 Remain - остатся, продержатся - 
+Remained - остался (past) - 
+repeat - повторять - verb
 Require - требовать - 
+Required - требовало (past) - 
+respect - уважать - verb
+Returned - вернулся (past) - 
 Revis - повторить - 
+Revised - повторить (учить слова, что то новое) - 
+Saint - святой - 
 Seldom - редко - 
+Several - несколько - 
+She washed herself - она умылась - 
+sing - петь - verb
 Singer - певец - 
+Skills - навыки - 
+Sound - звучать - 
+Stay - остаться - 
+Stayed - остался (past) - 
+Strong - сильный - 
+Suddenly - вдруг - 
+Suggest - предлагать - 
+Suggested - предлагал (past) - 
+Suggested going - предлагал пойти (past) - Phrase
 Suspicious - подозрительно - 
+Switch on - включить - 
+Task - задача - 
+Tend - тенденция - 
+The day before yesterday - позавчера - 
+The following - следующие (вопросы) - 
+Thief - вор - 
+To get in touch with - (мне нужно) связатся с - 
 To our surprise - к нашему удивлению - Phrase
 Topic - тема - 
+Turn - поворачивать - 
+Turn on - включить - 
+Unexpectedly - неожиданно - 
+Unique - уникальная - 
+victory - победа - noun
 Wait for - ждать _ (кого то) - preposition
+Wait for him - ждать его - 
 Wash up the dishes - мыть посуду - Phrase
+Went to the park on foot - пошли в парк пешком (go) - 
+Service - услуга - 
 Fell - упал - 
 Response - ответ - 
 Currently - наразі - 
 Fell off into - упал с , на - preposition
 Smaller - меньше - 
-Bigger - больше - 
 Cleaner - чище (дом) - 
-Able - умеет - 
 Cheaper - дешевле - 
-Deep - глубоко - 
-Sharp - острый - 
 Impress - впечатлять - 
 grass - трава - nature
 Equal - одинаковые - Work
-Square - площадь - 
 ear - ухо - body
 engineer - инженер - nature
 Usually - обычно - Time
 jug - кувшин - Home
-Useful - полезный - Work
-yellow - жёлтый - adjective
 mail - почта - noun
-yesterday - вчера - adverb
-flee - спасаться бегством - Phrase
 also - также - adverb
 Piss me off - вывести из себя - Phrase
 Keen on - увлекатся - preposition
@@ -94,7 +186,6 @@ tent - палатка - Place
 Amazing - восхитительно - 
 Late - опаздывающий - 
 Finish it - закончить это - 
-During - на протяжении (моего сна) - 
 after - за - pronoun
 Inspired - вдохновлять - 
 relax - расслабляться - verb
@@ -113,7 +204,6 @@ Sales - продажи -
 like - любить - verb
 Significantly - значительно (S) - 
 listen - слушать - verb
-Participate - принимать участие - 
 police - полиция - Work
 See you tomorrow - увидимся завтра - Phrase
 Advertising - реклама - Work
@@ -155,7 +245,6 @@ Funny - забавно - Home
 juice - сок - food
 Certainly - конечно - 
 game - игра - noun
-repeat - повторять - verb
 nineteen - 19 - число
 camel - верблюд - nature
 mean - значить - verb
@@ -190,7 +279,6 @@ Tremendous - огромный -
 morning - утро - time
 However - зато, про те - preposition
 constant - постоянный - 
-Experience - опыт - youtube
 textbook - учебник - noun
 soup - суп - food
 Prepare - подготовится - studies
@@ -294,7 +382,6 @@ Brilliant - блестящий - studies
 As - в то время когда (я ем _ я гуляю) - 
 from - из - preposition
 Range - диапазон - Work
-high - высокий - adjective
 Absent - отсутствует - 
 So what - ну и что? - 
 not - не - preposition
@@ -330,10 +417,8 @@ Absence - отсутствие -
 meat - мясо - food
 Simple - простой - studies
 they они - pronoun - 
-React to - реагировать на - preposition
 Decision - решение - Work
 person - человек - nature
-Punish - наказывать - 
 country - страна - noun
 Attitude to - отношение к - preposition
 warm - тёплый - adjective
@@ -413,7 +498,6 @@ Dry - сушить - Home
 kill - убивать - verb
 Comfortable - удобное - youtube
 I feel sorry for the boy - мне жаль этого парня - 
-Complain - жалуется - Work
 puddle - лужа - Place
 Bring - приносить - 
 here - здесь - pronoun
@@ -523,14 +607,12 @@ job - работа - noun
 Lazy - ленивые - Home
 Go out - идти на выход, выходить - 
 Sooner or later - рано или поздно - Phrase
-Stay - остаться - 
 remember - помнить - verb
 child - ребёнок - nature
 milk - молоко - food
 big - большой - adjective
 pay - платить - verb
 now - сейчас - adverb
-sing - петь - verb
 animal - животное - nature
 strange - странный - adjective
 drink - пить - verb
@@ -706,7 +788,6 @@ Tuesday - вторник - time
 why - почему - pronoun
 cook - готовить - verb
 win - побеждать - verb
-Reached - связался - 
 Comb - гребешок - 
 The couple - эти женатики (пара) - 
 Both sides - обе стороны - 
@@ -756,7 +837,6 @@ and - и - preposition
 orange - оранжевый - adjective
 Area - область, район - Place
 Regret - сожалеть - 
-Consider - учитывать - 
 Award - награда - 
 than - чем, кроме, как - preposition
 Holy crap - чёрт возьми - Phrase
@@ -770,7 +850,6 @@ More than enough - больше чем достаточно -
 sweet - сладкий - adjective
 close - близкий, закрыть - adjective
 Achievement - достижение - 
-dance - танцевать - verb
 In general - в основном - preposition
 talk - разговаривать - verb
 Marriage - свадьба - Home
@@ -814,7 +893,6 @@ Length - длина - Work
 Go Shopping - ходить за покупками - Phrase
 Public - публика - 
 Subway - метро - 
-Opportunity - возможность - 
 Whole - вся (площадь) - 
 Sheet - лист, страница - 
 Bus station - автовокзал - 
@@ -838,7 +916,6 @@ Birthday - день рождения - Home
 bathroom - ванная - noun
 Youth - молодежь - 
 For example - например - 
-Receive - получать, принимать - 
 market - рынок - noun
 Just in case - на всякий случай - Phrase
 Behaviour - поведение - youtube
@@ -856,41 +933,10 @@ Control - контролирую -
 Sentence - речення - studies
 Border - граница - 
 Expensive - дорогой - Home
-Turn on - включить - 
-Moved - переехал (past) - 
-Enter - входить, вступать, поступать - 
-Expected - ожидал (past) - 
-Stayed - остался (past) - 
-Killed - убили (past) - 
-Returned - вернулся (past) - 
-Goods - товары - 
-Switch on - включить - 
-A couple of questions - пара вопросов - 
-Happily - счастливо - 
-Provided - обеспечивали (предоставляли) - 
-To get in touch with - (мне нужно) связатся с - 
-Revised - повторить (учить слова, что то новое) - 
-Happened to - произошло с - 
-Went to the park on foot - пошли в парк пешком (go) - 
-Wait for him - ждать его - 
-Died - умер (past) - 
-Expect - ожидать - 
-Expectedly - ожидаемо - 
-Disappeared - исчезли (past) - 
-Suggested - предлагал (past) - 
-Passed - сдал (past) - 
-Come came come - вернуть (irregular verbs) - 
-Developed - развивать (past) - 
-Face problem - столкнутся с проблемой - 
-Partly - частично - 
-Description - описание - 
 None of them - никто из них - 
 know - знать - verb
 Inform - информировать - 
 table - стол - noun
-Calm - спокойный - 
-Skills - навыки - 
-Unexpectedly - неожиданно - 
 Weak - слабый - 
 Agreement - договоренность - 
 Effect - последствия - 
@@ -910,7 +956,6 @@ ticket - билет - Travel
 lesson - урок - noun
 sleep - спать - verb
 Interested in - заинтересован в - preposition
-The day before yesterday - позавчера - 
 Pure - чистый - 
 Relationships - отношения (с родителями) - 
 Neighborhood - район - 
@@ -932,7 +977,6 @@ September - сентябрь - time
 admire - восхищаться - 
 hot - горячий - adjective
 ten - 10 - число
-Adapt to - адаптироваться к - preposition
 fire - огонь - nature
 ship - корабль - noun
 city - город - noun
@@ -948,17 +992,12 @@ Garden - сад - Place
 Impossible - невозможно - 
 forever - навсегда - adverb
 Loud - громко - 
-respect - уважать - verb
 think - думать - verb
 Subject - предмет - 
 April - апрель - time
 give - давать - verb
 king - король - noun
 Dictionary - словарь - studies
-Remained - остался (past) - 
-Suggest - предлагать - 
-Required - требовало (past) - 
-Describe - описывать - 
 die - умирать - verb
 Walk by - идти мимо - 
 cool - классный - adjective
@@ -1002,8 +1041,6 @@ Fits - подходит (одежда) -
 Serves - подавать (девушка подаёт воду) - 
 Non of us - никто из нас - Phrase
 he assumes - он предпологает - 
-The following - следующие (вопросы) - 
-Suddenly - вдруг - 
 Find out - узнали - 
 yes/yeah - да - preposition
 Judge - судья - Work
@@ -1025,16 +1062,11 @@ On Tuesday - во вторник - preposition
 something - что нибудь - pronoun
 Local - местный - Place
 Inconvenient - неудобно (время) - youtube
-Suggested going - предлагал пойти (past) - Phrase
-Introduce - представить - 
-Abilities - способности - 
-Appearance - внешность - 
 speech - речь - noun
 hunt - охотиться - verb
 death - смерть - nature
 Measure - меры - 
 beautiful - красивый - adjective
-Greatly - очень сильно - 
 two - 2 - число
 face - лицо - body
 come - приходить - verb
@@ -1091,7 +1123,6 @@ calm down - успокоиться - Phrase
 Stupid - глупый S - Work
 Obviously - очевидно - studies
 screen - экран - noun
-fill - наполнять - verb
 pasta - макароны - food
 mom - мама - nature
 Share - разделять - 
@@ -1166,7 +1197,6 @@ Evidence - доказательство -
 dolphin - дельфин - nature
 sixteen - 16 - число
 Guest - гость - Home
-Perform - исполнять (выступать) - 
 pig - свинья - nature
 right - правильный - adjective
 last for about - (это будет) длится около - 
@@ -1272,7 +1302,6 @@ can - может - verb
 Get dark - темнеет - Weather
 Century - 100 летие - Time
 The staff - сотрудники - 
-victory - победа - noun
 Employee - работник - Work
 down - вниз - adverb
 Resolve the conflict - решить конфликт - 
@@ -1292,41 +1321,12 @@ Available - доступен -
 world - мир - noun
 sad - грустный - adjective
 wish - желать - verb
-Attention - внимание - 
-Beauty - красота - 
-Conversation - разговор - 
-Cross - пересекать (улицу) - 
-Deliver - доставлять - 
-Deserved - заслужила - past
-Discover - открыть (Америку) - 
-Example - пример - 
-Following - следующие (ошибки) - 
-I washed myself - я умылся - 
-Image - воображать - 
-Last for - длится _ - 
-Negative - отрицательная - 
-Park there - парковаться там - 
-Several - несколько - 
-Accuse of - обвинять в - 
-Behave very badly - вести себя очень плохо - Phrase
-Confirm - подтвердить - 
-Cousin - двоюродный брат - 
-Crime - преступление - 
-Customer - покупатель - 
-Effort - усилие - 
-Have a rest - отдыхать - Phrase
-He washed himself - он умылся - Phrase
-Knock at - стучать в - 
-Midnight - полночь - 
-Pack - упаковать - 
-Parcel - посылка - 
-Rarely - редко - 
-Saint - святой - 
-She washed herself - она умылась - 
-Sound - звучать - 
-Strong - сильный - 
-Task - задача - 
-Tend - тенденция - 
-Thief - вор - 
-Turn - поворачивать - 
-Unique - уникальная - 
+Bigger - больше - 
+Able - умеет - 
+Deep - глубоко - 
+Sharp - острый - 
+Square - площадь - 
+Useful - полезный - Work
+yellow - жёлтый - adjective
+yesterday - вчера - adverb
+flee - спасаться бегством - Phrase

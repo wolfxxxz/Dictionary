@@ -127,14 +127,14 @@ func TakeTXT(filetxt string) []*models.Word {
 }
 
 // Часть 2 Добавление новых слов в библиотеку Загрузкой с файла txt
-func UpdateLibrary(filetxt string, l []*models.Word) {
-	SliceLib := TakeTXT(filetxt)
-	c := len(l)
+func UpdateLibrary(filetxt string, oldWords []*models.Word) {
+	NewWords := TakeTXT(filetxt)
+	c := len(oldWords)
 	//--------Соединяем два среза в один--------------
 
-	SliceLib = append(SliceLib, l...)
+	NewWords = append(NewWords, oldWords...)
 	//------------Удаляем дубликаты-------------------
-	rttt := DelDublikat(SliceLib)
+	rttt := DelDublikat(NewWords)
 	d := len(rttt)
 
 	r := []*models.Word{}
