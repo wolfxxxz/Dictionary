@@ -50,7 +50,6 @@ func WorkMistake(s []*models.Word) {
 // Тест по количеству
 func TestKnowlig(l []*models.Word) {
 	//fmt.Println("Flag-----------------------------------------------")
-	log.Println("                       Start")
 
 	//Scan quantity words for test
 	//----------------------------------------------
@@ -69,6 +68,7 @@ func TestKnowlig(l []*models.Word) {
 			break
 		}
 	}
+	log.Println("                       Start")
 
 	//Test_1
 	// Cute some

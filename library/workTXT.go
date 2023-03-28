@@ -131,8 +131,8 @@ func UpdateLibrary(filetxt string, oldWords []*models.Word) {
 	NewWords := TakeTXT(filetxt)
 	c := len(oldWords)
 	//--------Соединяем два среза в один--------------
-
 	NewWords = append(NewWords, oldWords...)
+
 	//------------Удаляем дубликаты-------------------
 	rttt := DelDublikat(NewWords)
 	d := len(rttt)
@@ -145,7 +145,7 @@ func UpdateLibrary(filetxt string, oldWords []*models.Word) {
 		Savejson(rttt, "txt/library.json")
 		SaveTXT(rttt, "txt/library.txt")
 	} else {
-		fmt.Println("Для загрузки слов списком необходимо упорядочить и вставить в файл 'newWords.txt'")
+		fmt.Println("Для загрузки слов списком необходимо упорядочить и вставить слова в файл 'newWords.txt'")
 		fmt.Println("english - перевод - тема")
 		fmt.Println("в конце оставить пустую строчку")
 		fmt.Println("I believe in you!!!")

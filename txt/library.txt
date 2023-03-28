@@ -1,298 +1,63 @@
-Conversation - разговор - 
-Immediately - сразу же - 
-Participate - принимать участие - 
-Suspicious - подозрительно - 
-Service - услуга - 
-Response - ответ R - 
-Currently - В настоящее время - 
-holiday - праздник - noun
-after - за - adverb
-Inspired - вдохновлять - adjective
-daughter - дочь - nature
-other - другой - pronoun
-a Bit - немного - Phrase
-Powerful - мощный - 
-Issue - проблема - 
-As always - как всегда, як завжди - 
-sun - солнце - nature
-fall - падать - verb
-goodbye - до свидания - preposition
-break - ломать - verb
-bye - пока - preposition
-Tremendous - огромный - 
-However - зато, про те - preposition
-constant - постоянный - 
-textbook - учебник - noun
-Prepare - подготовится - studies
-what - что - pronoun
-shit - дерьмо - nature
-Waste of time - потеря времени - Phrase
-Suit - подходит - 
-print - печатать - verb
-Take on - одеть (шапку) - clothes
-just - просто - adverb
-tonight - сегодня - adverb
-oneself - себя - pronoun
-Will finish doing - закончит делать - 
-How many - Сколько (друзей) - 
-policeman - полицейский - nature
-sometimes иногда - pronoun - 
-Siblings - братья и сёстры - 
-anyone - любой - pronoun
-silver - серебро - nature
-monkey - обезьяна - nature
-autumn - осень - time
-Will Start doing - начнёт делать - 
-teacher - учитель - nature
-door - дверь - noun
-learn - учиться - verb
-web - сеть, паутина - noun
-above - над - pronoun
-Correctly - правильно - 
-Especially - особенно - 
-gray/grey - серый - adjective
-Look it up in a dictionary - найти это в словаре - preposition
-Definitely - точно - 
-Question mark - вопросительный знак - 
-drunk - пьяный - adjective
-Library - библиотека - studies
-please - пожалуйста - preposition
-Compare - сравнить - Work
-Walk into - зайти внутрь - 
-Invent - изобретать - 
-least - наименее - adjective
-too - слишком - preposition
-wrong - неправильный - adjective
-thing - вещь - noun
-Quickly - быстро - Time
-Regions - район - 
-Activity - деятельность - 
-long - длинный - adjective
-tree - дерево - nature
-manner - манера - 
-friend - друг - nature
-Towards - (бегут) в направлении (нас) - 
-wait - ждать - verb
-Explanation - объяснения - 
-eight - 8 - число
-Slim - стройный - 
-Present day - сегодня - Time
-on - на - preposition
-song - песня - noun
-always - всегда - adverb
-Expression - выражение - studies
-today - сегодня - adverb
-Insist on - настаивать на - preposition
-spider - паук - nature
-kind - добрый - adjective
-Improve - улучшить - studies
-Valley - долина - 
-six - 6 - число
-On Wednesdays - по средам - preposition
-The day after tomorrow - послезавтра - Time
-Educated - образованный - studies
-January - январь - time
-Should - следует - 
-god - бог - noun
-father - отец - nature
-Bilingual - двуязычный (знает два языка) - 
-color - цвет - nature
-way - путь - noun
-Write it down - записывать что то - Phrase
-near - около - preposition
-Financial - финансовый - Work
-Wise - мудрый - studies
-forget - забывать - verb
-app - приложение - 
-Foreign - иностранный - studies
-Brilliant - блестящий - studies
-As - в то время когда (я ем _ я гуляю) - 
-from - из - preposition
-Range - диапазон - Work
-Absent - отсутствует - 
-So what - ну и что? - 
-not - не - preposition
-Tall - высокий - 
-Low blow - удар ниже пояса - Phrase
-Belong to - принадлежать - preposition
-Private - приватно - 
-it seems to be - это кажется - Phrase
-False - не правда - Work
+Force - заставить - 
+Increase - усилить, увеличить - 
+Cover - покривати, закрывать, крышка, чехол - 
+Though - хотя, однако, несмотря на, даже, всё таки - 
+Accept - принять - 
+Avoid - избегать - 
+Define - определять, давать характеристику - 
+Prevent - Предотвращать, не допускать, предохранять - 
+Produce - производить - 
+Exist - существовать - 
+Affect - влиять, действовать (A) - 
+Protection - защита - 
+Content - состав, зміст, наполнение - 
+change of clothes - сменная одежда - 
+work for - Работать на - preposition
+I have nothing to do with this matter - я не имею отношения к этому делу - Phrase
+What made him change his mind - что заставило его изменить свое мнение - Phrase
+In any case I like it here - во всяком случае мне нравится тут - Phrase
+How do i add images to my page - как мне добавить изображения на мою страницу - Phrase
+Have a good flight - желаю хорошего полёта - Phrase
+Prettier - красивее - 
+Performance - представление, исполнение, спектакль - 
+Has turned into - превратился - Phrase
+Smaller - меньше (меньше чем) - 
+Previous - предыдущий - 
+Previously - ранее - 
+Since - поскольку, тому назад, (S) - 
+The side of the road - узбіччя дороги - Phrase
+Reduce - уменьшить - 
+amount - количество (a) - 
+before - до - pronoun
+Efficient - эффективно - 
+Pretty - довольно, красиво - 
+Immediately - сразу же, Немедленно - 
+Currently - В настоящее время, теперь - 
+above - выше, свыше, более - pronoun
+Especially - особенно, специально - 
+Definitely - точно!, Определенно, разумеется! - 
+least - наименее, как минимум - adjective
+Towards - к, в направлении, по отношению  - 
 slow - медленный - adjective
-Might - возможно (modal) - 
-Desk - письменный стол - Work
-In The end - в конце - studies
-Thursday - четверг - time
-toothbrush - зубная щётка - Home
-seventeen - 17 - число
-hospital - больница - noun
-Living - живой - 
-toilet - туалет - noun
-fox - лиса - nature
-Independent of - независимая от, самостоятельный - preposition
-Windy - ветреный - Weather
-together - вместе - adverb
-window - окно - noun
-Entry - вход - 
-Native speaker - носитель языка - studies
-nature - природа - nature
-Thoroughly - тщательно - 
-few - мало - pronoun
-Younger - младший (брат) - youtube
-Surprising - удивительно - 
-Absence - отсутствие - 
-meat - мясо - food
-Simple - простой - studies
-they они - pronoun - 
-Decision - решение - Work
-person - человек - nature
-country - страна - noun
-Attitude to - отношение к - preposition
-warm - тёплый - adjective
-Prison - тюрьма - 
-Go on - продолжать 2 слова - 
-Afraid of - испуган от - preposition
-Criticize - критикует - youtube
-Influence - влиять на - preposition
-cut - резать - verb
-else - ещё - pronoun
-light - лёгкий - adjective
-sir - сэр - nature
-understand - понимать - verb
-open - открывать - verb
-hi - привет - preposition
-cake - пироженое - food
-Carefully - осторожнее - 
-June - июнь - time
-apartment - квартира - Home
-Poor - бедный - Home
-woman - женщина - nature
-Considerably - значительно (С) - 
-Aunt - тетка - 
-Current - текущий (курс) - 
-the - worst самый худший - adjective
-more - более - adjective
-stone - камень - nature
-fly - летать - verb
-Friendly - дружелюбный - duolingo
-Famous - известный - Work
-weather - погода - nature
-add - добавлять - verb
-Edge of - край _ - preposition
-Assistant - ассистент - 
-Polite - вежливый - 
-Spend on - тратить на - preposition
-town - город - noun
+else - ещё, иначе, кроме - pronoun
+Carefully - осторожно, внимательно, бережно - 
 toy - игрушка - noun
-Translate from into - переводить с на - preposition
-fifteen - 15 - число
-By profession - по профессии - 
-sister - сестра - nature
-shop - магазин - noun
-speed - скорость - noun
-life - жизнь - nature
-Different - другой, разные - 
-March - март - time
-In a year - (выучить) за год - Time
-become - становиться - verb
-Avenue - проспект - 
-Clear - ясно понятно - 
-ask - спрашивать - verb
-all - все - pronoun
-tiger - тигр - nature
-party - вечеринка - noun
-fork - вилка - noun
-hope - надеяться - verb
-As soon as possible - как можно быстрее - Time
-with - с - preposition
-Match more - намного больше - Phrase
-car - автомобиль - noun
-fish - рыба - nature
-abroad - за границу - Travel
-red - красный - adjective
-Slowly - медленно - Time
-Fourth - четвёртое - Time
-only - только - adverb
-Clothes - одежда - Home
+Much more - Гораздо более - Phrase
 to - в, к - preposition
-Take place - проходит (иметь место) - 
-anybody - любой - pronoun
-without - без - preposition
-joke - шутка - noun
-Sunday - воскресенье - time
-Frighten - пугает - youtube
-Dry - сушить - Home
-kill - убивать - verb
-Comfortable - удобное - youtube
-I feel sorry for the boy - мне жаль этого парня - 
-puddle - лужа - Place
-Bring - приносить - 
-here - здесь - pronoun
-Monday - понедельник - time
-finish - заканчивать - verb
-get - получать - verb
-Repair - исправить - 
-how - как - pronoun
-letter - буква - noun
-December - декабрь - time
-call - звать - verb
-Get a job - получить работу - Work
-North - север - 
-Worry - беспокоить - Home
-sea - море - nature
+anybody - любой, никто, всякий (body) - pronoun
+Bring in - приносить - 
+Bring up - воспитывать - 
 bruh - братан - Home
-Good at - хорошо от - preposition
-Opposite - противоположные - 
-thousand - 1000 - число
-Nowhere - нигде - 
-still - всё ещё - adverb
-wolf - волк - nature
+still - всё ещё, ещё, до сих пор - adverb
 maybe - может быть - adverb
 social - общественный - adjective
-What time - в какое время - Time
-enjoy - наслаждаться - verb
-Important - важный - Work
-foot - нога - body
-wife - жена - nature
-easy - лёгкий - adjective
-difficult - трудный - adjective
 bottle - бутылка - food
-Shirt - рубашка - 
-box - коробка - noun
-Except for - кроме __(огурцов) - preposition
-which - который - pronoun
-castle - замок - noun
-beach - пляж - nature
-soft - мягкий - adjective
-On Holiday - отпуск - Work
-Ineffective - неэффективно - Work
-I'll - болен - Home
 eagle - орёл - nature
-Illness - болезнь (простуда) - youtube
 notebook - тетрадь - noun
-it - это - pronoun
-Lawyer - юрист - Work
-love - любить - verb
-use - использовать - verb
-worse - хуже - adjective
-capital - столица - noun
-The end - конец - 
-less - менее - adjective
-quantity - количество - Work
-modern - современный - adjective
 Feeling - чувство - Home
-rain - дождь - nature
-name - имя, назвать - noun
-Bag - сумка - 
 Inside - изнутри, внутри - preposition
-no - нет - preposition
 Take part - принимать участие - 
-seven - 7 - число
-On top - сверху - Phrase
-Sign - подписать - Work
-save - спасать - verb
 fuck - трахать - verb
-Manage - уметь (управлять) - 
 often - часто - adverb
 lake - озеро - nature
 One more time - еще раз - Phrase
@@ -383,7 +148,6 @@ twelve - 12 - число
 hand - рука - body
 danger - опасность - noun
 Community - общество - 
-Fair - ярмарок - Place
 Tasty - вкусно - youtube
 nickname - прозвище - noun
 Right now - прямо сейчас - Time
@@ -413,11 +177,10 @@ Huge - огромный -
 always the same - всегда одно и тоже - Phrase
 far - далёкий - adjective
 most - наиболее - adjective
-Cost - стоить (глагол) - 
+Cost - стоить (глагол) - youtube
 heavy - тяжёлый - adjective
 Fluently - свободно - studies
 this - этот - pronoun
-before - до - pronoun
 Leave - покидать - 
 bedroom - спальня - noun
 How much - Сколько (денег) - 
@@ -492,7 +255,6 @@ guy - парень, чувак - nature
 better - лучший - adjective
 Unusual - необычно - 
 price - цена - noun
-Other side - другая сторона - Phrase
 rat - крыса - nature
 Felt - упал - 
 Grade - класс - 
@@ -518,7 +280,6 @@ win - побеждать - verb
 Comb - гребешок - 
 The couple - эти женатики (пара) - 
 Both sides - обе стороны - 
-large - обширный - adjective
 bloody - кровавый - 
 Birth - рождение - Home
 someone - кто нибудь - pronoun
@@ -537,7 +298,6 @@ Waiter - официант -
 Spoke - говорил (прошлое) - 
 The way - путь - 
 Option - вариант - 
-force - сила (f) - noun
 at - в, на - pronoun
 Really - Действительно - 
 glad - радостный, рад (видеть) - adjective
@@ -664,7 +424,6 @@ None of them - никто из них -
 know - знать - verb
 Inform - информировать - 
 table - стол - noun
-Weak - слабый - 
 Agreement - договоренность - 
 Effect - последствия - 
 Demand - требовать - 
@@ -738,14 +497,12 @@ Higher - выше -
 believe - верить - verb
 Perfectly realize - прекрасно осознавать - Phrase
 Simplicity - простота - studies
-be able - смогу (будущее) - youtube
+be able - смогу (будущее) - 
 somebody - кто нибудь - pronoun
-build - строить - verb
 cup - чашка - noun
 Normal - обычный - 
 jump - прыгать - verb
 Event - событие - Work
-Produce - производить - 
 Uncle - дядя - 
 Early - рано - Time
 Another apple - еще одно яблоко - Phrase
@@ -844,7 +601,6 @@ Guess - отгадать -
 Brave - смелая - 
 wild - дикий - adjective
 tsunami - цунами - Travel
-bad - плохой - adjective
 dream - мечтать - verb
 calm down - успокоиться - Phrase
 Stupid - глупый S - Work
@@ -1048,10 +804,7 @@ Available - доступен -
 world - мир - noun
 sad - грустный - adjective
 wish - желать - verb
-Bigger - больше - 
-Able - умеет - 
 Deep - глубоко - 
-Sharp - острый - 
 Square - площадь - 
 Useful - полезный - Work
 yellow - жёлтый - adjective
@@ -1156,7 +909,6 @@ The day before yesterday - позавчера -
 To our surprise - к нашему удивлению - Phrase
 Turn on - включить - 
 Fell off into - упал с , на - preposition
-Cleaner - чище (дом) - 
 Cheaper - дешевле - 
 engineer - инженер - nature
 jug - кувшин - Home
@@ -1175,7 +927,6 @@ power - сила - noun
 food - еда - food
 The same - то же самое (два слова) - 
 Disappointed - расстроенный - 
-Cost - стоить (глагол) - youtube
 Quite seldom - достаточно редко - 
 Expect - ожидать - 
 For no reason - без какой либо причины - Phrase
@@ -1226,7 +977,6 @@ Topic - тема -
 Unexpectedly - неожиданно - ly
 Wash up the dishes - мыть посуду - Phrase
 Fell - упал - 
-Smaller - меньше (меньше чем) - 
 Impress - впечатлять - 
 grass - трава - nature
 Equal - одинаковые - Work
@@ -1292,7 +1042,6 @@ thirteen - 13 - число
 stand - стоять - verb
 around - вокруг - pronoun
 Will Continue doing - будет продолжать делать - 
-Roof - крыша - 
 hair - волосы - body
 Pass by - проходят мимо - Phrase
 Certainly - конечно - 
@@ -1300,7 +1049,6 @@ mean - означать, иметь в виду - verb
 good - хороший - adjective
 train - тренировка - Home
 Refuse to - отказываться _ - preposition
-be able - смогу (будущее) - 
 go - идти - verb
 February - февраль - time
 at first - сначала - Time
@@ -1330,5 +1078,308 @@ star - звезда - nature
 Celebrate - праздновать - youtube
 enough - достаточно - adverb
 along - вдоль - pronoun
-short - короткий - adjective
 Wheel - колесо - 
+Participate - принимать участие - 
+holiday - праздничный день - noun
+Inspire - вдохновлять - adjective
+daughter - дочь - nature
+other - другие - pronoun
+a Bit - немного B - Phrase
+Powerful - мощный - 
+Issue - проблема - 
+As always - как всегда, як завжди - 
+sun - солнце - nature
+goodbye - до свидания - preposition
+Prepare - подготовится - studies
+what - что - pronoun
+shit - дерьмо - nature
+Waste time - тратить время - Phrase
+print - печатать - verb
+How many - Сколько (друзей) - 
+policeman - полицейский - nature
+sometimes - иногда - pronoun
+Siblings - братья и сёстры - 
+anyone - любой - pronoun
+monkey - обезьяна - nature
+teacher - учитель - nature
+door - дверь - noun
+web - сеть, паутина - noun
+Look it up in a dictionary - найти это в словаре - preposition
+Question mark - вопросительный знак - 
+drunk - пьяный - adjective
+Library - библиотека - studies
+please - пожалуйста - preposition
+Invent - изобретать - 
+too - слишком - preposition
+thing - вещь - noun
+Quickly - быстро Q - Time
+Region - район R - 
+Activity - деятельность - 
+long - длинный - adjective
+friend - друг - nature
+wait - ждать - verb
+Explanation - объяснения - 
+eight - 8 - число
+Slim - стройный - 
+on - на - preposition
+song - песня - noun
+always - всегда - adverb
+today - сегодня - adverb
+Insist on - настаивать на - preposition
+spider - паук - nature
+kind - добрый - adjective
+Improve - улучшить - studies
+Valley - долина - 
+six - 6 - число
+January - январь - time
+father - отец - nature
+Bilingual - двуязычный (знает два языка) - 
+color - цвет - nature
+Suspicious - подозрительно - 
+Response - ответ R - 
+However - Однако - preposition
+textbook - учебник - noun
+Waste of time - потеря времени - Phrase
+Suit - подходит - 
+tonight - сегодня вечером - adverb
+oneself - себя - pronoun
+autumn - осень - time
+Will Start doing - начнёт делать - Will
+learn - учиться - verb
+grey - серый - adjective
+Walk into - зайти внутрь - 
+wrong - неправильный - adjective
+tree - дерево - nature
+manner - манера - 
+god - бог - noun
+way - путь - noun
+Financial - финансовый - Work
+forget - забывать - verb
+Brilliant - блестящий - studies
+from - из - preposition
+Tall - высокий - 
+Low blow - удар ниже пояса - Phrase
+Desk - письменный стол - Work
+seventeen - 17 - число
+hospital - больница - noun
+fox - лиса - nature
+Windy - ветреный - Weather
+window - окно - noun
+Thoroughly - тщательно - 
+meat - мясо - food
+Simple - простой - studies
+Decision - решение - Work
+person - человек - nature
+country - страна - noun
+warm - тёплый - adjective
+Afraid of - испуган от - preposition
+Influence - влиять на - preposition
+Conversation - разговор - 
+fall - падать - verb
+Correctly - правильно - 
+Compare - сравнить - Work
+Expression - выражение - studies
+On Wednesdays - по средам - preposition
+The day after tomorrow - послезавтра - Time
+Write it down - записывать что то - Phrase
+Wise - мудрый - studies
+app - приложение - 
+Range - диапазон - Work
+Absent - отсутствует - 
+So what - ну и что? - 
+In The end - в конце - studies
+Thursday - четверг - time
+toothbrush - зубная щётка - Home
+together - вместе - adverb
+Entry - вход - 
+Native speaker - носитель языка - studies
+Prison - тюрьма - 
+Go on - продолжать 2 слова - 
+cut - резать - verb
+open - открывать - verb
+cake - пироженое - food
+June - июнь - time
+Poor - бедный - Home
+woman - женщина - nature
+Aunt - тетка - 
+Current - текущий (курс) - 
+more - более - adjective
+fly - летать - verb
+Friendly - дружелюбный - duolingo
+Famous - известный - Work
+weather - погода - nature
+add - добавлять - verb
+Polite - вежливый - 
+Translate from into - переводить с на - preposition
+sister - сестра - nature
+shop - магазин - noun
+life - жизнь - nature
+Different - другой, разные - 
+March - март - time
+break - ломать, перерыв - verb
+bye - пока - preposition
+Educated - образованный - studies
+Foreign - иностранный - studies
+Belong to - принадлежать - preposition
+False - не правда - Work
+Might - возможно (modal) - 
+Living - живой - 
+toilet - туалет - noun
+nature - природа - nature
+few - мало - pronoun
+Attitude to - отношение к - preposition
+light - более лёгкий, свет - adjective
+sir - сэр - nature
+hi - привет - preposition
+fifteen - 15 - число
+By profession - по профессии - 
+speed - скорость - noun
+In a year - (выучить) за год - Time
+become - стать - verb
+Clear - ясно понятно - 
+ask - спрашивать - verb
+tiger - тигр - nature
+party - вечеринка - noun
+hope - надеяться - verb
+As soon as possible - как можно быстрее - Time
+with - с - preposition
+car - автомобиль - noun
+fish - рыба - nature
+abroad - за границей - Travel
+red - красный - adjective
+Slowly - медленно S - Time
+Fourth - четвёртое - Time
+only - только - adverb
+Clothes - одежда - Home
+Take place - проходит (иметь место) - 
+without - без - preposition
+joke - шутка - noun
+Sunday - воскресенье - time
+Dry - сушить - Home
+Comfortable - удобное - youtube
+I feel sorry for the boy - мне жаль этого парня - 
+here - здесь - pronoun
+Monday - понедельник - time
+Repair - исправить - 
+December - декабрь - time
+Get a job - получить работу - Work
+silver - серебро - nature
+Present day - сегодня - Time
+As - в то время когда (я ем _ я гуляю) - 
+not - не - preposition
+it seems to be - это кажется - Phrase
+Surprising - удивительный - 
+Criticize - критиковать - youtube
+Assistant - ассистент - 
+fork - вилка - noun
+Frighten - пугает - verb
+kill - убийство - verb
+puddle - лужа - Place
+how - как - pronoun
+North - север - 
+sea - море - nature
+Good at - хорошо от - preposition
+Nowhere - нигде - 
+wolf - волк - nature
+What time - в какое время - Time
+Important - важный - Work
+wife - жена - nature
+difficult - трудный - adjective
+Shirt - рубашка - 
+box - коробка - noun
+Except for - кроме __(огурцов) - preposition
+which - который - pronoun
+beach - пляж - nature
+Ineffective - неэффективно - Work
+I'll - болен - Home
+it - это - pronoun
+love - любить - verb
+use - использовать - verb
+worse - хуже - adjective
+capital - столица - noun
+The end - конец - 
+quantity - количество - Work
+rain - дождь - nature
+name - имя, назвать - noun
+no - нет - preposition
+Meet - знакомиться, встречать - 
+Twice - дважды - 
+Roof - крыша - 
+Build - строить - 
+Apply - применить, подать заявку, занести - 
+Beat - бить, победить - 
+Reach - достиг, достигнуть, тянутся - 
+Finish - закончить - 
+Service - услуга - 
+Construction - строительство - 
+Act - поступок - 
+Other countries - другие страны - 
+Another country - другая страна - 
+Other side - другая сторона - Phrase
+Another opportunity - еще одна возможность - 
+It's very kind of you - это очень приятно с твоей стороны - 
+Weak - слабый - 
+Large - большой (L) - 
+Able - способный, здібний - 
+after - после - adverb
+Older - старше (возраст) - 
+Younger - младше (возраст) - 
+Bigger - больше (размер) - 
+More or less - более менее - 
+Cleaner - чище (чистота) - 
+Short - низкий, короткий - 
+Bad - плохой - 
+Fair - ярмарок, справедливо, красавица, русый - Place
+constant - постоянный, постоянная величина - 
+Take on - взять на - 
+just - только, просто, только что - adverb
+Will finish doing - закончу делать (Будущее) - Will
+Should - следует - modal
+near - около, рядом - preposition
+Absence - отсутствие, недостаток, неявка - 
+they - они - pronoun
+understand - понимать - verb
+apartment - квартира (A) - Home
+Edge of - край _ - preposition
+Spend on - тратить на - preposition
+town - город (T) - noun
+response time - время отклика - 
+Wake - будить, просыпаться, осознать, очнуться - 
+Production - производство - 
+Over time everything changes - со временем всё меняется - Phrase
+This problem has nothing to do with you - эта проблема не имеет к тебе отношения - Phrase
+View - вид, мнение, взгляд - 
+Met - знаком - 
+Living room - прихожая комната - 
+Assume - допускать, Предполагать, присваивать себе - 
+Transform - превратиться - 
+Sharp - острый - 
+Tremendous - огромный, потрясающий - 
+Private - приватно - 
+Independent of - независимая от, самостоятельный _ - preposition
+Considerably - значительно (С) - 
+stone - камень - nature
+Avenue - проспект - 
+all - все - pronoun
+get - получать, попасть, добираться - verb
+letter - буква, письмо, символ - noun
+call - вызов, призыв, зов - verb
+Worry - беспокоить, волноваться - Home
+Opposite - противоположные - 
+thousand - 1000 - число
+enjoy - наслаждаться - verb
+foot - нога - body
+easy - легко, лёгкий, спокойно  - adjective
+castle - замок - noun
+soft - мягкий - adjective
+On Holiday - На выходных - Work
+Illness - болезнь (простуда) - youtube
+Lawyer - юрист - Work
+less - менее, меньше - adjective
+modern - современный - adjective
+Bag - сумка - 
+seven - 7 - число
+On top - сверху - Phrase
+Sign - подписать - Work
+save - спасать - verb
+Manage - уметь (управлять) - 

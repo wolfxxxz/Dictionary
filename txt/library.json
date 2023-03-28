@@ -2,849 +2,282 @@
    "Words": [
       {
          "id": 0,
-         "english": "Conversation",
-         "russian": "разговор",
+         "english": "Force",
+         "russian": "заставить",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Increase",
+         "russian": "усилить, увеличить",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Cover",
+         "russian": "покривати, закрывать, крышка, чехол",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Though",
+         "russian": "хотя, однако, несмотря на, даже, всё таки",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Accept",
+         "russian": "принять",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Avoid",
+         "russian": "избегать",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Define",
+         "russian": "определять, давать характеристику",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Prevent",
+         "russian": "Предотвращать, не допускать, предохранять",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Produce",
+         "russian": "производить",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Exist",
+         "russian": "существовать",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Affect",
+         "russian": "влиять, действовать (A)",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Protection",
+         "russian": "защита (P)",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Content",
+         "russian": "состав, зміст, наполнение",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "change of clothes",
+         "russian": "сменная одежда",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "work for",
+         "russian": "Работать на",
+         "theme": "preposition",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "I have nothing to do with this matter",
+         "russian": "я не имею отношения к этому делу",
+         "theme": "Phrase",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "What made him change his mind",
+         "russian": "что заставило его изменить свое мнение",
+         "theme": "Phrase",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "In any case I like it here",
+         "russian": "во всяком случае мне нравится тут",
+         "theme": "Phrase",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "How do i add images to my page",
+         "russian": "как мне добавить изображения на мою страницу",
+         "theme": "Phrase",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Have a good flight",
+         "russian": "желаю хорошего полёта",
+         "theme": "Phrase",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Prettier",
+         "russian": "красивее",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Performance",
+         "russian": "представление, исполнение, спектакль",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Has turned into",
+         "russian": "превратился",
+         "theme": "Phrase",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Smaller",
+         "russian": "меньше (меньше меня)",
          "theme": "",
          "rightAnswer": 1
       },
       {
          "id": 0,
+         "english": "Previous",
+         "russian": "предыдущий",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Previously",
+         "russian": "ранее, предварительно, заранее",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Since",
+         "russian": "поскольку, тому назад, (S)",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "The side of the road",
+         "russian": "узбіччя дороги",
+         "theme": "Phrase",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Reduce",
+         "russian": "уменьшить",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "amount",
+         "russian": "количество (a)",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "before",
+         "russian": "до",
+         "theme": "pronoun",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Efficient",
+         "russian": "эффективно",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "Pretty",
+         "russian": "довольно, красиво",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
          "english": "Immediately",
-         "russian": "сразу же",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Participate",
-         "russian": "принимать участие",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Suspicious",
-         "russian": "подозрительно",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Service",
-         "russian": "услуга",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Response",
-         "russian": "ответ R",
+         "russian": "сразу же, Немедленно",
          "theme": "",
          "rightAnswer": 0
       },
       {
          "id": 0,
          "english": "Currently",
-         "russian": "В настоящее время",
+         "russian": "В настоящее время, теперь",
          "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "holiday",
-         "russian": "праздничный день",
-         "theme": "noun",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "after",
-         "russian": "после",
-         "theme": "adverb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Inspire",
-         "russian": "вдохновлять",
-         "theme": "adjective",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "daughter",
-         "russian": "дочь",
-         "theme": "nature",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "other",
-         "russian": "другие",
-         "theme": "pronoun",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "a Bit",
-         "russian": "немного B",
-         "theme": "Phrase",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Powerful",
-         "russian": "мощный",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Issue",
-         "russian": "проблема",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "As always",
-         "russian": "как всегда, як завжди",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "sun",
-         "russian": "солнце",
-         "theme": "nature",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "fall",
-         "russian": "падать",
-         "theme": "verb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "goodbye",
-         "russian": "до свидания",
-         "theme": "preposition",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "break",
-         "russian": "ломать, перерыв",
-         "theme": "verb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "bye",
-         "russian": "пока",
-         "theme": "preposition",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Tremendous",
-         "russian": "огромный",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "However",
-         "russian": "Однако",
-         "theme": "preposition",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "constant",
-         "russian": "постоянный",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "textbook",
-         "russian": "учебник",
-         "theme": "noun",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Prepare",
-         "russian": "подготовится",
-         "theme": "studies",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "what",
-         "russian": "что",
-         "theme": "pronoun",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "shit",
-         "russian": "дерьмо",
-         "theme": "nature",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Waste of time",
-         "russian": "потеря времени",
-         "theme": "Phrase",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Waste time",
-         "russian": "тратить время",
-         "theme": "Phrase",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Suit",
-         "russian": "подходит",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "print",
-         "russian": "печатать",
-         "theme": "verb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Take on",
-         "russian": "взять",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "just",
-         "russian": "только",
-         "theme": "adverb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "tonight",
-         "russian": "сегодня вечером",
-         "theme": "adverb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "oneself",
-         "russian": "себя",
-         "theme": "pronoun",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Will finish doing",
-         "russian": "закончу делать",
-         "theme": "Will",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "How many",
-         "russian": "Сколько (друзей)",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "policeman",
-         "russian": "полицейский",
-         "theme": "nature",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "sometimes",
-         "russian": "иногда",
-         "theme": "pronoun",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Siblings",
-         "russian": "братья и сёстры",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "anyone",
-         "russian": "любой",
-         "theme": "pronoun",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "silver",
-         "russian": "серебро",
-         "theme": "nature",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "monkey",
-         "russian": "обезьяна",
-         "theme": "nature",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "autumn",
-         "russian": "осень",
-         "theme": "time",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Will Start doing",
-         "russian": "начнёт делать",
-         "theme": "Will",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "teacher",
-         "russian": "учитель",
-         "theme": "nature",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "door",
-         "russian": "дверь",
-         "theme": "noun",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "learn",
-         "russian": "учиться",
-         "theme": "verb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "web",
-         "russian": "сеть, паутина",
-         "theme": "noun",
          "rightAnswer": 0
       },
       {
          "id": 0,
          "english": "above",
-         "russian": "над",
+         "russian": "выше, свыше, более",
          "theme": "pronoun",
          "rightAnswer": 0
       },
       {
          "id": 0,
-         "english": "Correctly",
-         "russian": "правильно",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
          "english": "Especially",
-         "russian": "особенно",
+         "russian": "особенно, специально",
          "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "grey",
-         "russian": "серый",
-         "theme": "adjective",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Look it up in a dictionary",
-         "russian": "найти это в словаре",
-         "theme": "preposition",
          "rightAnswer": 0
       },
       {
          "id": 0,
          "english": "Definitely",
-         "russian": "точно, Определенно",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Question mark",
-         "russian": "вопросительный знак",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "drunk",
-         "russian": "пьяный",
-         "theme": "adjective",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Library",
-         "russian": "библиотека",
-         "theme": "studies",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "please",
-         "russian": "пожалуйста",
-         "theme": "preposition",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Compare",
-         "russian": "сравнить",
-         "theme": "Work",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Walk into",
-         "russian": "зайти внутрь",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Invent",
-         "russian": "изобретать",
+         "russian": "точно!, Определенно, разумеется!",
          "theme": "",
          "rightAnswer": 0
       },
       {
          "id": 0,
          "english": "least",
-         "russian": "наименее",
+         "russian": "наименее, как минимум",
          "theme": "adjective",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "too",
-         "russian": "слишком",
-         "theme": "preposition",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "wrong",
-         "russian": "неправильный",
-         "theme": "adjective",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "thing",
-         "russian": "вещь",
-         "theme": "noun",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Quickly",
-         "russian": "быстро Q",
-         "theme": "Time",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Region",
-         "russian": "район R",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Activity",
-         "russian": "деятельность",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "long",
-         "russian": "длинный",
-         "theme": "adjective",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "tree",
-         "russian": "дерево",
-         "theme": "nature",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "manner",
-         "russian": "манера",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "friend",
-         "russian": "друг",
-         "theme": "nature",
          "rightAnswer": 0
       },
       {
          "id": 0,
          "english": "Towards",
-         "russian": "(бегут) в направлении (нас)",
+         "russian": "к, в направлении, по отношению ",
          "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "wait",
-         "russian": "ждать",
-         "theme": "verb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Explanation",
-         "russian": "объяснения",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "eight",
-         "russian": "8",
-         "theme": "число",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Slim",
-         "russian": "стройный",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Present day",
-         "russian": "сегодня",
-         "theme": "Time",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "on",
-         "russian": "на",
-         "theme": "preposition",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "song",
-         "russian": "песня",
-         "theme": "noun",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "always",
-         "russian": "всегда",
-         "theme": "adverb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Expression",
-         "russian": "выражение",
-         "theme": "studies",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "today",
-         "russian": "сегодня",
-         "theme": "adverb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Insist on",
-         "russian": "настаивать на",
-         "theme": "preposition",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "spider",
-         "russian": "паук",
-         "theme": "nature",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "kind",
-         "russian": "добрый",
-         "theme": "adjective",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Improve",
-         "russian": "улучшить",
-         "theme": "studies",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Valley",
-         "russian": "долина",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "six",
-         "russian": "6",
-         "theme": "число",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "On Wednesdays",
-         "russian": "по средам",
-         "theme": "preposition",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "The day after tomorrow",
-         "russian": "послезавтра",
-         "theme": "Time",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Educated",
-         "russian": "образованный",
-         "theme": "studies",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "January",
-         "russian": "январь",
-         "theme": "time",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Should",
-         "russian": "следует",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "god",
-         "russian": "бог",
-         "theme": "noun",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "father",
-         "russian": "отец",
-         "theme": "nature",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Bilingual",
-         "russian": "двуязычный (знает два языка)",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "color",
-         "russian": "цвет",
-         "theme": "nature",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "way",
-         "russian": "путь",
-         "theme": "noun",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Write it down",
-         "russian": "записывать что то",
-         "theme": "Phrase",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "near",
-         "russian": "около",
-         "theme": "preposition",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Financial",
-         "russian": "финансовый",
-         "theme": "Work",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Wise",
-         "russian": "мудрый",
-         "theme": "studies",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "forget",
-         "russian": "забывать",
-         "theme": "verb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "app",
-         "russian": "приложение",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Foreign",
-         "russian": "иностранный",
-         "theme": "studies",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Brilliant",
-         "russian": "блестящий",
-         "theme": "studies",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "As",
-         "russian": "в то время когда (я ем _ я гуляю)",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "from",
-         "russian": "из",
-         "theme": "preposition",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Range",
-         "russian": "диапазон",
-         "theme": "Work",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Absent",
-         "russian": "отсутствует",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "So what",
-         "russian": "ну и что?",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "not",
-         "russian": "не",
-         "theme": "preposition",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Tall",
-         "russian": "высокий",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Low blow",
-         "russian": "удар ниже пояса",
-         "theme": "Phrase",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Belong to",
-         "russian": "принадлежать",
-         "theme": "preposition",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Private",
-         "russian": "приватно",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "it seems to be",
-         "russian": "это кажется",
-         "theme": "Phrase",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "False",
-         "russian": "не правда",
-         "theme": "Work",
          "rightAnswer": 0
       },
       {
@@ -856,450 +289,16 @@
       },
       {
          "id": 0,
-         "english": "Might",
-         "russian": "возможно (modal)",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Desk",
-         "russian": "письменный стол",
-         "theme": "Work",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "In The end",
-         "russian": "в конце",
-         "theme": "studies",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Thursday",
-         "russian": "четверг",
-         "theme": "time",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "toothbrush",
-         "russian": "зубная щётка",
-         "theme": "Home",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "seventeen",
-         "russian": "17",
-         "theme": "число",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "hospital",
-         "russian": "больница",
-         "theme": "noun",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Living",
-         "russian": "живой",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "toilet",
-         "russian": "туалет",
-         "theme": "noun",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "fox",
-         "russian": "лиса",
-         "theme": "nature",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Independent of",
-         "russian": "независимая от, самостоятельный",
-         "theme": "preposition",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Windy",
-         "russian": "ветреный",
-         "theme": "Weather",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "together",
-         "russian": "вместе",
-         "theme": "adverb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "window",
-         "russian": "окно",
-         "theme": "noun",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Entry",
-         "russian": "вход",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Native speaker",
-         "russian": "носитель языка",
-         "theme": "studies",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "nature",
-         "russian": "природа",
-         "theme": "nature",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Thoroughly",
-         "russian": "тщательно",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "few",
-         "russian": "мало",
-         "theme": "pronoun",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Younger",
-         "russian": "младший (брат)",
-         "theme": "youtube",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Surprising",
-         "russian": "удивительно",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Absence",
-         "russian": "отсутствие",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "meat",
-         "russian": "мясо",
-         "theme": "food",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Simple",
-         "russian": "простой",
-         "theme": "studies",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "they они",
-         "russian": "pronoun",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Decision",
-         "russian": "решение",
-         "theme": "Work",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "person",
-         "russian": "человек",
-         "theme": "nature",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "country",
-         "russian": "страна",
-         "theme": "noun",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Attitude to",
-         "russian": "отношение к",
-         "theme": "preposition",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "warm",
-         "russian": "тёплый",
-         "theme": "adjective",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Prison",
-         "russian": "тюрьма",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Go on",
-         "russian": "продолжать 2 слова",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Afraid of",
-         "russian": "испуган от",
-         "theme": "preposition",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Criticize",
-         "russian": "критикует",
-         "theme": "youtube",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Influence",
-         "russian": "влиять на",
-         "theme": "preposition",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "cut",
-         "russian": "резать",
-         "theme": "verb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
          "english": "else",
-         "russian": "ещё",
+         "russian": "ещё, иначе, кроме",
          "theme": "pronoun",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "light",
-         "russian": "лёгкий",
-         "theme": "adjective",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "sir",
-         "russian": "сэр",
-         "theme": "nature",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "understand",
-         "russian": "понимать",
-         "theme": "verb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "open",
-         "russian": "открывать",
-         "theme": "verb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "hi",
-         "russian": "привет",
-         "theme": "preposition",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "cake",
-         "russian": "пироженое",
-         "theme": "food",
          "rightAnswer": 0
       },
       {
          "id": 0,
          "english": "Carefully",
-         "russian": "осторожнее",
+         "russian": "осторожно, внимательно, бережно",
          "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "June",
-         "russian": "июнь",
-         "theme": "time",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "apartment",
-         "russian": "квартира",
-         "theme": "Home",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Poor",
-         "russian": "бедный",
-         "theme": "Home",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "woman",
-         "russian": "женщина",
-         "theme": "nature",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Considerably",
-         "russian": "значительно (С)",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Aunt",
-         "russian": "тетка",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Current",
-         "russian": "текущий (курс)",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "the",
-         "russian": "worst самый худший",
-         "theme": "adjective",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "more",
-         "russian": "более",
-         "theme": "adjective",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "stone",
-         "russian": "камень",
-         "theme": "nature",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "fly",
-         "russian": "летать",
-         "theme": "verb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Friendly",
-         "russian": "дружелюбный",
-         "theme": "duolingo",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Famous",
-         "russian": "известный",
-         "theme": "Work",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "weather",
-         "russian": "погода",
-         "theme": "nature",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "add",
-         "russian": "добавлять",
-         "theme": "verb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Edge of",
-         "russian": "край _",
-         "theme": "preposition",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Assistant",
-         "russian": "ассистент",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Polite",
-         "russian": "вежливый",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Spend on",
-         "russian": "тратить на",
-         "theme": "preposition",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "town",
-         "russian": "город",
-         "theme": "noun",
          "rightAnswer": 0
       },
       {
@@ -1311,212 +310,9 @@
       },
       {
          "id": 0,
-         "english": "Translate from into",
-         "russian": "переводить с на",
-         "theme": "preposition",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "fifteen",
-         "russian": "15",
-         "theme": "число",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "By profession",
-         "russian": "по профессии",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "sister",
-         "russian": "сестра",
-         "theme": "nature",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "shop",
-         "russian": "магазин",
-         "theme": "noun",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "speed",
-         "russian": "скорость",
-         "theme": "noun",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "life",
-         "russian": "жизнь",
-         "theme": "nature",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Different",
-         "russian": "другой, разные",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "March",
-         "russian": "март",
-         "theme": "time",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "In a year",
-         "russian": "(выучить) за год",
-         "theme": "Time",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "become",
-         "russian": "становиться",
-         "theme": "verb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Avenue",
-         "russian": "проспект",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Clear",
-         "russian": "ясно понятно",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "ask",
-         "russian": "спрашивать",
-         "theme": "verb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "all",
-         "russian": "все",
-         "theme": "pronoun",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "tiger",
-         "russian": "тигр",
-         "theme": "nature",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "party",
-         "russian": "вечеринка",
-         "theme": "noun",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "fork",
-         "russian": "вилка",
-         "theme": "noun",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "hope",
-         "russian": "надеяться",
-         "theme": "verb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "As soon as possible",
-         "russian": "как можно быстрее",
-         "theme": "Time",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "with",
-         "russian": "с",
-         "theme": "preposition",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Match more",
-         "russian": "намного больше",
+         "english": "Much more",
+         "russian": "Гораздо более",
          "theme": "Phrase",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "car",
-         "russian": "автомобиль",
-         "theme": "noun",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "fish",
-         "russian": "рыба",
-         "theme": "nature",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "abroad",
-         "russian": "за границу",
-         "theme": "Travel",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "red",
-         "russian": "красный",
-         "theme": "adjective",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Slowly",
-         "russian": "медленно",
-         "theme": "Time",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Fourth",
-         "russian": "четвёртое",
-         "theme": "Time",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "only",
-         "russian": "только",
-         "theme": "adverb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Clothes",
-         "russian": "одежда",
-         "theme": "Home",
          "rightAnswer": 0
       },
       {
@@ -1528,177 +324,23 @@
       },
       {
          "id": 0,
-         "english": "Take place",
-         "russian": "проходит (иметь место)",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
          "english": "anybody",
-         "russian": "любой",
+         "russian": "любой, никто, всякий (body)",
          "theme": "pronoun",
          "rightAnswer": 0
       },
       {
          "id": 0,
-         "english": "without",
-         "russian": "без",
-         "theme": "preposition",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "joke",
-         "russian": "шутка",
-         "theme": "noun",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Sunday",
-         "russian": "воскресенье",
-         "theme": "time",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Frighten",
-         "russian": "пугает",
-         "theme": "youtube",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Dry",
-         "russian": "сушить",
-         "theme": "Home",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "kill",
-         "russian": "убивать",
-         "theme": "verb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Comfortable",
-         "russian": "удобное",
-         "theme": "youtube",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "I feel sorry for the boy",
-         "russian": "мне жаль этого парня",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "puddle",
-         "russian": "лужа",
-         "theme": "Place",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Bring",
+         "english": "Bring in",
          "russian": "приносить",
          "theme": "",
          "rightAnswer": 0
       },
       {
          "id": 0,
-         "english": "here",
-         "russian": "здесь",
-         "theme": "pronoun",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Monday",
-         "russian": "понедельник",
-         "theme": "time",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "finish",
-         "russian": "заканчивать",
-         "theme": "verb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "get",
-         "russian": "получать",
-         "theme": "verb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Repair",
-         "russian": "исправить",
+         "english": "Bring up",
+         "russian": "воспитывать",
          "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "how",
-         "russian": "как",
-         "theme": "pronoun",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "letter",
-         "russian": "буква",
-         "theme": "noun",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "December",
-         "russian": "декабрь",
-         "theme": "time",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "call",
-         "russian": "звать",
-         "theme": "verb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Get a job",
-         "russian": "получить работу",
-         "theme": "Work",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "North",
-         "russian": "север",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Worry",
-         "russian": "беспокоить",
-         "theme": "Home",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "sea",
-         "russian": "море",
-         "theme": "nature",
          "rightAnswer": 0
       },
       {
@@ -1710,44 +352,9 @@
       },
       {
          "id": 0,
-         "english": "Good at",
-         "russian": "хорошо от",
-         "theme": "preposition",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Opposite",
-         "russian": "противоположные",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "thousand",
-         "russian": "1000",
-         "theme": "число",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Nowhere",
-         "russian": "нигде",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
          "english": "still",
-         "russian": "всё ещё",
+         "russian": "всё ещё, ещё, до сих пор",
          "theme": "adverb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "wolf",
-         "russian": "волк",
-         "theme": "nature",
          "rightAnswer": 0
       },
       {
@@ -1766,128 +373,9 @@
       },
       {
          "id": 0,
-         "english": "What time",
-         "russian": "в какое время",
-         "theme": "Time",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "enjoy",
-         "russian": "наслаждаться",
-         "theme": "verb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Important",
-         "russian": "важный",
-         "theme": "Work",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "foot",
-         "russian": "нога",
-         "theme": "body",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "wife",
-         "russian": "жена",
-         "theme": "nature",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "easy",
-         "russian": "лёгкий",
-         "theme": "adjective",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "difficult",
-         "russian": "трудный",
-         "theme": "adjective",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
          "english": "bottle",
          "russian": "бутылка",
          "theme": "food",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Shirt",
-         "russian": "рубашка",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "box",
-         "russian": "коробка",
-         "theme": "noun",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Except for",
-         "russian": "кроме __(огурцов)",
-         "theme": "preposition",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "which",
-         "russian": "который",
-         "theme": "pronoun",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "castle",
-         "russian": "замок",
-         "theme": "noun",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "beach",
-         "russian": "пляж",
-         "theme": "nature",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "soft",
-         "russian": "мягкий",
-         "theme": "adjective",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "On Holiday",
-         "russian": "отпуск",
-         "theme": "Work",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Ineffective",
-         "russian": "неэффективно",
-         "theme": "Work",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "I'll",
-         "russian": "болен",
-         "theme": "Home",
          "rightAnswer": 0
       },
       {
@@ -1899,86 +387,9 @@
       },
       {
          "id": 0,
-         "english": "Illness",
-         "russian": "болезнь (простуда)",
-         "theme": "youtube",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
          "english": "notebook",
          "russian": "тетрадь",
          "theme": "noun",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "it",
-         "russian": "это",
-         "theme": "pronoun",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Lawyer",
-         "russian": "юрист",
-         "theme": "Work",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "love",
-         "russian": "любить",
-         "theme": "verb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "use",
-         "russian": "использовать",
-         "theme": "verb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "worse",
-         "russian": "хуже",
-         "theme": "adjective",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "capital",
-         "russian": "столица",
-         "theme": "noun",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "The end",
-         "russian": "конец",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "less",
-         "russian": "менее",
-         "theme": "adjective",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "quantity",
-         "russian": "количество",
-         "theme": "Work",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "modern",
-         "russian": "современный",
-         "theme": "adjective",
          "rightAnswer": 0
       },
       {
@@ -1990,36 +401,8 @@
       },
       {
          "id": 0,
-         "english": "rain",
-         "russian": "дождь",
-         "theme": "nature",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "name",
-         "russian": "имя, назвать",
-         "theme": "noun",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Bag",
-         "russian": "сумка",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
          "english": "Inside",
          "russian": "изнутри, внутри",
-         "theme": "preposition",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "no",
-         "russian": "нет",
          "theme": "preposition",
          "rightAnswer": 0
       },
@@ -2032,44 +415,9 @@
       },
       {
          "id": 0,
-         "english": "seven",
-         "russian": "7",
-         "theme": "число",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "On top",
-         "russian": "сверху",
-         "theme": "Phrase",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Sign",
-         "russian": "подписать",
-         "theme": "Work",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "save",
-         "russian": "спасать",
-         "theme": "verb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
          "english": "fuck",
          "russian": "трахать",
          "theme": "verb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Manage",
-         "russian": "уметь (управлять)",
-         "theme": "",
          "rightAnswer": 0
       },
       {
@@ -2097,7 +445,7 @@
          "id": 0,
          "english": "Do The Shopping",
          "russian": "делать покупки",
-         "theme": "Home",
+         "theme": "Phrase",
          "rightAnswer": 0
       },
       {
@@ -2118,7 +466,7 @@
          "id": 0,
          "english": "Depends on",
          "russian": "зависит от",
-         "theme": "studies",
+         "theme": "preposition",
          "rightAnswer": 0
       },
       {
@@ -2704,13 +1052,6 @@
       },
       {
          "id": 0,
-         "english": "Fair",
-         "russian": "ярмарок",
-         "theme": "Place",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
          "english": "Tasty",
          "russian": "вкусно",
          "theme": "youtube",
@@ -2916,8 +1257,8 @@
          "id": 0,
          "english": "Cost",
          "russian": "стоить (глагол)",
-         "theme": "",
-         "rightAnswer": 0
+         "theme": "youtube",
+         "rightAnswer": 1
       },
       {
          "id": 0,
@@ -2937,13 +1278,6 @@
          "id": 0,
          "english": "this",
          "russian": "этот",
-         "theme": "pronoun",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "before",
-         "russian": "до",
          "theme": "pronoun",
          "rightAnswer": 0
       },
@@ -3467,13 +1801,6 @@
       },
       {
          "id": 0,
-         "english": "Other side",
-         "russian": "другая сторона",
-         "theme": "Phrase",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
          "english": "rat",
          "russian": "крыса",
          "theme": "nature",
@@ -3649,13 +1976,6 @@
       },
       {
          "id": 0,
-         "english": "large",
-         "russian": "обширный",
-         "theme": "adjective",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
          "english": "bloody",
          "russian": "кровавый",
          "theme": "",
@@ -3778,13 +2098,6 @@
          "english": "Option",
          "russian": "вариант",
          "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "force",
-         "russian": "сила (f)",
-         "theme": "noun",
          "rightAnswer": 0
       },
       {
@@ -4671,13 +2984,6 @@
       },
       {
          "id": 0,
-         "english": "Weak",
-         "russian": "слабый",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
          "english": "Agreement",
          "russian": "договоренность",
          "theme": "",
@@ -5191,21 +3497,14 @@
          "id": 0,
          "english": "be able",
          "russian": "смогу (будущее)",
-         "theme": "youtube",
-         "rightAnswer": 0
+         "theme": "",
+         "rightAnswer": 1
       },
       {
          "id": 0,
          "english": "somebody",
          "russian": "кто нибудь",
          "theme": "pronoun",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "build",
-         "russian": "строить",
-         "theme": "verb",
          "rightAnswer": 0
       },
       {
@@ -5234,13 +3533,6 @@
          "english": "Event",
          "russian": "событие",
          "theme": "Work",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Produce",
-         "russian": "производить",
-         "theme": "",
          "rightAnswer": 0
       },
       {
@@ -5927,13 +4219,6 @@
          "english": "tsunami",
          "russian": "цунами",
          "theme": "Travel",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "bad",
-         "russian": "плохой",
-         "theme": "adjective",
          "rightAnswer": 0
       },
       {
@@ -7359,29 +5644,8 @@
       },
       {
          "id": 0,
-         "english": "Bigger",
-         "russian": "больше",
-         "theme": "",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "Able",
-         "russian": "умеет",
-         "theme": "",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
          "english": "Deep",
          "russian": "глубоко",
-         "theme": "",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "Sharp",
-         "russian": "острый",
          "theme": "",
          "rightAnswer": 1
       },
@@ -8115,13 +6379,6 @@
       },
       {
          "id": 0,
-         "english": "Cleaner",
-         "russian": "чище (дом)",
-         "theme": "",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
          "english": "Cheaper",
          "russian": "дешевле",
          "theme": "",
@@ -8244,13 +6501,6 @@
          "english": "Disappointed",
          "russian": "расстроенный",
          "theme": "",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "Cost",
-         "russian": "стоить (глагол)",
-         "theme": "youtube",
          "rightAnswer": 1
       },
       {
@@ -8600,13 +6850,6 @@
          "id": 0,
          "english": "Fell",
          "russian": "упал",
-         "theme": "",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "Smaller",
-         "russian": "меньше (меньше чем)",
          "theme": "",
          "rightAnswer": 1
       },
@@ -9067,13 +7310,6 @@
       },
       {
          "id": 0,
-         "english": "Roof",
-         "russian": "крыша",
-         "theme": "",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
          "english": "hair",
          "russian": "волосы",
          "theme": "body",
@@ -9119,13 +7355,6 @@
          "english": "Refuse to",
          "russian": "отказываться _",
          "theme": "preposition",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "be able",
-         "russian": "смогу (будущее)",
-         "theme": "",
          "rightAnswer": 1
       },
       {
@@ -9333,15 +7562,2136 @@
       },
       {
          "id": 0,
-         "english": "short",
-         "russian": "короткий",
+         "english": "Wheel",
+         "russian": "колесо",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Participate",
+         "russian": "принимать участие",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "holiday",
+         "russian": "праздничный день",
+         "theme": "noun",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Inspire",
+         "russian": "вдохновлять",
          "theme": "adjective",
          "rightAnswer": 1
       },
       {
          "id": 0,
-         "english": "Wheel",
-         "russian": "колесо",
+         "english": "daughter",
+         "russian": "дочь",
+         "theme": "nature",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "other",
+         "russian": "другие",
+         "theme": "pronoun",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "a Bit",
+         "russian": "немного B",
+         "theme": "Phrase",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Powerful",
+         "russian": "мощный",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Issue",
+         "russian": "проблема",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "As always",
+         "russian": "как всегда, як завжди",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "sun",
+         "russian": "солнце",
+         "theme": "nature",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "goodbye",
+         "russian": "до свидания",
+         "theme": "preposition",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Prepare",
+         "russian": "подготовится",
+         "theme": "studies",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "what",
+         "russian": "что",
+         "theme": "pronoun",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "shit",
+         "russian": "дерьмо",
+         "theme": "nature",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Waste time",
+         "russian": "тратить время",
+         "theme": "Phrase",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "print",
+         "russian": "печатать",
+         "theme": "verb",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "How many",
+         "russian": "Сколько (друзей)",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "policeman",
+         "russian": "полицейский",
+         "theme": "nature",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "sometimes",
+         "russian": "иногда",
+         "theme": "pronoun",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Siblings",
+         "russian": "братья и сёстры",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "anyone",
+         "russian": "любой",
+         "theme": "pronoun",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "monkey",
+         "russian": "обезьяна",
+         "theme": "nature",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "teacher",
+         "russian": "учитель",
+         "theme": "nature",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "door",
+         "russian": "дверь",
+         "theme": "noun",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "web",
+         "russian": "сеть, паутина",
+         "theme": "noun",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Look it up in a dictionary",
+         "russian": "найти это в словаре",
+         "theme": "preposition",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Question mark",
+         "russian": "вопросительный знак",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "drunk",
+         "russian": "пьяный",
+         "theme": "adjective",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Library",
+         "russian": "библиотека",
+         "theme": "studies",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "please",
+         "russian": "пожалуйста",
+         "theme": "preposition",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Invent",
+         "russian": "изобретать",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "too",
+         "russian": "слишком",
+         "theme": "preposition",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "thing",
+         "russian": "вещь",
+         "theme": "noun",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Quickly",
+         "russian": "быстро Q",
+         "theme": "Time",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Region",
+         "russian": "район R",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Activity",
+         "russian": "деятельность",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "long",
+         "russian": "длинный",
+         "theme": "adjective",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "friend",
+         "russian": "друг",
+         "theme": "nature",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "wait",
+         "russian": "ждать",
+         "theme": "verb",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Explanation",
+         "russian": "объяснения",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "eight",
+         "russian": "8",
+         "theme": "число",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Slim",
+         "russian": "стройный",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "on",
+         "russian": "на",
+         "theme": "preposition",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "song",
+         "russian": "песня",
+         "theme": "noun",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "always",
+         "russian": "всегда",
+         "theme": "adverb",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "today",
+         "russian": "сегодня",
+         "theme": "adverb",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Insist on",
+         "russian": "настаивать на",
+         "theme": "preposition",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "spider",
+         "russian": "паук",
+         "theme": "nature",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "kind",
+         "russian": "добрый",
+         "theme": "adjective",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Improve",
+         "russian": "улучшить",
+         "theme": "studies",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Valley",
+         "russian": "долина",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "six",
+         "russian": "6",
+         "theme": "число",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "January",
+         "russian": "январь",
+         "theme": "time",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "father",
+         "russian": "отец",
+         "theme": "nature",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Bilingual",
+         "russian": "двуязычный (знает два языка)",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "color",
+         "russian": "цвет",
+         "theme": "nature",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Suspicious",
+         "russian": "подозрительно",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Response",
+         "russian": "ответ R",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "However",
+         "russian": "Однако",
+         "theme": "preposition",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "textbook",
+         "russian": "учебник",
+         "theme": "noun",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Waste of time",
+         "russian": "потеря времени",
+         "theme": "Phrase",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Suit",
+         "russian": "подходит",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "tonight",
+         "russian": "сегодня вечером",
+         "theme": "adverb",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "oneself",
+         "russian": "себя",
+         "theme": "pronoun",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "autumn",
+         "russian": "осень",
+         "theme": "time",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Will Start doing",
+         "russian": "начнёт делать",
+         "theme": "Will",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "learn",
+         "russian": "учиться",
+         "theme": "verb",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "grey",
+         "russian": "серый",
+         "theme": "adjective",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Walk into",
+         "russian": "зайти внутрь",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "wrong",
+         "russian": "неправильный",
+         "theme": "adjective",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "tree",
+         "russian": "дерево",
+         "theme": "nature",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "manner",
+         "russian": "манера",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "god",
+         "russian": "бог",
+         "theme": "noun",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "way",
+         "russian": "путь",
+         "theme": "noun",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Financial",
+         "russian": "финансовый",
+         "theme": "Work",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "forget",
+         "russian": "забывать",
+         "theme": "verb",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Brilliant",
+         "russian": "блестящий",
+         "theme": "studies",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "from",
+         "russian": "из",
+         "theme": "preposition",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Tall",
+         "russian": "высокий",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Low blow",
+         "russian": "удар ниже пояса",
+         "theme": "Phrase",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Desk",
+         "russian": "письменный стол",
+         "theme": "Work",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "seventeen",
+         "russian": "17",
+         "theme": "число",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "hospital",
+         "russian": "больница",
+         "theme": "noun",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "fox",
+         "russian": "лиса",
+         "theme": "nature",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Windy",
+         "russian": "ветреный",
+         "theme": "Weather",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "window",
+         "russian": "окно",
+         "theme": "noun",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Thoroughly",
+         "russian": "тщательно",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "meat",
+         "russian": "мясо",
+         "theme": "food",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Simple",
+         "russian": "простой",
+         "theme": "studies",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Decision",
+         "russian": "решение",
+         "theme": "Work",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "person",
+         "russian": "человек",
+         "theme": "nature",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "country",
+         "russian": "страна",
+         "theme": "noun",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "warm",
+         "russian": "тёплый",
+         "theme": "adjective",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Afraid of",
+         "russian": "испуган от",
+         "theme": "preposition",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Influence",
+         "russian": "влиять на",
+         "theme": "preposition",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Conversation",
+         "russian": "разговор",
+         "theme": "",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "fall",
+         "russian": "падать",
+         "theme": "verb",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Correctly",
+         "russian": "правильно",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Compare",
+         "russian": "сравнить",
+         "theme": "Work",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Expression",
+         "russian": "выражение",
+         "theme": "studies",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "On Wednesdays",
+         "russian": "по средам",
+         "theme": "preposition",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "The day after tomorrow",
+         "russian": "послезавтра",
+         "theme": "Time",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Write it down",
+         "russian": "записывать что то",
+         "theme": "Phrase",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Wise",
+         "russian": "мудрый",
+         "theme": "studies",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "app",
+         "russian": "приложение",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Range",
+         "russian": "диапазон",
+         "theme": "Work",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Absent",
+         "russian": "отсутствует",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "So what",
+         "russian": "ну и что?",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "In The end",
+         "russian": "в конце",
+         "theme": "studies",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Thursday",
+         "russian": "четверг",
+         "theme": "time",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "toothbrush",
+         "russian": "зубная щётка",
+         "theme": "Home",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "together",
+         "russian": "вместе",
+         "theme": "adverb",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Entry",
+         "russian": "вход",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Native speaker",
+         "russian": "носитель языка",
+         "theme": "studies",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Prison",
+         "russian": "тюрьма",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Go on",
+         "russian": "продолжать 2 слова",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "cut",
+         "russian": "резать",
+         "theme": "verb",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "open",
+         "russian": "открывать",
+         "theme": "verb",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "cake",
+         "russian": "пироженое",
+         "theme": "food",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "June",
+         "russian": "июнь",
+         "theme": "time",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Poor",
+         "russian": "бедный",
+         "theme": "Home",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "woman",
+         "russian": "женщина",
+         "theme": "nature",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Aunt",
+         "russian": "тетка",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Current",
+         "russian": "текущий (курс)",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "more",
+         "russian": "более",
+         "theme": "adjective",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "fly",
+         "russian": "летать",
+         "theme": "verb",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Friendly",
+         "russian": "дружелюбный",
+         "theme": "duolingo",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Famous",
+         "russian": "известный",
+         "theme": "Work",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "weather",
+         "russian": "погода",
+         "theme": "nature",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "add",
+         "russian": "добавлять",
+         "theme": "verb",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Polite",
+         "russian": "вежливый",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Translate from into",
+         "russian": "переводить с на",
+         "theme": "preposition",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "sister",
+         "russian": "сестра",
+         "theme": "nature",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "shop",
+         "russian": "магазин",
+         "theme": "noun",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "life",
+         "russian": "жизнь",
+         "theme": "nature",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Different",
+         "russian": "другой, разные",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "March",
+         "russian": "март",
+         "theme": "time",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "break",
+         "russian": "ломать, перерыв",
+         "theme": "verb",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "bye",
+         "russian": "пока",
+         "theme": "preposition",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Educated",
+         "russian": "образованный",
+         "theme": "studies",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Foreign",
+         "russian": "иностранный",
+         "theme": "studies",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Belong to",
+         "russian": "принадлежать",
+         "theme": "preposition",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "False",
+         "russian": "не правда",
+         "theme": "Work",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Might",
+         "russian": "возможно (modal)",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Living",
+         "russian": "живой",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "toilet",
+         "russian": "туалет",
+         "theme": "noun",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "nature",
+         "russian": "природа",
+         "theme": "nature",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "few",
+         "russian": "мало",
+         "theme": "pronoun",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Attitude to",
+         "russian": "отношение к",
+         "theme": "preposition",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "light",
+         "russian": "более лёгкий, свет",
+         "theme": "adjective",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "sir",
+         "russian": "сэр",
+         "theme": "nature",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "hi",
+         "russian": "привет",
+         "theme": "preposition",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "fifteen",
+         "russian": "15",
+         "theme": "число",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "By profession",
+         "russian": "по профессии",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "speed",
+         "russian": "скорость",
+         "theme": "noun",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "In a year",
+         "russian": "(выучить) за год",
+         "theme": "Time",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "become",
+         "russian": "стать",
+         "theme": "verb",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Clear",
+         "russian": "ясно понятно",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "ask",
+         "russian": "спрашивать",
+         "theme": "verb",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "tiger",
+         "russian": "тигр",
+         "theme": "nature",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "party",
+         "russian": "вечеринка",
+         "theme": "noun",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "hope",
+         "russian": "надеяться",
+         "theme": "verb",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "As soon as possible",
+         "russian": "как можно быстрее",
+         "theme": "Time",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "with",
+         "russian": "с",
+         "theme": "preposition",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "car",
+         "russian": "автомобиль",
+         "theme": "noun",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "fish",
+         "russian": "рыба",
+         "theme": "nature",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "abroad",
+         "russian": "за границей",
+         "theme": "Travel",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "red",
+         "russian": "красный",
+         "theme": "adjective",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Slowly",
+         "russian": "медленно S",
+         "theme": "Time",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Fourth",
+         "russian": "четвёртое",
+         "theme": "Time",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "only",
+         "russian": "только",
+         "theme": "adverb",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Clothes",
+         "russian": "одежда",
+         "theme": "Home",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Take place",
+         "russian": "проходит (иметь место)",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "without",
+         "russian": "без",
+         "theme": "preposition",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "joke",
+         "russian": "шутка",
+         "theme": "noun",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Sunday",
+         "russian": "воскресенье",
+         "theme": "time",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Dry",
+         "russian": "сушить",
+         "theme": "Home",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Comfortable",
+         "russian": "удобное",
+         "theme": "youtube",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "I feel sorry for the boy",
+         "russian": "мне жаль этого парня",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "here",
+         "russian": "здесь",
+         "theme": "pronoun",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Monday",
+         "russian": "понедельник",
+         "theme": "time",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Repair",
+         "russian": "исправить",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "December",
+         "russian": "декабрь",
+         "theme": "time",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Get a job",
+         "russian": "получить работу",
+         "theme": "Work",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "silver",
+         "russian": "серебро",
+         "theme": "nature",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Present day",
+         "russian": "сегодня",
+         "theme": "Time",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "As",
+         "russian": "в то время когда (я ем _ я гуляю)",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "not",
+         "russian": "не",
+         "theme": "preposition",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "it seems to be",
+         "russian": "это кажется",
+         "theme": "Phrase",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Surprising",
+         "russian": "удивительный",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Criticize",
+         "russian": "критиковать",
+         "theme": "youtube",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Assistant",
+         "russian": "ассистент",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "fork",
+         "russian": "вилка",
+         "theme": "noun",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Frighten",
+         "russian": "пугает",
+         "theme": "verb",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "kill",
+         "russian": "убийство",
+         "theme": "verb",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "puddle",
+         "russian": "лужа",
+         "theme": "Place",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "how",
+         "russian": "как",
+         "theme": "pronoun",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "North",
+         "russian": "север",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "sea",
+         "russian": "море",
+         "theme": "nature",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Good at",
+         "russian": "хорошо от",
+         "theme": "preposition",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Nowhere",
+         "russian": "нигде",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "wolf",
+         "russian": "волк",
+         "theme": "nature",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "What time",
+         "russian": "в какое время",
+         "theme": "Time",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Important",
+         "russian": "важный",
+         "theme": "Work",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "wife",
+         "russian": "жена",
+         "theme": "nature",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "difficult",
+         "russian": "трудный",
+         "theme": "adjective",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Shirt",
+         "russian": "рубашка",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "box",
+         "russian": "коробка",
+         "theme": "noun",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Except for",
+         "russian": "кроме __(огурцов)",
+         "theme": "preposition",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "which",
+         "russian": "который",
+         "theme": "pronoun",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "beach",
+         "russian": "пляж",
+         "theme": "nature",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Ineffective",
+         "russian": "неэффективно",
+         "theme": "Work",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "I'll",
+         "russian": "болен",
+         "theme": "Home",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "it",
+         "russian": "это",
+         "theme": "pronoun",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "love",
+         "russian": "любить",
+         "theme": "verb",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "use",
+         "russian": "использовать",
+         "theme": "verb",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "worse",
+         "russian": "хуже",
+         "theme": "adjective",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "capital",
+         "russian": "столица",
+         "theme": "noun",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "The end",
+         "russian": "конец",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "quantity",
+         "russian": "количество",
+         "theme": "Work",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "rain",
+         "russian": "дождь",
+         "theme": "nature",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "name",
+         "russian": "имя, назвать",
+         "theme": "noun",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "no",
+         "russian": "нет",
+         "theme": "preposition",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Meet",
+         "russian": "знакомиться, встречать",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Twice",
+         "russian": "дважды",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Roof",
+         "russian": "крыша",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Build",
+         "russian": "строить",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Apply",
+         "russian": "применить, подать заявку, занести",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Beat",
+         "russian": "бить, победить",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Reach",
+         "russian": "достиг, достигнуть, тянутся",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Finish",
+         "russian": "закончить",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Service",
+         "russian": "услуга",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Construction",
+         "russian": "строительство",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Act",
+         "russian": "поступок",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Other countries",
+         "russian": "другие страны",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Another country",
+         "russian": "другая страна",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Other side",
+         "russian": "другая сторона",
+         "theme": "Phrase",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Another opportunity",
+         "russian": "еще одна возможность",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "It's very kind of you",
+         "russian": "это очень приятно с твоей стороны",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Weak",
+         "russian": "слабый",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Large",
+         "russian": "большой (L)",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Able",
+         "russian": "способный, здібний",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "after",
+         "russian": "после",
+         "theme": "adverb",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "Older",
+         "russian": "старше (возраст)",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Younger",
+         "russian": "младше (возраст)",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Bigger",
+         "russian": "больше (размер)",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "More or less",
+         "russian": "более менее",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Cleaner",
+         "russian": "чище (чистота)",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Short",
+         "russian": "низкий, короткий",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Bad",
+         "russian": "плохой",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Fair",
+         "russian": "ярмарок, справедливо, красавица, русый",
+         "theme": "Place",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "constant",
+         "russian": "постоянный, постоянная величина",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Take on",
+         "russian": "взять на",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "just",
+         "russian": "только, просто, только что",
+         "theme": "adverb",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Will finish doing",
+         "russian": "закончу делать (Будущее)",
+         "theme": "Will",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Should",
+         "russian": "следует",
+         "theme": "modal",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "near",
+         "russian": "около, рядом",
+         "theme": "preposition",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Absence",
+         "russian": "отсутствие, недостаток, неявка",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "they",
+         "russian": "они",
+         "theme": "pronoun",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "understand",
+         "russian": "понимать",
+         "theme": "verb",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "apartment",
+         "russian": "квартира (A)",
+         "theme": "Home",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Edge of",
+         "russian": "край _",
+         "theme": "preposition",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Spend on",
+         "russian": "тратить на",
+         "theme": "preposition",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "town",
+         "russian": "город (T)",
+         "theme": "noun",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "response time",
+         "russian": "время отклика",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Wake",
+         "russian": "будить, просыпаться, осознать, очнуться",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Production",
+         "russian": "производство",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Over time everything changes",
+         "russian": "со временем всё меняется",
+         "theme": "Phrase",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "This problem has nothing to do with you",
+         "russian": "эта проблема не имеет к тебе отношения",
+         "theme": "Phrase",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "View",
+         "russian": "вид, мнение, взгляд",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Met",
+         "russian": "знаком",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Living room",
+         "russian": "прихожая комната",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Assume",
+         "russian": "допускать, Предполагать, присваивать себе",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Transform",
+         "russian": "превратиться",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Sharp",
+         "russian": "острый",
+         "theme": "",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "Tremendous",
+         "russian": "огромный, потрясающий",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Private",
+         "russian": "приватно",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Independent of",
+         "russian": "независимая от, самостоятельный _",
+         "theme": "preposition",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Considerably",
+         "russian": "значительно (С)",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "stone",
+         "russian": "камень",
+         "theme": "nature",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Avenue",
+         "russian": "проспект",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "all",
+         "russian": "все",
+         "theme": "pronoun",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "get",
+         "russian": "получать, попасть, добираться",
+         "theme": "verb",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "letter",
+         "russian": "буква, письмо, символ",
+         "theme": "noun",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "call",
+         "russian": "вызов, призыв, зов",
+         "theme": "verb",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Worry",
+         "russian": "беспокоить, волноваться",
+         "theme": "Home",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Opposite",
+         "russian": "противоположные",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "thousand",
+         "russian": "1000",
+         "theme": "число",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "enjoy",
+         "russian": "наслаждаться",
+         "theme": "verb",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "foot",
+         "russian": "нога",
+         "theme": "body",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "easy",
+         "russian": "легко, лёгкий, спокойно ",
+         "theme": "adjective",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "castle",
+         "russian": "замок",
+         "theme": "noun",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "soft",
+         "russian": "мягкий",
+         "theme": "adjective",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "On Holiday",
+         "russian": "На выходных",
+         "theme": "Work",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Illness",
+         "russian": "болезнь (простуда)",
+         "theme": "youtube",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Lawyer",
+         "russian": "юрист",
+         "theme": "Work",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "less",
+         "russian": "менее, меньше",
+         "theme": "adjective",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "modern",
+         "russian": "современный",
+         "theme": "adjective",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Bag",
+         "russian": "сумка",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "seven",
+         "russian": "7",
+         "theme": "число",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "On top",
+         "russian": "сверху",
+         "theme": "Phrase",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Sign",
+         "russian": "подписать",
+         "theme": "Work",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "save",
+         "russian": "спасать",
+         "theme": "verb",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Manage",
+         "russian": "уметь (управлять)",
          "theme": "",
          "rightAnswer": 1
       }
