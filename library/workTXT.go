@@ -4,6 +4,7 @@ import (
 	"fmt"
 	"io"
 	"os"
+	"strconv"
 
 	"github.com/Wolfxxxz/Dictionary/internal/app/models"
 )
@@ -21,6 +22,8 @@ func SaveTXT(s []*models.Word, files string) {
 		file.WriteString(v.Russian)
 		file.WriteString(" - ")
 		file.WriteString(v.Theme)
+		file.WriteString(" - ")
+		file.WriteString(strconv.Itoa(v.RightAswer))
 		file.WriteString("\n")
 	}
 	//fmt.Println("Done.")
