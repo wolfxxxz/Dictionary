@@ -37,6 +37,12 @@ func SaveForLearningTxt(s []*models.Word, files string) {
 	defer file.Close()
 	for _, v := range s {
 		file.WriteString(v.English)
+		var length = len(v.English)
+		if length <= 30 {
+			for i := 0; i+length <= 25; i++ {
+				file.WriteString(" ")
+			}
+		}
 		file.WriteString(" - ")
 		file.WriteString(v.Russian)
 		file.WriteString("\n")

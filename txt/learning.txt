@@ -1,40 +1,44 @@
-Currently - В настоящее время, теперь
-to - в, к
-excuse - извинять
-into - в
-begin - начинать
-Potential - потенциальный
-fake - поддельный
-Attractive - привлекательный
-notify - уведомить, поставить в известность
-Notification - уведомление
-work properly - работать правильно
-ridge - хребет
-Lay laid laid - ставить
-Woke up - проснуться
-Specious - просторная
-Notificat - уведомлять
-Hurt hurt hurt - задеть, слегка повредить
-It stopped working properly - это сломалось
-Sing sang sung - петь
-Forget forgot forgot - забывать
-Hide hid hidden - прятать
-Ride rode ridden - водить, ехать
-Feed fed fed - кормить
-Swim swam swum - плавать
-Pond - пруд
-Blow blew blown - дуть
-Injury - сильно задеть
-Dream dreamt dreamt - мечтать
-Steal stole stolen - украсть
-Jewelry - украшения
-Wake woke woken - просыпаться
-Dig dug dug - рыть
-Hole - яма
-Forgive forgave forgiven - прощать
-Hold held held - держать в руках
-Break down - сломаться
-Draw drew drawn - рисовать
-Deal dealt dealt - иметь дело
-Throw threw thrown - бросать
-Wear wore worn - носить (одежду)
+ridge                      - хребет
+Lay laid laid              - ложить
+Woke up                    - проснулся
+Hurt hurt hurt             - обижать, задеть, слегка повредить
+It stopped working properly - Он перестал работать должным образом
+Forget forgot forgotten    - забывать
+Hide hid hidden            - прятать
+Ride rode ridden           - водить, ехать
+Feed fed fed               - кормить
+Swim swam swum             - плавать
+Pond                       - пруд
+Blow blew blown            - дуть
+Injury                     - рана, травма
+Dream dreamt dreamt        - мечтать
+Steal stole stolen         - украсть
+Jewelry                    - украшения
+Wake woke waken            - просыпаться
+Dig dug dug                - рыть
+Hole                       - яма, отверстие, дыра
+Forgive forgave forgiven   - прощать
+Hold held held             - держать в руках
+Break down                 - сломаться
+Draw drew drawn            - рисовать
+Deal dealt dealt           - иметь дело
+Throw threw thrown         - бросать
+Wear wore worn             - носить (одежду)
+Teach taught taught        - преподавать
+Lie lay lain               - лежать
+Lie lied lied              - Врать (не путать с лежать)
+Fly flew flown             - летать
+Instead of                 - вместо (него)
+remove                     - удалять
+replace                    - заменять
+reverse                    - обращать
+prepend                    - добавлять в начало
+increment                  - увеличивать
+decrement                  - уменьшать
+allocate                   - выделять память
+deallocate                 - освобождать память
+initialize                 - инициализировать
+execute                    - выполнять
+compile                    - компилировать
+exception                  - исключение
+throw                      - выбрасывать исключение

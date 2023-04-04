@@ -2,83 +2,6 @@
    "Words": [
       {
          "id": 0,
-         "english": "Currently",
-         "russian": "В настоящее время, теперь",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "to",
-         "russian": "в, к",
-         "theme": "preposition",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "excuse",
-         "russian": "извинять",
-         "theme": "verb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "into",
-         "russian": "в",
-         "theme": "preposition",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "begin",
-         "russian": "начинать",
-         "theme": "verb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Potential",
-         "russian": "потенциальный",
-         "theme": "Work",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "fake",
-         "russian": "поддельный",
-         "theme": "adjective",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Attractive",
-         "russian": "привлекательный",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "notify",
-         "russian": "уведомить, поставить в известность",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Notification",
-         "russian": "уведомление",
-         "theme": "",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "work properly",
-         "russian": "работать правильно",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
          "english": "ridge",
          "russian": "хребет",
          "theme": "",
@@ -87,55 +10,34 @@
       {
          "id": 0,
          "english": "Lay laid laid",
-         "russian": "ставить",
+         "russian": "ложить",
          "theme": "irregular verb",
          "rightAnswer": 0
       },
       {
          "id": 0,
          "english": "Woke up",
-         "russian": "проснуться",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Specious",
-         "russian": "просторная",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Notificat",
-         "russian": "уведомлять",
+         "russian": "проснулся",
          "theme": "",
          "rightAnswer": 0
       },
       {
          "id": 0,
          "english": "Hurt hurt hurt",
-         "russian": "задеть, слегка повредить",
+         "russian": "обижать, задеть, слегка повредить",
          "theme": "irregular verb",
          "rightAnswer": 0
       },
       {
          "id": 0,
          "english": "It stopped working properly",
-         "russian": "это сломалось",
+         "russian": "Он перестал работать должным образом",
          "theme": "",
          "rightAnswer": 0
       },
       {
          "id": 0,
-         "english": "Sing sang sung",
-         "russian": "петь",
-         "theme": "irregular verb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Forget forgot forgot",
+         "english": "Forget forgot forgotten",
          "russian": "забывать",
          "theme": "irregular verb",
          "rightAnswer": 0
@@ -185,7 +87,7 @@
       {
          "id": 0,
          "english": "Injury",
-         "russian": "сильно задеть",
+         "russian": "рана, травма",
          "theme": "",
          "rightAnswer": 0
       },
@@ -212,7 +114,7 @@
       },
       {
          "id": 0,
-         "english": "Wake woke woken",
+         "english": "Wake woke waken",
          "russian": "просыпаться",
          "theme": "irregular verb",
          "rightAnswer": 0
@@ -227,7 +129,7 @@
       {
          "id": 0,
          "english": "Hole",
-         "russian": "яма",
+         "russian": "яма, отверстие, дыра",
          "theme": "",
          "rightAnswer": 0
       },
@@ -282,13 +184,6 @@
       },
       {
          "id": 0,
-         "english": "Fashionable",
-         "russian": "модная",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
          "english": "Teach taught taught",
          "russian": "преподавать",
          "theme": "irregular verb",
@@ -320,13 +215,6 @@
          "english": "Instead of",
          "russian": "вместо (него)",
          "theme": "preposition",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Half an hour",
-         "russian": "полчаса",
-         "theme": "",
          "rightAnswer": 0
       },
       {
@@ -403,13 +291,6 @@
          "id": 0,
          "english": "compile",
          "russian": "компилировать",
-         "theme": "Programming",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "error",
-         "russian": "ошибка",
          "theme": "Programming",
          "rightAnswer": 0
       },
@@ -12101,6 +11982,118 @@
          "english": "Customer",
          "russian": "покупатель",
          "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Currently",
+         "russian": "В настоящее время, теперь",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "excuse",
+         "russian": "извинять",
+         "theme": "verb",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "into",
+         "russian": "в",
+         "theme": "preposition",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "begin",
+         "russian": "начинать",
+         "theme": "verb",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "to",
+         "russian": "в, к",
+         "theme": "preposition",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "fake",
+         "russian": "поддельный",
+         "theme": "adjective",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Attractive",
+         "russian": "привлекательный",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Potential",
+         "russian": "потенциальный",
+         "theme": "Work",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "notify",
+         "russian": "уведомить, поставить в известность",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Notification",
+         "russian": "уведомление",
+         "theme": "",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "work properly",
+         "russian": "работать правильно",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Spacious",
+         "russian": "просторная",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Sing sang sung",
+         "russian": "петь",
+         "theme": "irregular verb",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Fashionable",
+         "russian": "модная",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Half an hour",
+         "russian": "полчаса",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "error",
+         "russian": "ошибка",
+         "theme": "Programming",
          "rightAnswer": 1
       }
    ]

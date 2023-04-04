@@ -1,36 +1,22 @@
-Currently - В настоящее время, теперь
-to - в, к
-excuse - извинять
-into - в
-begin - начинать
-Potential - потенциальный
-fake - поддельный
-Attractive - привлекательный
-notify - уведомить, поставить в известность
-Notification - уведомление
-work properly - работать правильно
 ridge - хребет
-Lay laid laid - ставить
-Woke up - проснуться
-Specious - просторная
-Notificat - уведомлять
-Hurt hurt hurt - задеть, слегка повредить
-It stopped working properly - это сломалось
-Sing sang sung - петь
-Forget forgot forgot - забывать
+Lay laid laid - ложить
+Woke up - проснулся
+Hurt hurt hurt - обижать, задеть, слегка повредить
+It stopped working properly - Он перестал работать должным образом
+Forget forgot forgotten - забывать
 Hide hid hidden - прятать
 Ride rode ridden - водить, ехать
 Feed fed fed - кормить
 Swim swam swum - плавать
 Pond - пруд
 Blow blew blown - дуть
-Injury - сильно задеть
+Injury - рана, травма
 Dream dreamt dreamt - мечтать
 Steal stole stolen - украсть
 Jewelry - украшения
-Wake woke woken - просыпаться
+Wake woke waken - просыпаться
 Dig dug dug - рыть
-Hole - яма
+Hole - яма, отверстие, дыра
 Forgive forgave forgiven - прощать
 Hold held held - держать в руках
 Break down - сломаться
@@ -38,13 +24,11 @@ Draw drew drawn - рисовать
 Deal dealt dealt - иметь дело
 Throw threw thrown - бросать
 Wear wore worn - носить (одежду)
-Fashionable - модная
 Teach taught taught - преподавать
 Lie lay lain - лежать
 Lie lied lied - Врать (не путать с лежать)
 Fly flew flown - летать
 Instead of - вместо (него)
-Half an hour - полчаса
 remove - удалять
 replace - заменять
 reverse - обращать
@@ -56,7 +40,6 @@ deallocate - освобождать память
 initialize - инициализировать
 execute - выполнять
 compile - компилировать
-error - ошибка
 exception - исключение
 throw - выбрасывать исключение
 try - пробовать
@@ -1727,3 +1710,19 @@ Catch caught caught - ловить
 Masterpiece - шедевр
 Courageously - отважно
 Customer - покупатель
+Currently - В настоящее время, теперь
+excuse - извинять
+into - в
+begin - начинать
+to - в, к
+fake - поддельный
+Attractive - привлекательный
+Potential - потенциальный
+notify - уведомить, поставить в известность
+Notification - уведомление
+work properly - работать правильно
+Spacious - просторная
+Sing sang sung - петь
+Fashionable - модная
+Half an hour - полчаса
+error - ошибка
