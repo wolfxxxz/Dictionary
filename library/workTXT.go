@@ -4,7 +4,6 @@ import (
 	"fmt"
 	"io"
 	"os"
-	"strconv"
 
 	"github.com/Wolfxxxz/Dictionary/internal/app/models"
 )
@@ -20,10 +19,10 @@ func SaveTXT(s []*models.Word, files string) {
 		file.WriteString(v.English)
 		file.WriteString(" - ")
 		file.WriteString(v.Russian)
-		file.WriteString(" - ")
+		/*file.WriteString(" - ")
 		file.WriteString(v.Theme)
 		file.WriteString(" - ")
-		file.WriteString(strconv.Itoa(v.RightAswer))
+		file.WriteString(strconv.Itoa(v.RightAswer))*/
 		file.WriteString("\n")
 	}
 	//fmt.Println("Done.")
@@ -147,6 +146,7 @@ func UpdateLibrary(filetxt string, oldWords []*models.Word) {
 		fmt.Println("                   New Words Add:", d-c)
 		Savejson(rttt, "txt/library.json")
 		SaveTXT(rttt, "txt/library.txt")
+		//SaveTXT(rttt, "English_words.lnk/library.txt")
 	} else {
 		fmt.Println("Для загрузки слов списком необходимо упорядочить и вставить слова в файл 'newWords.txt'")
 		fmt.Println("english - перевод - тема")

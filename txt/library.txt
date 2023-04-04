@@ -1,1468 +1,1729 @@
-laugh - смеяться -  - 0
-succeed - добиться успеха -  - 0
-change - изменять - verb - 0
-growth - рост -  - 0
-challenge - вызов, испытание -  - 0
-refuse - отказываться -  - 0
-improve - улучшать -  - 0
-experience - опыт -  - 0
-compete - соревноваться -  - 0
-prevent - предотвращать -  - 0
-create - создавать -  - 0
-attend - присутствовать, посещать -  - 0
-develop - развиваться -  - 0
-adapt - адаптироваться -  - 0
-achieve - достигать -  - 0
-communicate - общаться -  - 0
-overcome - преодолеть -  - 0
-discover - открывать -  - 0
-inspire - вдохновлять -  - 0
-motivate - мотивировать -  - 0
-At least - принаймні, хотя бы -  - 0
-Instead - Вместо -  - 0
-Part - Часть -  - 0
-Piece - кусочек -  - 0
-classmate - однокласник -  - 0
-by heart - наизусть -  - 0
-get got got - получить - irregular verb - 0
-Take took taken - брать - irregular verb past - 0
-See saw seen - видеть - irregular verb - 0
-mean meant meant - иметь в виду (означать) - irregular verb - 0
-show showed shown - показывать - irregular verb - 0
-Leave Left Left - уходить, покидать - irregular verb - 0
-run ran run - бежать - irregular verb - 0
-bring brought brought - принести - irregular verb - 0
-sit sat sat - сидеть - irregular verb - 0
-stand stood stood - встать - irregular verb - 0
-Lose lost lost - терять - irregular verb - 0
-cut cut cut - резать - irregular verb - 0
-Fall fell fallen - упал - irregular verb - 0
-talk - разговаривать - verb - 0
-Choose chose chosen - выбирать - irregular verb - 0
-Fit fit fit - подходит (типа convenient) - irregular verb - 0
-Death died die - смерть - irregular verb - 0
-Allow allowed allowed - разрешить - irregular verb - 0
-favor - одолжение -  - 0
-bitterly - горько -  - 0
-using - испольЗУЯ -  - 0
-postpone - откладывать (на потом) -  - 0
-put off - откладывать (на потом) - phrase verb - 0
-quietly - тихо -  - 0
-upset - расстроенный (U) -  - 0
-Find out - узнали -  - 0
-give up smoking - бросить курить - phrase verb - 0
-i mean to do it - я хочу сделать это - Phrase - 0
-outstanding - выдающийся -  - 0
-i leave for - я уезжаю в - Phrase - 0
-i heard it in the news - я услышал это в новостях - Phrase - 0
-sit down - присесть - Phrase - 0
-set up a company - основать компанию - Phrase - 0
-i cut myself - я порезался - Phrase - 0
-Force - заставить -  - 0
-Increase - усилить, увеличить -  - 0
-Though - хотя, однако, несмотря на, даже, всё таки -  - 0
-Accept - принять -  - 0
-Avoid - избегать -  - 0
-Define - определять, давать характеристику -  - 0
-Affect - влиять, действовать (A) -  - 0
-Protection - защита (P) -  - 0
-Content - состав, зміст, наполнение -  - 0
-What made him change his mind - что заставило его изменить свое мнение - Phrase - 0
-Has turned into - превратился - Phrase - 0
-Previous - предыдущий -  - 0
-Reduce - уменьшить -  - 0
-amount - количество (a) -  - 0
-before - до - pronoun - 0
-Efficient - эффективно -  - 0
-Pretty - довольно, красиво -  - 0
-Currently - В настоящее время, теперь -  - 0
-above - выше, свыше, более - pronoun - 0
-least - наименее, как минимум - adjective - 0
-else - ещё, иначе, кроме - pronoun - 0
-to - в, к - preposition - 0
-Bring in - приносить -  - 0
-still - всё ещё, ещё, до сих пор - adverb - 0
-eagle - орёл - nature - 0
-Feeling - чувство - Home - 0
-Depends on - зависит от - preposition - 0
-school - школа - noun - 0
-Pronunciation - произношение -  - 0
-happy - счастливый - adjective - 0
-ball - мяч - noun - 0
-Sooner or later - рано или поздно - Phrase - 0
-remember - помнить - verb - 0
-child - ребёнок - nature - 0
-milk - молоко - food - 0
-big - большой - adjective - 0
-pay - платить - verb - 0
-now - сейчас - adverb - 0
-animal - животное - nature - 0
-strange - странный - adjective - 0
-drink - пить - verb - 0
-fourteen - 14 - число - 0
-Earlier - ранее - Time - 0
-excuse - извинять - verb - 0
-into - в - preposition - 0
-begin - начинать - verb - 0
-Potential - потенциальный - Work - 0
-trouble - проблема - noun - 0
-fake - поддельный - adjective - 0
-Attractive - привлекательный -  - 0
-Prepare for - подготовиться к - preposition - 0
-wing - крыло - body - 0
-random - случайный - adjective - 0
-You don't say - не может быть - Phrase - 0
-parent - родитель - nature - 0
-Beginner - новичок - studies - 0
-cow - корова - nature - 0
-sorry - мне жаль - preposition - 0
-Success - успех - Work - 0
-old - старый - adjective - 0
-Mix up - перемешать -  - 0
-Raise - растить -  - 0
-Passion - страсть -  - 0
-Rich - богатый - Work - 0
-Sure - конечно -  - 0
-explain - объясни -  - 0
-Trousers - брюки - clothes - 0
-map - карта - noun - 0
-On time - вовремя - Phrase - 0
-Route - маршрут -  - 0
-Meaning - значение - studies - 0
-Article - статья - Work - 0
-Exactly - точно! , конкретнее -  - 0
-Recent - свежая -  - 0
-button - кнопка - noun - 0
-In August - в августе - preposition - 0
-Careful - осторожно -  - 0
-twelve - 12 - число - 0
-hand - рука - body - 0
-danger - опасность - noun - 0
-Community - общество -  - 0
-Tasty - вкусно - youtube - 0
-nickname - прозвище - noun - 0
-Right now - прямо сейчас - Time - 0
-Health - здоровье - Home - 0
-news - новости - noun - 0
-hear - слышать - verb - 0
-Skirt - юбка -  - 0
-Earn - заработать - Work - 0
-river - река - nature - 0
-voice - голос - body - 0
-main - главный - adjective - 0
-translate - переводить - verb - 0
-Start doing - начать делать -  - 0
-Impolite - невежливый -  - 0
-next - следующий - adjective - 0
-find - находить - verb - 0
-nine - 9 - число - 0
-hell - ад - noun - 0
-Borrow - брать в долг -  - 0
-cheese - сыр - food - 0
-Lead to - приводит к - preposition - 0
-chief - начальник - Work - 0
-truth - правда - noun - 0
-Objective - цель (O) -  - 0
-page - страница - noun - 0
-Huge - огромный -  - 0
-always the same - всегда одно и тоже - Phrase - 0
-far - далёкий - adjective - 0
-most - наиболее - adjective - 0
-Cost - стоить (глагол) - youtube - 1
-heavy - тяжёлый - adjective - 0
-Fluently - свободно - studies - 0
-this - этот - pronoun - 0
-Leave - покидать -  - 0
-bedroom - спальня - noun - 0
-How much - Сколько (денег) -  - 0
-bread - хлеб - food - 0
-about - о - pronoun - 0
-Have read - прочитать -  - 0
-dinner - ужин - food - 0
-heart - сердце - body - 0
-own - собственный - adjective - 0
-answer - отвечать - verb - 0
-Guard - охранник - Work - 0
-day - день - time - 0
-egg - яйцо - nature - 0
-at the end of the meeting - в конце встречи - Time - 0
-of - из - preposition - 0
-such - такой - pronoun - 0
-The worst - самый худший -  - 0
-paradise - рай - noun - 0
-dear - дорогой, уважаемый - adjective - 0
-Zip it - закрой рот - Phrase - 0
-Serious - серьезный -  - 0
-I busy next week - я занят на следующей неделе - Time - 0
-Calculate - рассчитать -  - 0
-home - дом - noun - 0
-brain - мозг - body - 0
-Rightly - правильно (r) - studies - 0
-girlfriend - девушка (его) - nature - 0
-An Important - не важный - Work - 0
-or - или - preposition - 0
-month - месяц - time - 0
-cat - кошка - nature - 0
-again - снова - adverb - 0
-year - год - time - 0
-tomorrow - завтра - adverb - 0
-bus - автобус - noun - 0
-those - те - pronoun - 0
-evening - вечер - time - 0
-Smile at - улыбается над - preposition - 0
-third - третий - число - 0
-fruit - фрукт - food - 0
-Degree - научная степень -  - 0
-Sofa - диван -  - 0
-Root - корень -  - 0
-Cabinet - шкаф -  - 0
-Hotel - отель -  - 0
-String - нитка, шнурок -  - 0
-West - запад -  - 0
-Rent - арендовать -  - 0
-Boat - лодка -  - 0
-Pan - сковорода -  - 0
-Pool - бассейн -  - 0
-Soap - мыло -  - 0
-Sponge - губка -  - 0
-Chain - цепь -  - 0
-Novel - роман -  - 0
-Almost - майже, почти -  - 0
-Colorful - блестящий -  - 0
-Born - рожденный -  - 0
-Go anywhere you want to - иди куда угодно -  - 0
-Scissors - ножницы -  - 0
-Flight - полет, рейс -  - 0
-Guide - гид -  - 0
-Won - выиграл -  - 0
-The machine - машина -  - 0
-Lost - потеряла -  - 0
-Brown - коричневый -  - 0
-The window - окно -  - 0
-Basket - корзина -  - 0
-Individual - личность -  - 0
-flower - цветок - nature - 0
-guy - парень, чувак - nature - 0
-better - лучший - adjective - 0
-Unusual - необычно -  - 0
-price - цена - noun - 0
-rat - крыса - nature - 0
-Felt - упал -  - 0
-Grade - класс -  - 0
-Front of - перед ___ - preposition - 0
-Ands - заканчивается -  - 0
-Whenever - когда угодно -  - 0
-Edge of the building - край здания -  - 0
-Approximately - приблизительно -  - 0
-Pretty tired - достаточно уставший -  - 0
-Perfectly - полностью -  - 0
-Bicycle - велосипед -  - 0
-present - подарок - noun - 0
-forward - вперёд - adverb - 0
-coin - монета - noun - 0
-clean - чистый - adjective - 0
-net - сеть - noun - 0
-Any more - некогда больше -  - 0
-Run away - убегай -  - 0
-Tuesday - вторник - time - 0
-why - почему - pronoun - 0
-cook - готовить - verb - 0
-win - побеждать - verb - 0
-Comb - гребешок -  - 0
-The couple - эти женатики (пара) -  - 0
-Both sides - обе стороны -  - 0
-bloody - кровавый -  - 0
-Birth - рождение - Home - 0
-someone - кто нибудь - pronoun - 0
-blue - синий - adjective - 0
-Mention - упоминать -  - 0
-twenty - 20 - число - 0
-play - играть - verb - 0
-Depend on - зависит от - preposition - 0
-Only once - только раз - Phrase - 0
-dark - тёмный - adjective - 0
-walk - идти пешком - verb - 0
-last - последний - adjective - 0
-Solution to - решение __ - preposition - 0
-green - зелёный - adjective - 0
-Waiter - официант -  - 0
-Spoke - говорил (прошлое) -  - 0
-The way - путь -  - 0
-Option - вариант -  - 0
-at - в, на - pronoun - 0
-Really - Действительно -  - 0
-glad - радостный, рад (видеть) - adjective - 0
-peace - мир - noun - 0
-Follow - следуй (иди за мной) -  - 0
-Append - добавить, присоединять - Work - 0
-kiss - целовать - verb - 0
-Stage - стадия -  - 0
-wash - мыть - verb - 0
-size - размер - noun - 0
-Pass me - передай мне -  - 0
-ocean - океан - nature - 0
-eye - глаз - body - 0
-water - вода - nature - 0
-mirror - зеркало - noun - 0
-pass - сдать (тест) - studies - 0
-where - где - pronoun - 0
-do - делать - verb - 0
-already - уже - adverb - 0
-Separately - раздельно - youtube - 0
-Proud of - гордится за - preposition - 0
-Everyone - все(he, she) -  - 0
-and - и - preposition - 0
-orange - оранжевый - adjective - 0
-Area - область, район - Place - 0
-Regret - сожалеть -  - 0
-Award - награда -  - 0
-than - чем, кроме, как - preposition - 0
-Holy crap - чёрт возьми - Phrase - 0
-Apologize - извиняться -  - 0
-Neither me nor yours - не моя и не твоя - Phrase - 0
-by - через, по, на, при - preposition - 0
-teach - учат, обучать - verb - 0
-Will Get tired - скоро устанешь -  - 0
-Not Definitely - не точно -  - 0
-More than enough - больше чем достаточно -  - 0
-sweet - сладкий - adjective - 0
-close - близкий, закрыть - adjective - 0
-Achievement - достижение -  - 0
-In general - в основном - preposition - 0
-Marriage - свадьба - Home - 0
-take - брать - verb - 0
-against - против - preposition - 0
-Familiar - знакомо -  - 0
-back - назад - adverb - 0
-hour - час - time - 0
-horse - лошадь - nature - 0
-black - чёрный - adjective - 0
-Condition - условия - studies - 0
-Artist - художник -  - 0
-Furniture - мебель - youtube - 0
-Miss - соскучиться (за кем - Home - 0
-nothing - ничто - pronoun - 0
-blood - кровь - body - 0
-Opinion - мнение - Work - 0
-In front - перед (собакой) - preposition - 0
-Express - выразят, выскажут -  - 0
-elephant - слон - nature - 0
-Reinvent - переизбирать -  - 0
-Each other - друг друга - Phrase - 0
-Victim - жертва -  - 0
-Motorcycle - мотоцикл -  - 0
-Bell - звон, колокол -  - 0
-Airplane - самолет -  - 0
-Departure - отъезд -  - 0
-Village - село -  - 0
-Lady - пані -  - 0
-Suitcase - чемодан -  - 0
-Vehicle - транспорт -  - 0
-Engine - двигатель -  - 0
-Drive - управлять (ехать) -  - 0
-Necessary - необходимый -  - 0
-push - толкать - verb - 0
-then - тогда - adverb - 0
-language - язык - noun - 0
-bee - пчела - nature - 0
-ok - окей -  - 0
-Length - длина - Work - 0
-Go Shopping - ходить за покупками - Phrase - 0
-Public - публика -  - 0
-Subway - метро -  - 0
-Whole - вся (площадь) -  - 0
-Sheet - лист, страница -  - 0
-Bus station - автовокзал -  - 0
-Foundation - фундамент -  - 0
-Any case - любой случай -  - 0
-Mortal - смертельный -  - 0
-end - заканчивать - verb - 0
-nice - приятный - adjective - 0
-could - мог - verb - 0
-Delicious - очень вкусно - youtube - 0
-smile - улыбаться - verb - 0
-so - так - preposition - 0
-Elder - старше - youtube - 0
-brother - брат - nature - 0
-Trip - поездка - Work - 0
-time - время - time - 0
-kitchen - кухня - noun - 0
-Multiply - умножить - Time - 0
-Birthday - день рождения - Home - 0
-bathroom - ванная - noun - 0
-Youth - молодежь -  - 0
-For example - например -  - 0
-market - рынок - noun - 0
-Just in case - на всякий случай - Phrase - 0
-Behaviour - поведение - youtube - 0
-The most interesting - самый интересный - Phrase - 0
-Confuse - перепутать -  - 0
-Possible - возможно -  - 0
-July - июль - time - 0
-Full of - полон чего -  - 0
-first - первый - число - 0
-who - кто - pronoun - 0
-for - для - preposition - 0
-gold - золото - nature - 0
-run - бежать - verb - 0
-Control - контролирую -  - 0
-Sentence - речення - studies - 0
-Border - граница -  - 0
-Expensive - дорогой - Home - 0
-None of them - никто из них -  - 0
-know - знать - verb - 0
-Inform - информировать -  - 0
-table - стол - noun - 0
-Agreement - договоренность -  - 0
-Effect - последствия -  - 0
-Demand - требовать -  - 0
-Allow - разрешать (дозволяти) -  - 0
-Journey - поездка -  - 0
-half - половина - noun - 0
-off - из, вне - preposition - 0
-Approach - подход -  - 0
-kingdom - королевство - noun - 0
-Charge - заведует (чем то) -  - 0
-live - жить - verb - 0
-war - война - noun - 0
-Whose - чей, чья -  - 0
-Bowl - миска -  - 0
-ticket - билет - Travel - 0
-lesson - урок - noun - 0
-sleep - спать - verb - 0
-Interested in - заинтересован в - preposition - 0
-Pure - чистый -  - 0
-Relationships - отношения (с родителями) -  - 0
-Neighborhood - район -  - 0
-Application - заявка -  - 0
-It's a matter of time - это дело времени -  - 0
-Introduction - вступление -  - 0
-No Biggie - не страшно - Phrase - 0
-Just in time - как раз вовремя - Phrase - 0
-Convenient - подходящий -  - 0
-Deny - отрицать -  - 0
-Take off - снять (одежду) - clothes - 0
-these - эти - pronoun - 0
-taxi - такси -  - 0
-Island - остров - Place - 0
-Threat - угроза -  - 0
-family - семья - nature - 0
-bear - медведь - nature - 0
-September - сентябрь - time - 0
-admire - восхищаться -  - 0
-hot - горячий - adjective - 0
-ten - 10 - число - 0
-fire - огонь - nature - 0
-ship - корабль - noun - 0
-city - город - noun - 0
-must - должен - verb - 0
-over - над - preposition - 0
-catch up - догонять(два слова) - Phrase - 0
-any - любой - pronoun - 0
-Clever - умный - Work - 0
-waterfall - водопад - Place - 0
-Because of - из за (твоей собаки) - preposition - 0
-crazy - безумный - adjective - 0
-Garden - сад - Place - 0
-Impossible - невозможно -  - 0
-forever - навсегда - adverb - 0
-Loud - громко -  - 0
-think - думать - verb - 0
-Subject - предмет -  - 0
-April - апрель - time - 0
-give - давать - verb - 0
-king - король - noun - 0
-Dictionary - словарь - studies - 0
-die - умирать - verb - 0
-Walk by - идти мимо -  - 0
-cool - классный - adjective - 0
-Certain - уверен -  - 0
-pencil - карандаш - noun - 0
-lose - проигрывать - verb - 0
-Corner - перекресток - Place - 0
-among - среди - pronoun - 0
-picture - картинка - noun - 0
-Higher - выше -  - 0
-believe - верить - verb - 0
-Perfectly realize - прекрасно осознавать - Phrase - 0
-Simplicity - простота - studies - 0
-be able - смогу (будущее) -  - 1
-somebody - кто нибудь - pronoun - 0
-cup - чашка - noun - 0
-Normal - обычный -  - 0
-jump - прыгать - verb - 0
-Event - событие - Work - 0
-Uncle - дядя -  - 0
-Early - рано - Time - 0
-Another apple - еще одно яблоко - Phrase - 0
-Is Anybody with you - с тобой кто то есть? - Phrase - 0
-Put on - надевать (шапку) -  - 0
-In total - всего (нас всего) -  - 0
-Per - за (метр за секунду) -  - 0
-Majority - большинство -  - 0
-Count on - рассчитывать на -  - 0
-As far as i know - насколько я знаю - Phrase - 0
-Gets - получает -  - 0
-Ask for - просит _ - preposition - 0
-pull - тянуть - verb - 0
-fight - драться - verb - 0
-wind - ветер - nature - 0
-gloomy - пасмурный - Weather - 0
-ring - кольцо - noun - 0
-Fits - подходит (одежда) -  - 0
-Serves - подавать (девушка подаёт воду) -  - 0
-Non of us - никто из нас - Phrase - 0
-he assumes - он предпологает -  - 0
-yes/yeah - да - preposition - 0
-Judge - судья - Work - 0
-fun - веселье - noun - 0
-Achieve this aim - достигнуть этой цели -  - 0
-How often - как часто - Time - 0
-anything - что угодно - pronoun - 0
-Join - присоединится -  - 0
-Hurry up - торопиться - Phrase - 0
-well - хорошо - adverb - 0
-mind - разум - body - 0
-ground - земля - nature - 0
-Lucky - везучий -  - 0
-keep in touch - оставаться на связи - Phrase - 0
-Busy - занят - Work - 0
-Sleep on it - обдумать еще раз - Phrase - 0
-Go away - уйди -  - 0
-On Tuesday - во вторник - preposition - 0
-something - что нибудь - pronoun - 0
-Local - местный - Place - 0
-Inconvenient - неудобно (время) - youtube - 0
-speech - речь - noun - 0
-hunt - охотиться - verb - 0
-death - смерть - nature - 0
-Measure - меры -  - 0
-beautiful - красивый - adjective - 0
-two - 2 - число - 0
-face - лицо - body - 0
-come - приходить - verb - 0
-dirty - грязный - adjective - 0
-Notice - заметят -  - 0
-Flat - квартира - Home - 0
-even - даже - adverb - 0
-nobody - никто - pronoun - 0
-plate - тарелка - noun - 0
-we - мы - pronoun - 0
-Department - отдел -  - 0
-Go to bed - ложиться спать - Time - 0
-Come back - вернуться (два слова) -  - 0
-Competition - соревнование - studies - 0
-Wednesday - среда - time - 0
-Elementary - элементарный - studies - 0
-Zoo - зоопарк -  - 0
-Criminal - преступник -  - 0
-The study - исследование -  - 0
-Announce - объявлять -  - 0
-itself - сам - pronoun - 0
-mouth - рот - body - 0
-Return - вернуться (одно слово) -  - 0
-Divorced - разведен - Home - 0
-dad - папа - nature - 0
-he - он - pronoun - 0
-Rains - дощ - Weather - 0
-head - голова - body - 0
-Forgive - простить -  - 0
-start - начинать - verb - 0
-road - дорога - noun - 0
-night - ночь - time - 0
-Adult - взрослый - Home - 0
-show - показывать - verb - 0
-in - в - preposition - 0
-beer - пиво - food - 0
-Hard working - трудолюбивый - Work - 0
-that - тот - pronoun - 0
-help - помогать - verb - 0
-For years - годами - Time - 0
-Advertisement - рекламное объявление - youtube - 0
-Every human - каждый человек - Phrase - 0
-upon - на - pronoun - 0
-Only once in a year - только раз в год? - Phrase - 0
-bike - мотоцикл - noun - 0
-Guess - отгадать -  - 0
-Brave - смелая -  - 0
-wild - дикий - adjective - 0
-tsunami - цунами - Travel - 0
-dream - мечтать - verb - 0
-calm down - успокоиться - Phrase - 0
-Stupid - глупый S - Work - 0
-Obviously - очевидно - studies - 0
-screen - экран - noun - 0
-pasta - макароны - food - 0
-mom - мама - nature - 0
-Share - разделять -  - 0
-Friday - пятница - time - 0
-Currency - валюта -  - 0
-August - август - time - 0
-question - вопрос - noun - 0
-Completely - полностью (согласен) -  - 0
-Watch your mouth - следи за словами -  - 0
-air - воздух - nature - 0
-some - некоторое количество - pronoun - 0
-girl - девочка - nature - 0
-enemy - враг - nature - 0
-Commercial - коммерческий - Work - 0
-To be - быть -  - 0
-Point of view - точка зрения - Phrase - 0
-He is away - он отсутствует (уехал далеко) - Phrase - 0
-room - комната - noun - 0
-Grateful to for - благодарен __(кому за) - preposition - 0
-Order - приказывать - Work - 0
-Include - включает (еда) -  - 0
-five - 5 - число - 0
-tea - чай - food - 0
-ready - готовый - adjective - 0
-apple - яблоко - food - 0
-October - октябрь - time - 0
-real - реальный - adjective - 0
-message - сообщение - noun - 0
-supper - поздний ужин - food - 1
-land - земля L - nature - 1
-Easily - спокойно -  - 1
-Not necessarily - не обязательно - Phrase - 1
-bull - бык - nature - 1
-A lot - много -  - 1
-mix - смешивать - verb - 1
-cherry - вишня - food - 1
-baby - крошка - nature - 1
-any longer - не дольше -  - 1
-Intermediate - средний (уровень) - studies - 1
-Rude - грубый -  - 1
-The Costs - издержки, расходы -  - 1
-Unknown - неизвестно - Work - 1
-Reason for - причина __ - preposition - 1
-knife - нож - noun - 1
-wall - стена - noun - 1
-delete - удалять - verb - 1
-Equipment - оборудование - Work - 1
-have - иметь - verb - 1
-fresh - свежий - adjective - 1
-There - там -  - 1
-lunch - обед - food - 1
-Fat - толстый - youtube - 1
-Disease - болезнь (тяжелая) - youtube - 1
-forest - лес - nature - 1
-nasty weather - неприятная погода - Phrase - 1
-top - верх - noun - 1
-everything - всё - pronoun - 1
-paint - рисовать - verb - 1
-Frequent - часто происходит -  - 1
-every - каждый - pronoun - 1
-Correct - правильный -  - 1
-Grown Up - взрослый - Home - 1
-Choice - выбор -  - 1
-Responsible - ответственный -  - 1
-Devote to - уделять (время) для - preposition - 1
-away - прочь - pronoun - 1
-Razor - бритва -  - 1
-hello - привет - preposition - 1
-Evidence - доказательство -  - 1
-dolphin - дельфин - nature - 1
-sixteen - 16 - число - 1
-Guest - гость - Home - 1
-pig - свинья - nature - 1
-right - правильный - adjective - 1
-last for about - (это будет) длится около -  - 1
-Legal - законный - Work - 1
-read - читать - verb - 1
-Listen to - слышать кого - то - 1
-hard - тяжёлый, жёсткий - adjective - 1
-until - до тех пор (пока) - preposition - 1
-Nowadays - настоящее время (одно слово) - Time - 1
-Excellent - отлично E -  - 1
-soul - душа - body - 1
-many - много (идей) - pronoun - 1
-eat - кушать - verb - 1
-queen - королева - noun - 1
-Alone - (живёт) сама - youtube - 1
-another - другой (мир) - pronoun - 1
-Fond of - обожаю - preposition - 1
-buy - покупать - verb - 1
-Farm - ферма - Place - 1
-On a regular basis - на регулярной основе (регулярно) - preposition - 1
-son - сын - nature - 1
-summer - лето - time - 1
-mouse - мышь - nature - 1
-Continue doing - продолжить делать -  - 1
-Armchair - кресло - Work - 1
-Useless - бесполезный - Work - 1
-if - если - preposition - 1
-stop - останавливать - verb - 1
-Continue - продолжать -  - 1
-Get up - вставать - Time - 1
-cry - плакать - verb - 1
-number - число - число - 1
-The only right - единственно верное -  - 1
-breakfast - завтрак - food - 1
-but - но - preposition - 1
-try - пробовать - verb - 1
-Yard - улица, двор -  - 1
-Interrupt - перебивать -  - 1
-lemon - лимон - food - 1
-generation - поколение - Time - 1
-left - левый - adjective - 1
-Dangerous - опасно - Work - 1
-tale - сказка - noun - 1
-because - потому что - preposition - 1
-nose - нос - body - 1
-through - сквозь (через) - pronoun - 1
-In the beginning - в начале - preposition - 1
-luck - удача - noun - 1
-Powder - порошок -  - 1
-Purpose - цель -  - 1
-Religious - верующая -  - 1
-spoon - ложка - noun - 1
-Prefers - предпочитает -  - 1
-Attack - атаковать -  - 1
-Think it over - обдумать это -  - 1
-swim - плавать - verb - 1
-between - между - pronoun - 1
-November - ноябрь - time - 1
-young - молодой - adjective - 1
-three - 3 - число - 1
-lion - лев - nature - 1
-Promise - обещать - Home - 1
-Church - церковь - Place - 1
-book - книга - noun - 1
-dog - собака - nature - 1
-tell - говорить (кому то) - verb - 1
-behind - за - pronoun - 1
-final - последний, решающий - adjective - 1
-Despite - не смотря на (одно слово) -  - 1
-keep - держать (хранить) - verb - 1
-Reply - ответ (редко) - youtube - 1
-Whole night - всю ночь -  - 1
-look at - смотреть на - verb - 1
-true - истинный - adjective - 1
-Worker - рабочий -  - 1
-Pleasure - удовольствие - Home - 1
-Authorities - власти -  - 1
-watch - смотреть (телевизор) - verb - 1
-Exercise - заниматься спортом -  - 1
-i mean - я имею в виду - Phrase - 1
-sky - небо - nature - 1
-study - учиться - verb - 1
-Angry - злой - Work - 1
-Tower - башня -  - 1
-Bad at - плохо от - preposition - 1
-visa - виза -  - 1
-when - когда - pronoun - 1
-street - улица - noun - 1
-feel - чувствовать - verb - 1
-work - работать - verb - 1
-mad - безумный - adjective - 1
-very - очень - adverb - 1
-Width - ширина - Work - 1
-quick - быстрый - adjective - 1
-choose - выбирать - verb - 1
-Anywhere - где угодно -  - 1
-moon - луна - nature - 1
-hundred - 100 (сто) - число - 1
-cheap - дешёвый - adjective - 1
-at the beginning of the year - в начале этого года - Time - 1
-clock - часы - noun - 1
-can - может - verb - 1
-Get dark - темнеет - Weather - 1
-Century - 100 летие - Time - 1
-The staff - сотрудники -  - 1
-Employee - работник - Work - 1
-down - вниз - adverb - 1
-Resolve the conflict - решить конфликт -  - 1
-Tired of - устал от - preposition - 1
-under - под - preposition - 1
-Memory - память - Work - 1
-low - низкий - adjective - 1
-you - ты - pronoun - 1
-Somehow - как то -  - 1
-Rest - отдыхать -  - 1
-word - слово - noun - 1
-chicken - курица, цыплёнок - nature - 1
-four - 4 - число - 1
-Check - проверить -  - 1
-Marry - жениться на - preposition - 1
-Available - доступен -  - 1
-world - мир - noun - 1
-sad - грустный - adjective - 1
-wish - желать - verb - 1
-Deep - глубоко -  - 1
-Square - площадь -  - 1
-Useful - полезный - Work - 1
-yellow - жёлтый - adjective - 1
-yesterday - вчера - adverb - 1
-flee - спасаться бегством - Phrase - 1
-Accident - происшествие -  - 2
-Accuse of - обвинять в -  - 2
-Adapt to - адаптироваться к - preposition - 1
-At once - сразу же (во первых) - Phrase - 1
-Attention - внимание -  - 2
-Beauty - красота -  - 2
-Behave very badly - вести себя очень плохо - Phrase - 2
-Cousin - двоюродный брат -  - 2
-Crime - преступление -  - 2
-Cross - пересекать (улицу) -  - 2
-dance - танцевать - verb - 1
-Deliver - доставлять -  - 2
-Describe - описывать -  - 1
-Description - описание -  - 1
-Deserved - заслужила - past - 2
-Developed - развивать (past) -  - 1
-Died - умер (past) -  - 1
-Disappeared - исчезли (past) -  - 1
-During - на протяжении (моего сна) -  - 1
-Effort - усилие -  - 1
-Enter - входить, вступать, поступать -  - 1
-Example - пример -  - 2
-Expected - ожидал (past) -  - 1
-Expectedly - ожидаемо -  - 1
-fill - наполнять - verb - 1
-Following - следующие (ошибки) -  - 2
-Greatly - очень сильно -  - 1
-Calm - спокойный -  - 1
-Complain - жалуется - Work - 1
-Confirm - подтвердить -  - 2
-Customer - покупатель -  - 2
-Divide it into - делить это на - preposition - 1
-Face problem - столкнутся с проблемой -  - 1
-Guild - вина -  - 1
-Had a rest - отдыхал -  - 2
-Happened to - произошло с - preposition - 2
-Have a rest - отдыхать - Phrase - 2
-He washed himself - он покупался - Phrase - 2
-I washed myself - я покупался -  - 2
-Introduce - представить -  - 1
-Invite to - приглашать на -  - 1
-Killed - убили (past) -  - 1
-Knock at - стучать в -  - 2
-Last for - длится _ -  - 2
-Midnight - полночь -  - 2
-Negative - отрицательная -  - 2
-Opportunity - возможность -  - 1
-Pack - упаковать -  - 2
-Parcel - посылка -  - 2
-Park there - парковаться там -  - 2
-Partly - частично -  - 1
-Rarely - редко -  - 2
-React to - реагировать на - preposition - 1
-Receive - получать, принимать -  - 1
-repeat - повторять - verb - 1
-Required - требовало (past) -  - 1
-respect - уважать - verb - 1
-Returned - вернулся (past) -  - 1
-Saint - святой -  - 2
-She washed herself - она покупалась -  - 2
-Singer - певец -  - 2
-Skills - навыки -  - 1
-Strong - сильный -  - 1
-Task - задача -  - 2
-Tend - тенденция -  - 2
-The following - следующие (вопросы) -  - 1
-Thief - вор -  - 2
-Turn - поворачивать -  - 2
-Unique - уникальная -  - 2
-victory - победа - noun - 2
-Wait for - ждать _ (кого то) - preposition - 1
-Wait for him - ждать его -  - 1
-I washed my face - я вымыл лицо -  - 1
-A couple of questions - пара вопросов -  - 1
-Abilities - способности -  - 1
-Appearance - внешность -  - 1
-Defend - защищать -  - 1
-Goods - товары -  - 1
-Moved - переехал (past) -  - 1
-Passed - сдал, прошел (past) -  - 1
-Perform - исполнять (выступать) -  - 2
-Prayed - молился -  - 1
-Provided - обеспечивали (предоставляли) -  - 1
-Reached - достиг -  - 1
-Require - требовать -  - 1
-Revised - повторённый, пересмотренный -  - 1
-Several - несколько -  - 2
-sing - петь - verb - 1
-Sound - звучать -  - 2
-Stay - остаться -  - 1
-Stayed - оставался (past) -  - 1
-Suddenly - вдруг, внезапно -  - 1
-The day before yesterday - позавчера -  - 1
-To our surprise - к нашему удивлению - Phrase - 2
-Turn on - включить -  - 1
-Fell off into - упал с , на - preposition - 1
-Cheaper - дешевле -  - 1
-engineer - инженер - nature - 1
-jug - кувшин - Home - 1
-mail - почта - noun - 1
-Data - данные - Work - 1
-He is out - его нет дома (но он рядом) - Phrase - 1
-spring - весна - time - 1
-smoke - дым, курить - nature - 1
-winter - зима - time - 1
-week - неделя - time - 1
-husband - муж, супруг - nature - 1
-eighteen - 18 - число - 1
-eleven - 11 - число - 1
-each - каждый - pronoun - 1
-power - сила - noun - 1
-food - еда - food - 1
-The same - то же самое (два слова) -  - 1
-Disappointed - расстроенный -  - 1
-Quite seldom - достаточно редко -  - 1
-Expect - ожидать -  - 1
-For no reason - без какой либо причины - Phrase - 1
-Happen to - произошло с -  - 1
-Happily - счастливо -  - 1
-high - высокий - adjective - 1
-Imagine - воображать -  - 2
-Punish - наказывать -  - 1
-Remained - оставался (past) -  - 1
-Seldom - редко -  - 1
-Suggested - предлагал (past) -  - 1
-Suggested going - предлагал пойти (past) - Phrase - 1
-Switch on - включить -  - 1
-Went to the park on foot - пошли в парк пешком (go) -  - 1
-also - также - adverb - 1
-Front - перед (домом) -  - 1
-art - искусство - noun - 1
-Division - деление - Time - 1
-may - мочь - verb - 1
-Lend - давать в долг - Work - 1
-Property - недвижимость -  - 1
-small - маленький - adjective - 1
-In spite of - несмотря на (с предлогом) - preposition - 1
-Report - отчёт -  - 1
-hate - ненавидеть - verb - 1
-man - человек, мужик - nature - 1
-bed - кровать - noun - 1
-Vegetables - овощи -  - 1
-Late - опоздавший -  - 1
-Finish it - закончить это -  - 1
-full - полный - adjective - 1
-Chair - стул - Home - 1
-sell - продавать - verb - 1
-Catch - поймать -  - 1
-want - хотеть - verb - 1
-Significantly - значительно (S) -  - 1
-police - полиция - Work - 1
-much - много - pronoun - 1
-owe them - Должен им -  - 1
-Anniversary - годовщина -  - 1
-Consider - учитывать -  - 1
-Inform of - информировать о - preposition - 1
-Innocent - невинный -  - 1
-Remain - остатся, продержатся -  - 1
-Revis - повторить, пересмотреть -  - 1
-Suggest - предлагать -  - 1
-Topic - тема -  - 1
-Unexpectedly - неожиданно - ly - 1
-Wash up the dishes - мыть посуду - Phrase - 1
-Fell - упал -  - 1
-Impress - впечатлять -  - 1
-grass - трава - nature - 1
-Equal - одинаковые - Work - 1
-ear - ухо - body - 1
-Usually - обычно - Time - 1
-Piss me off - вывести из себя - Phrase - 1
-Keen on - увлекатся - preposition - 1
-hold - держать - verb - 1
-everybody - каждый (человек) - pronoun - 1
-make - делать (что то новое) - verb - 1
-Will it last for - Сколько это продлится? - preposition - 1
-Career - карьера - Work - 1
-while - пока - preposition - 1
-Everywhere - везде -  - 1
-same - тот же - adjective - 1
-tent - палатка - Place - 1
-Amazing - восхитительно -  - 1
-relax - расслабляться - verb - 1
-soon - скоро - adverb - 1
-Pair - пара -  - 1
-sit - сидеть - verb - 1
-Sales - продажи -  - 1
-like - любить - verb - 1
-listen - слушать - verb - 1
-Advertising - реклама - Work - 1
-What kind of - какого рода? - Phrase - 1
-need - нуждаться - verb - 1
-bird - птица - nature - 1
-Pay for - платить за - preposition - 1
-write - писать - verb - 1
-cold - холодный - adjective - 1
-Pocket - карман - clothes - 1
-Single - один - Home - 1
-place - место - noun - 1
-pink - розовый - adjective - 1
-Double - удвоить -  - 1
-see - видеть - verb - 1
-white - белый - adjective - 1
-devil - дьявол - noun - 1
-Satisfied with - удовлетворён с - preposition - 1
-never - никогда - adverb - 1
-zero - 0 - число - 1
-Funny - забавно - Home - 1
-juice - сок - food - 1
-game - игра - noun - 1
-nineteen - 19 - число - 1
-camel - верблюд - nature - 1
-Afternoon - днем -  - 1
-Deserve - заслуживать -  - 1
-To get in touch with - связаться с -  - 1
-device - прибор - noun - 1
-Disagree - не согласен - Work - 1
-On a business trip - в командировке - Work - 1
-little - маленький - adjective - 1
-ice - лёд - nature - 1
-See you tomorrow - увидимся завтра - Phrase - 1
-Adjective - прилагательное -  - 1
-Advanced - продвинутый - studies - 1
-money - деньги - noun - 1
-Saturday - суббота - time - 1
-Laugh at - смеяться над - preposition - 1
-thirteen - 13 - число - 1
-stand - стоять - verb - 1
-around - вокруг - pronoun - 1
-Will Continue doing - будет продолжать делать -  - 1
-hair - волосы - body - 1
-Pass by - проходят мимо - Phrase - 1
-Certainly - конечно -  - 1
-mean - означать, иметь в виду - verb - 1
-good - хороший - adjective - 1
-train - тренировка - Home - 1
-Refuse to - отказываться _ - preposition - 1
-go - идти - verb - 1
-February - февраль - time - 1
-at first - сначала - Time - 1
-people - люди - nature - 1
-Phrase - фраза - youtube - 1
-fast - быстрый - adjective - 1
-new - новый - adjective - 1
-Thin - тощий -  - 1
-boy - мальчик - nature - 1
-Behave - ведёт себя -  - 1
-sugar - сахар - food - 1
-duck - утка - nature - 1
-Trust - доверяю - Work - 1
-body - тело - body - 1
-morning - утро - time - 1
-soup - суп - food - 1
-she - она - pronoun - 1
-usual - обычный - adjective - 1
-travel - путешествовать - verb - 1
-mother - мать - nature - 1
-second - второй - число - 1
-Special - особенный -  - 1
-West Coast - западный берег -  - 1
-Free - (быть) свободным -  - 1
-Bed Sheet - простынь -  - 1
-star - звезда - nature - 1
-Celebrate - праздновать - youtube - 1
-enough - достаточно - adverb - 1
-along - вдоль - pronoun - 1
-Wheel - колесо -  - 1
-Participate - принимать участие -  - 1
-holiday - праздничный день - noun - 1
-daughter - дочь - nature - 1
-other - другие - pronoun - 1
-a Bit - немного B - Phrase - 1
-Powerful - мощный -  - 1
-Issue - проблема -  - 1
-As always - как всегда, як завжди -  - 1
-sun - солнце - nature - 1
-goodbye - до свидания - preposition - 1
-Prepare - подготовится - studies - 1
-what - что - pronoun - 1
-shit - дерьмо - nature - 1
-Waste time - тратить время - Phrase - 1
-print - печатать - verb - 1
-How many - Сколько (друзей) -  - 1
-policeman - полицейский - nature - 1
-sometimes - иногда - pronoun - 1
-Siblings - братья и сёстры -  - 1
-anyone - любой - pronoun - 1
-monkey - обезьяна - nature - 1
-teacher - учитель - nature - 1
-door - дверь - noun - 1
-web - сеть, паутина - noun - 1
-Look it up in a dictionary - найти это в словаре - preposition - 1
-Question mark - вопросительный знак -  - 1
-drunk - пьяный - adjective - 1
-Library - библиотека - studies - 1
-please - пожалуйста - preposition - 1
-Invent - изобретать -  - 1
-too - слишком - preposition - 1
-thing - вещь - noun - 1
-Quickly - быстро Q - Time - 1
-Region - район R -  - 1
-Activity - деятельность -  - 1
-long - длинный - adjective - 1
-friend - друг - nature - 1
-wait - ждать - verb - 1
-Explanation - объяснения -  - 1
-eight - 8 - число - 1
-Slim - стройный -  - 1
-on - на - preposition - 1
-song - песня - noun - 1
-always - всегда - adverb - 1
-today - сегодня - adverb - 1
-Insist on - настаивать на - preposition - 1
-spider - паук - nature - 1
-kind - добрый - adjective - 1
-Valley - долина -  - 1
-six - 6 - число - 1
-January - январь - time - 1
-father - отец - nature - 1
-Bilingual - двуязычный (знает два языка) -  - 1
-color - цвет - nature - 1
-Suspicious - подозрительно -  - 1
-Response - ответ R -  - 1
-However - Однако - preposition - 1
-textbook - учебник - noun - 1
-Waste of time - потеря времени - Phrase - 1
-Suit - подходит -  - 1
-tonight - сегодня вечером - adverb - 1
-oneself - себя - pronoun - 1
-autumn - осень - time - 1
-Will Start doing - начнёт делать - Will - 1
-learn - учиться - verb - 1
-grey - серый - adjective - 1
-Walk into - зайти внутрь -  - 1
-wrong - неправильный - adjective - 1
-tree - дерево - nature - 1
-manner - манера -  - 1
-god - бог - noun - 1
-way - путь - noun - 1
-Financial - финансовый - Work - 1
-forget - забывать - verb - 1
-Brilliant - блестящий - studies - 1
-from - из - preposition - 1
-Tall - высокий -  - 1
-Low blow - удар ниже пояса - Phrase - 1
-Desk - письменный стол - Work - 1
-seventeen - 17 - число - 1
-hospital - больница - noun - 1
-fox - лиса - nature - 1
-Windy - ветреный - Weather - 1
-window - окно - noun - 1
-Thoroughly - тщательно -  - 1
-meat - мясо - food - 1
-Simple - простой - studies - 1
-Decision - решение - Work - 1
-person - человек - nature - 1
-country - страна - noun - 1
-warm - тёплый - adjective - 1
-Afraid of - испуган от - preposition - 1
-Influence - влиять на - preposition - 1
-Conversation - разговор -  - 2
-fall - падать - verb - 1
-Correctly - правильно -  - 1
-Compare - сравнить - Work - 1
-Expression - выражение - studies - 1
-On Wednesdays - по средам - preposition - 1
-The day after tomorrow - послезавтра - Time - 1
-Write it down - записывать что то - Phrase - 1
-Wise - мудрый - studies - 1
-app - приложение -  - 1
-Range - диапазон - Work - 1
-Absent - отсутствует -  - 1
-So what - ну и что? -  - 1
-In The end - в конце - studies - 1
-Thursday - четверг - time - 1
-toothbrush - зубная щётка - Home - 1
-together - вместе - adverb - 1
-Entry - вход -  - 1
-Native speaker - носитель языка - studies - 1
-Prison - тюрьма -  - 1
-Go on - продолжать 2 слова -  - 1
-cut - резать - verb - 1
-open - открывать - verb - 1
-cake - пироженое - food - 1
-June - июнь - time - 1
-Poor - бедный - Home - 1
-woman - женщина - nature - 1
-Aunt - тетка -  - 1
-Current - текущий (курс) -  - 1
-more - более - adjective - 1
-fly - летать - verb - 1
-Friendly - дружелюбный - duolingo - 1
-Famous - известный - Work - 1
-weather - погода - nature - 1
-add - добавлять - verb - 1
-Polite - вежливый -  - 1
-Translate from into - переводить с на - preposition - 1
-sister - сестра - nature - 1
-shop - магазин - noun - 1
-life - жизнь - nature - 1
-Different - другой, разные -  - 1
-March - март - time - 1
-break - ломать, перерыв - verb - 1
-bye - пока - preposition - 1
-Educated - образованный - studies - 1
-Foreign - иностранный - studies - 1
-Belong to - принадлежать - preposition - 1
-False - не правда - Work - 1
-Might - возможно (modal) -  - 1
-Living - живой -  - 1
-toilet - туалет - noun - 1
-nature - природа - nature - 1
-few - мало - pronoun - 1
-Attitude to - отношение к - preposition - 1
-light - более лёгкий, свет - adjective - 1
-sir - сэр - nature - 1
-hi - привет - preposition - 1
-fifteen - 15 - число - 1
-By profession - по профессии -  - 1
-speed - скорость - noun - 1
-In a year - (выучить) за год - Time - 1
-become - стать - verb - 1
-Clear - ясно понятно -  - 1
-ask - спрашивать - verb - 1
-tiger - тигр - nature - 1
-party - вечеринка - noun - 1
-hope - надеяться - verb - 1
-As soon as possible - как можно быстрее - Time - 1
-with - с - preposition - 1
-car - автомобиль - noun - 1
-fish - рыба - nature - 1
-abroad - за границей - Travel - 1
-red - красный - adjective - 1
-Slowly - медленно S - Time - 1
-Fourth - четвёртое - Time - 1
-only - только - adverb - 1
-Clothes - одежда - Home - 1
-Take place - проходит (иметь место) -  - 1
-without - без - preposition - 1
-joke - шутка - noun - 1
-Sunday - воскресенье - time - 1
-Dry - сушить - Home - 1
-Comfortable - удобное - youtube - 1
-I feel sorry for the boy - мне жаль этого парня -  - 1
-here - здесь - pronoun - 1
-Monday - понедельник - time - 1
-Repair - исправить -  - 1
-December - декабрь - time - 1
-Get a job - получить работу - Work - 1
-silver - серебро - nature - 1
-Present day - сегодня - Time - 1
-As - в то время когда (я ем _ я гуляю) -  - 1
-not - не - preposition - 1
-it seems to be - это кажется - Phrase - 1
-Surprising - удивительный -  - 1
-Criticize - критиковать - youtube - 1
-Assistant - ассистент -  - 1
-fork - вилка - noun - 1
-Frighten - пугает - verb - 1
-kill - убийство - verb - 1
-puddle - лужа - Place - 1
-how - как - pronoun - 1
-North - север -  - 1
-sea - море - nature - 1
-Good at - хорошо от - preposition - 1
-Nowhere - нигде -  - 1
-wolf - волк - nature - 1
-What time - в какое время - Time - 1
-Important - важный - Work - 1
-wife - жена - nature - 1
-difficult - трудный - adjective - 1
-Shirt - рубашка -  - 1
-box - коробка - noun - 1
-Except for - кроме __(огурцов) - preposition - 1
-which - который - pronoun - 1
-beach - пляж - nature - 1
-Ineffective - неэффективно - Work - 1
-I'll - болен - Home - 1
-it - это - pronoun - 1
-love - любить - verb - 1
-use - использовать - verb - 1
-worse - хуже - adjective - 1
-capital - столица - noun - 1
-The end - конец -  - 1
-quantity - количество - Work - 1
-rain - дождь - nature - 1
-name - имя, назвать - noun - 1
-no - нет - preposition - 1
-Meet - знакомиться, встречать -  - 1
-Twice - дважды -  - 1
-Roof - крыша -  - 1
-Build - строить -  - 1
-Apply - применить, подать заявку, занести -  - 1
-Beat - бить, победить -  - 1
-Reach - достиг, достигнуть, тянутся -  - 1
-Finish - закончить -  - 1
-Service - услуга -  - 1
-Construction - строительство -  - 1
-Act - поступок -  - 1
-Other countries - другие страны -  - 1
-Another country - другая страна -  - 1
-Other side - другая сторона - Phrase - 1
-Another opportunity - еще одна возможность -  - 1
-It's very kind of you - это очень приятно с твоей стороны -  - 1
-Weak - слабый -  - 1
-Large - большой (L) -  - 1
-Able - способный, здібний -  - 1
-after - после - adverb - 2
-Older - старше (возраст) -  - 1
-Younger - младше (возраст) -  - 1
-Bigger - больше (размер) -  - 1
-More or less - более менее -  - 1
-Cleaner - чище (чистота) -  - 1
-Short - низкий, короткий -  - 1
-Bad - плохой -  - 1
-Fair - ярмарок, справедливо, красавица, русый - Place - 1
-constant - постоянный, постоянная величина -  - 1
-Take on - взять на -  - 1
-just - только, просто, только что - adverb - 1
-Will finish doing - закончу делать (Будущее) - Will - 1
-Should - следует - modal - 1
-near - около, рядом - preposition - 1
-Absence - отсутствие, недостаток, неявка -  - 1
-they - они - pronoun - 1
-understand - понимать - verb - 1
-apartment - квартира (A) - Home - 1
-Edge of - край _ - preposition - 1
-Spend on - тратить на - preposition - 1
-town - город (T) - noun - 1
-response time - время отклика -  - 1
-Wake - будить, просыпаться, осознать, очнуться -  - 1
-Production - производство -  - 1
-Over time everything changes - со временем всё меняется - Phrase - 1
-This problem has nothing to do with you - эта проблема не имеет к тебе отношения - Phrase - 1
-View - вид, мнение, взгляд -  - 1
-Met - знаком -  - 1
-Living room - прихожая комната -  - 1
-Assume - допускать, Предполагать, присваивать себе -  - 1
-Transform - превратиться -  - 1
-Sharp - острый -  - 2
-Tremendous - огромный, потрясающий -  - 1
-Private - приватно -  - 1
-Independent of - независимая от, самостоятельный _ - preposition - 1
-Considerably - значительно (С) -  - 1
-stone - камень - nature - 1
-Avenue - проспект -  - 1
-all - все - pronoun - 1
-get - получать, попасть, добираться - verb - 1
-letter - буква, письмо, символ - noun - 1
-call - вызов, призыв, зов - verb - 1
-Worry - беспокоить, волноваться - Home - 1
-Opposite - противоположные -  - 1
-thousand - 1000 - число - 1
-enjoy - наслаждаться - verb - 1
-foot - нога - body - 1
-easy - легко, лёгкий, спокойно  - adjective - 1
-castle - замок - noun - 1
-soft - мягкий - adjective - 1
-On Holiday - На выходных - Work - 1
-Illness - болезнь (простуда) - youtube - 1
-Lawyer - юрист - Work - 1
-less - менее, меньше - adjective - 1
-modern - современный - adjective - 1
-Bag - сумка -  - 1
-seven - 7 - число - 1
-On top - сверху - Phrase - 1
-Sign - подписать - Work - 1
-save - спасать - verb - 1
-Manage - уметь (управлять) -  - 1
-Cover - покривати, закрывать, крышка, чехол -  - 1
-Produce - производить -  - 1
-I have nothing to do with this matter - я не имею отношения к этому делу - Phrase - 1
-In any case I like it here - во всяком случае мне нравится тут - Phrase - 1
-How do i add images to my page - как мне добавить изображения на мою страницу - Phrase - 1
-Have a good flight - желаю хорошего полёта - Phrase - 1
-Performance - представление, исполнение, спектакль -  - 1
-Smaller - меньше (меньше меня) -  - 2
-Previously - ранее, предварительно, заранее -  - 1
-The side of the road - узбіччя дороги - Phrase - 1
-Immediately - сразу же, Немедленно -  - 1
-Especially - особенно, специально -  - 1
-Definitely - точно!, Определенно, разумеется! -  - 1
-Towards - к, в направлении, по отношению  -  - 1
-slow - медленный - adjective - 1
-Carefully - осторожно, внимательно, бережно -  - 1
-toy - игрушка - noun - 1
-anybody - любой, никто, всякий (body) - pronoun - 1
-Bring up - воспитывать -  - 1
-bruh - братан - Home - 1
-maybe - может быть - adverb - 1
-social - общественный - adjective - 1
-bottle - бутылка - food - 1
-notebook - тетрадь - noun - 1
-Inside - изнутри, внутри - preposition - 1
-Take part - принимать участие -  - 1
-fuck - трахать - verb - 1
-often - часто - adverb - 1
-lake - озеро - nature - 1
-One more time - еще раз - Phrase - 1
-Do The Shopping - делать покупки - Phrase - 1
-Married - женат - Home - 1
-Wonderful - Замечательный, чудесный - Home - 1
-put - класть - verb - 1
-Decade - 10 летие - Time - 1
-soldier - солдат - nature - 1
-snow - снег - nature - 1
-Age - возраст -  - 1
-Point at - указать на - preposition - 1
-dead - мёртвый - adjective - 1
-Eyes - глаза - Home - 1
-one - 1 - число - 1
-boyfriend - парень (её) - nature - 1
-Salary - зарплата -  - 1
-great - великий - adjective - 1
-move - двигаться - verb - 1
-Floor - пол - Home - 1
-house - дом - noun - 1
-Go out - идти на выход, выходить -  - 1
-have had had - иметь - irregular verb - 1
-Do did done - делать - irregular verb - 1
-Make made made - делать - irregular verb - 1
-know knew known - знать - irregular verb - 1
-Tell told told - говорить кому то - irregular verb - 1
-Come came come - вернуть (irregular verbs) -  - 2
-Feel felt felt - чувствовать - irregular verb - 1
-Become became become - стал - irregular verb - 1
-put put put - положить - irregular verb - 1
-Find found found - найти - irregular verb - 1
-Give gave given - дать - irregular verb - 1
-begin began begun - начинать - irregular verb - 1
-let let let - позволить - irregular verb - 1
-Hear heard heard - слышать - irregular verb - 1
-Write wrote written - писать - irregular verb - 1
-read read read - читать - irregular verb - 1
-set set set - установить - irregular verb - 1
-understand understood understood - понимать - irregular verb - 1
-Win won won - выигрывать - irregular verb - 1
-Send - отправить -  - 1
-Keep kept kept - хранить, прятать - irregular verb - 1
-Drink drank drunk - пить - irregular verb - 1
-Go went gone - идти - irregular verb - 1
-Can could be able - могу, умею - irregular verb - 1
-Say said said - сказал - irregular verb - 1
-Speak spoke spoken - разговаривать (говорить) - irregular verb - 1
-Think thought thought - думать - irregular verb - 1
-cost cost cost - стоить - irregular verb - 1
-Pay paid paid - платить - irregular verb - 1
-meet met met - встречать - irregular verb - 1
-learn learnt learnt - учить - irregular verb - 1
-Eat ate eaten - кушать - irregular verb - 1
-had a good time together - провели хорошо время вместе -  - 1
-differently - по другому (иначе) -  - 1
-i heard it on tv - я услышал это по телевизору - Phrase - 1
-stand up - встать - Phrase - 1
-Exist - существовать -  - 1
-change of clothes - сменная одежда -  - 1
-work for - Работать на - preposition - 1
-Prettier - красивее -  - 1
-Since - поскольку, тому назад, (S) -  - 1
-Much more - Гораздо более - Phrase - 1
-multiplication - умножение - studies - 1
-Cheaply - дешево -  - 1
-goose - гусь - nature - 1
-pen - ручка - noun - 1
-It's just a mouse - это просто мышь - preposition - 1
-let - позволять - verb - 1
-fortune - удача, случай - noun - 1
-finger - палец - body - 1
-Don't freak out - не паникуй - Phrase - 1
-speak - говорить - verb - 1
-job - работа - noun - 1
-Lazy - ленивые - Home - 1
-be was were been - быть - irregular verb - 1
+Accept - принять (A)
+Define - определять, давать характеристику
+Affect - влиять, действовать (A)
+Has turned into - превратился
+Currently - В настоящее время, теперь
+above - выше, свыше, более
+least - наименее, как минимум
+to - в, к
+still - всё ещё, ещё, до сих пор
+ball - мяч
+excuse - извинять
+into - в
+begin - начинать
+Potential - потенциальный
+fake - поддельный
+Attractive - привлекательный
+notify - уведомить, поставить в известность
+Notification - уведомление
+work properly - работать правильно
+ridge - хребет
+Lay laid laid - ставить
+Woke up - проснуться
+Specious - просторная
+Notificat - уведомлять
+Hurt hurt hurt - задеть, слегка повредить
+It stopped working properly - это сломалось
+Sing sang sung - петь
+Forget forgot forgot - забывать
+Hit hit hit - ударить
+Pie - пирог
+Hide hid hidden - прятать
+Ride rode ridden - водить, ехать
+Feed fed fed - кормить
+Swim swam swum - плавать
+Pond - пруд
+Lend lent lent - одолжить (кому то)
+Blow blew blown - дуть
+Injury - сильно задеть
+Dream dreamt dreamt - мечтать
+Steal stole stolen - украсть
+Jewelry - украшения
+Wake woke woken - просыпаться
+Dig dug dug - рыть
+Hole - яма
+Forgive forgave forgiven - прощать
+Hold held held - держать в руках
+Break down - сломаться
+Catch caught caught - ловить
+Draw drew drawn - рисовать
+Masterpiece - шедевр
+Courageously - отважно
+Deal dealt dealt - иметь дело
+Customer - покупатель
+Throw threw thrown - бросать
+Wear wore worn - носить (одежду)
+Fashionable - модная
+Teach taught taught - преподавать
+Lie lay lain - лежать
+Lie lied lied - Врать (не путать с лежать)
+Fly flew flown - летать
+Instead of - вместо (него)
+Half an hour - полчаса
+remove - удалять
+replace - заменять
+reverse - обращать
+prepend - добавлять в начало
+increment - увеличивать
+decrement - уменьшать
+allocate - выделять память
+deallocate - освобождать память
+initialize - инициализировать
+execute - выполнять
+compile - компилировать
+error - ошибка
+exception - исключение
+throw - выбрасывать исключение
+try - пробовать
+finally - наконец
+class - класс
+object - объект
+method - метод
+function - функция
+variable - переменная
+constant - постоянный, постоянная величина
+array - массив
+list - список
+dictionary - словарь
+queue - очередь
+stack - стек
+pointer - указатель
+reference - ссылка
+iteration - итерация
+loop - цикл
+conditional - условный
+if - если
+else - ещё, иначе, кроме
+switch - переключатель
+case - случай
+default - по умолчанию
+while - пока
+do - делать
+for - для
+foreach - для каждого
+break - ломать, перерыв
+Continue - продолжать
+return - возвращаемое значение
+yield - возвращать последовательность
+lambda - лямбда
+map - отображать
+filter - фильтровать
+Reduce - уменьшить
+aggregate - агрегировать
+group - группировать
+Join - присоединится
+select - выбирать
+from - из
+where - где
+order - упорядочить
+by - по
+ascending - возрастаю
+descending - убывающий
+inner - внутренний
+outer - внешний
+left - левый
+right - правый
+full - полный
+index - индекс
+key - ключ
+value - значение
+Length - длина
+size - размер
+capacity - емкость
+pointer arithmetic - арифметика указателей
+bitwise - побитовые операции
+shift - сдвиг
+logical - логические операции
+arithmetic - арифметические операции
+comparison - операции сравнения
+assignment - операция присваивания
+pass by value - передача по значению
+pass by reference - передача по ссылке
+call by value - вызов по значению
+call by reference - вызов по ссылке
+recursion - рекурсия
+stack overflow - переполнение стека
+heap - куча
+garbage collection - сборка мусора
+memory leak - утечка памяти
+algorithm - алгоритм
+data structure - структура данных
+parameter - параметр
+argument - аргумент
+Condition - условия
+inheritance - наследование
+polymorphism - полиморфизм
+encapsulation - инкапсуляция
+interface - интерфейс
+constructor - конструктор
+destructor - деструктор
+virtual - виртуальный
+static - статический
+abstract - абстрактный
+public - публичный
+private - приватный
+protected - защищенный
+implementation - реализация
+module - модуль
+Library - библиотека
+framework - фреймворк
+platform - платформа
+compiler - компилятор
+interpreter - интерпретатор
+debugger - отладчик
+profiler - профилировщик
+IDE - интегрированная среда разработки
+version control - система контроля версий
+Git - система контроля версий Git
+repository - репозиторий
+branch - ветка
+merge - слияние
+conflict - конфликт
+commit - коммит
+push - толкать
+pull - тянуть
+Issue - проблема
+bug - ошибка
+testing - тестирование
+unit test - модульное тестирование
+integration test - интеграционное тестирование
+acceptance test - приемочное тестирование
+regression test - регрессионное тестирование
+code review - кодовый обзор
+documentation - документация
+comment - комментарий
+code style - стиль кода
+indentation - отступы
+whitespace - пробельные символы
+camelCase - стиль написания camelCase
+snake_case - стиль написания snake_case
+PascalCase - стиль написания PascalCase
+kebab - case
+request - запрос
+response - ответ
+session - сессия
+cookie - куки
+cache - кэш
+routing - маршрутизация
+middleware - промежуточное ПО
+authentication - аутентификация
+authorization - авторизация
+encryption - шифрование
+decryption - расшифровка
+Make a plan - составить план
+Keep it simple - держать все простым
+Take a break - сделать перерыв
+Get some rest - отдохнуть
+have a good time - хорошо проводить время
+Get started - начать
+Work hard - усердно работать
+Stay focused - оставаться сосредоточенным
+Give it a try - попробовать
+Learn something new - узнать что
+Ask for help - попросить помощи
+Be patient - быть терпеливым
+Keep practicing - продолжать тренироваться
+Take your time - не торопиться
+Stay organized - оставаться организованным
+Set a goal - поставить цель
+Work towards your goal - работать на достижение цели
+Believe in yourself - верить в себя
+Never give up - никогда не сдаваться
+Practice makes perfect - практика делает совершенным
+Keep going - продолжать двигаться вперед
+Stay positive - оставаться позитивным
+Take a chance - рискнуть
+Follow your dreams - следовать своим мечтам
+Face your fears - преодолеть свои страхи
+Trust your instincts - доверять своей интуиции
+Speak up - говорить громче
+Be yourself - быть самим собой
+Stay true to yourself - оставаться верным себе
+Live in the moment - жить в настоящем моменте
+Take responsibility - нести ответственность
+Admit your mistakes - признавать свои ошибки
+Forgive and forget - прощать и забывать
+Move on - идти дальше
+Never lose hope - никогда не терять надежду
+Keep an open mind - оставаться открытым к новому
+Stay curious - быть любопытным
+Explore the world - исследовать мир
+Try new things - пробовать новые вещи
+Embrace change - принимать перемену
+Celebrate success - праздновать успехи
+Accept failure - принимать неудачи
+Learn from your mistakes - учиться на своих ошибках
+Stay humble - оставаться скромным
+Be grateful - быть благодарным
+Help others - помогать другим
+Give back - отдавать
+Love unconditionally - любить безусловно
+Cherish your loved ones - дорожить близкими
+go to work - идти на работу
+go home - идти домой
+have fun - веселиться, развлекаться
+take a shower - принимать душ
+take a bath - принимать ванну
+brush your teeth - чистить зубы
+get dressed - одеваться
+get undressed - раздеваться
+put on clothes - надевать одежду
+take off clothes - снимать одежду
+do the laundry - стирать белье
+do the dishes - мыть посуду
+clean the house - убирать дом
+cook dinner - готовить ужин
+order food - заказывать еду
+watch TV - смотреть телевизор
+listen to music - слушать музыку
+read a book - читать книгу
+surf the internet - серфить в интернете
+check email - проверять электронную почту
+make a phone call - звонить по телефону
+send a text message - отправлять текстовое сообщение
+take a nap - вздремнуть
+go for a walk - гулять
+go for a run - бегать
+do exercise - заниматься упражнениями
+meditate - медитировать
+meet friends - встречаться с друзьями
+Prepare for - подготовиться к
+wing - крыло
+random - случайный
+You don't say - не может быть
+parent - родитель
+sorry - мне жаль
+Raise - растить
+Passion - страсть
+Sure - конечно
+Exactly - точно! , конкретнее
+Recent - свежая
+button - кнопка
+Careful - осторожно
+danger - опасность
+voice - голос
+next - следующий
+cheese - сыр
+Lead to - приводит к
+chief - начальник
+truth - правда
+Objective - цель (O)
+page - страница
+Huge - огромный
+always the same - всегда одно и тоже
+far - далёкий
+most - наиболее
+Cost - стоить (глагол)
+heavy - тяжёлый
+Fluently - свободно
+this - этот
+Leave - покидать
+bedroom - спальня
+How much - Сколько (денег)
+bread - хлеб
+about - о
+Have read - прочитать
+dinner - ужин
+heart - сердце
+own - собственный
+answer - отвечать
+Guard - охранник
+day - день
+egg - яйцо
+at the end of the meeting - в конце встречи
+of - из
+such - такой
+The worst - самый худший
+paradise - рай
+dear - дорогой, уважаемый
+Zip it - закрой рот
+Serious - серьезный
+I busy next week - я занят на следующей неделе
+Calculate - рассчитать
+home - дом
+brain - мозг
+Rightly - правильно (r)
+girlfriend - девушка (его)
+An Important - не важный
+or - или
+month - месяц
+cat - кошка
+again - снова
+year - год
+tomorrow - завтра
+bus - автобус
+those - те
+evening - вечер
+Smile at - улыбается над
+third - третий
+fruit - фрукт
+Degree - научная степень
+Sofa - диван
+Root - корень
+Cabinet - шкаф
+Hotel - отель
+String - нитка, шнурок
+West - запад
+Rent - арендовать
+Boat - лодка
+Pan - сковорода
+Pool - бассейн
+Soap - мыло
+Sponge - губка
+Chain - цепь
+Novel - роман
+Almost - майже, почти
+Colorful - блестящий
+Born - рожденный
+Go anywhere you want to - иди куда угодно
+Scissors - ножницы
+Flight - полет, рейс
+Guide - гид
+Won - выиграл
+The machine - машина
+Lost - потеряла
+Brown - коричневый
+The window - окно
+Basket - корзина
+Individual - личность
+flower - цветок
+guy - парень, чувак
+better - лучший
+Unusual - необычно
+price - цена
+rat - крыса
+Felt - упал
+Grade - класс
+Front of - перед ___
+Ands - заканчивается
+Whenever - когда угодно
+Edge of the building - край здания
+Approximately - приблизительно
+Pretty tired - достаточно уставший
+Perfectly - полностью
+Bicycle - велосипед
+present - подарок
+forward - вперёд
+coin - монета
+clean - чистый
+net - сеть
+Any more - некогда больше
+Run away - убегай
+Tuesday - вторник
+why - почему
+cook - готовить
+win - побеждать
+Comb - гребешок
+The couple - эти женатики (пара)
+Both sides - обе стороны
+bloody - кровавый
+Birth - рождение
+someone - кто нибудь
+blue - синий
+Mention - упоминать
+twenty - 20
+play - играть
+Depend on - зависит от
+Only once - только раз
+dark - тёмный
+walk - идти пешком
+last - последний
+Solution to - решение __
+green - зелёный
+Waiter - официант
+Spoke - говорил (прошлое)
+The way - путь
+Option - вариант
+at - в, на
+Really - Действительно
+glad - радостный, рад (видеть)
+peace - мир
+Follow - следуй (иди за мной)
+kiss - целовать
+Stage - стадия
+wash - мыть
+Pass me - передай мне
+eye - глаз
+water - вода
+mirror - зеркало
+pass - сдать (тест)
+already - уже
+Separately - раздельно
+Proud of - гордится за
+Everyone - все(he, she)
+and - и
+orange - оранжевый
+Area - область, район
+Regret - сожалеть
+Award - награда
+than - чем, кроме, как
+Holy crap - чёрт возьми
+Apologize - извиняться
+Neither me nor yours - не моя и не твоя
+teach - учат, обучать
+Will Get tired - скоро устанешь
+Not Definitely - не точно
+More than enough - больше чем достаточно
+sweet - сладкий
+close - близкий, закрыть
+Achievement - достижение
+In general - в основном
+Marriage - свадьба
+against - против
+Familiar - знакомо
+back - назад
+hour - час
+horse - лошадь
+black - чёрный
+Artist - художник
+Furniture - мебель
+Miss - соскучиться (за кем
+nothing - ничто
+blood - кровь
+Opinion - мнение
+In front - перед (собакой)
+Express - выразят, выскажут
+elephant - слон
+Reinvent - переизбирать
+Each other - друг друга
+Victim - жертва
+Motorcycle - мотоцикл
+Bell - звон, колокол
+Airplane - самолет
+Departure - отъезд
+Village - село
+Lady - пані
+Suitcase - чемодан
+Vehicle - транспорт
+Engine - двигатель
+Drive - управлять (ехать)
+Necessary - необходимый
+then - тогда
+language - язык
+bee - пчела
+ok - окей
+Go Shopping - ходить за покупками
+Subway - метро
+Whole - вся (площадь)
+Sheet - лист, страница
+Bus station - автовокзал
+Foundation - фундамент
+Any case - любой случай
+Mortal - смертельный
+end - заканчивать
+nice - приятный
+could - мог
+Delicious - очень вкусно
+smile - улыбаться
+so - так
+Elder - старше
+brother - брат
+Trip - поездка
+time - время
+kitchen - кухня
+Multiply - умножить
+Birthday - день рождения
+bathroom - ванная
+Youth - молодежь
+For example - например
+market - рынок
+Just in case - на всякий случай
+Behaviour - поведение
+The most interesting - самый интересный
+Confuse - перепутать
+Possible - возможно
+July - июль
+Full of - полон чего
+first - первый
+who - кто
+gold - золото
+Control - контролирую
+Sentence - речення
+Border - граница
+Expensive - дорогой
+None of them - никто из них
+know - знать
+Inform - информировать
+table - стол
+Agreement - договоренность
+Effect - последствия
+Demand - требовать
+Allow - разрешать (дозволяти)
+Journey - поездка
+half - половина
+off - из, вне
+Approach - подход
+kingdom - королевство
+Charge - заведует (чем то)
+live - жить
+war - война
+Whose - чей, чья
+Bowl - миска
+ticket - билет
+lesson - урок
+sleep - спать
+Interested in - заинтересован в
+Pure - чистый
+Relationships - отношения (с родителями)
+Neighborhood - район
+Application - заявка
+It's a matter of time - это дело времени
+Introduction - вступление
+No Biggie - не страшно
+Just in time - как раз вовремя
+Convenient - подходящий
+Deny - отрицать
+Take off - снять (одежду)
+these - эти
+taxi - такси
+Island - остров
+Threat - угроза
+family - семья
+bear - медведь
+September - сентябрь
+admire - восхищаться
+hot - горячий
+ten - 10
+fire - огонь
+ship - корабль
+city - город
+must - должен
+over - над
+catch up - догонять(два слова)
+any - любой
+Clever - умный
+waterfall - водопад
+Because of - из за (твоей собаки)
+crazy - безумный
+Garden - сад
+Impossible - невозможно
+forever - навсегда
+Loud - громко
+think - думать
+April - апрель
+give - давать
+king - король
+die - умирать
+Walk by - идти мимо
+cool - классный
+Certain - уверен
+pencil - карандаш
+lose - проигрывать
+Corner - перекресток
+among - среди
+picture - картинка
+Higher - выше
+believe - верить
+Perfectly realize - прекрасно осознавать
+Simplicity - простота
+be able - смогу (будущее)
+somebody - кто нибудь
+cup - чашка
+Normal - обычный
+jump - прыгать
+Event - событие
+Uncle - дядя
+Early - рано
+Another apple - еще одно яблоко
+Is Anybody with you - с тобой кто то есть?
+Put on - надевать (шапку)
+In total - всего (нас всего)
+Per - за (метр за секунду)
+Majority - большинство
+Count on - рассчитывать на
+As far as i know - насколько я знаю
+Gets - получает
+Ask for - просит _
+fight - драться
+wind - ветер
+gloomy - пасмурный
+ring - кольцо
+communicate - общаться
+Fits - подходит (одежда)
+Serves - подавать (девушка подаёт воду)
+Non of us - никто из нас
+he assumes - он предпологает
+yes/yeah - да
+Judge - судья
+fun - веселье
+Achieve this aim - достигнуть этой цели
+How often - как часто
+anything - что угодно
+Hurry up - торопиться
+well - хорошо
+mind - разум
+ground - земля
+Lucky - везучий
+keep in touch - оставаться на связи
+Busy - занят
+Sleep on it - обдумать еще раз
+Go away - уйди
+On Tuesday - во вторник
+something - что нибудь
+Local - местный
+Inconvenient - неудобно (время)
+speech - речь
+hunt - охотиться
+death - смерть
+Measure - меры
+beautiful - красивый
+two - 2
+face - лицо
+come - приходить
+dirty - грязный
+Notice - заметят
+Flat - квартира
+even - даже
+nobody - никто
+plate - тарелка
+we - мы
+Department - отдел
+Go to bed - ложиться спать
+Come back - вернуться (два слова)
+Competition - соревнование
+Wednesday - среда
+Elementary - элементарный
+Zoo - зоопарк
+Criminal - преступник
+The study - исследование
+Announce - объявлять
+itself - сам
+mouth - рот
+Divorced - разведен
+dad - папа
+he - он
+Rains - дощ
+head - голова
+Forgive - простить
+start - начинать
+road - дорога
+night - ночь
+Adult - взрослый
+show - показывать
+in - в
+beer - пиво
+Hard working - трудолюбивый
+that - тот
+help - помогать
+For years - годами
+Advertisement - рекламное объявление
+Every human - каждый человек
+upon - на
+Only once in a year - только раз в год?
+bike - мотоцикл
+Guess - отгадать
+Brave - смелая
+wild - дикий
+tsunami - цунами
+dream - мечтать
+calm down - успокоиться
+Stupid - глупый S
+Obviously - очевидно
+screen - экран
+pasta - макароны
+mom - мама
+Share - разделять
+Friday - пятница
+Currency - валюта
+August - август
+question - вопрос
+Completely - полностью (согласен)
+Watch your mouth - следи за словами
+air - воздух
+some - некоторое количество
+girl - девочка
+enemy - враг
+Commercial - коммерческий
+To be - быть
+Point of view - точка зрения
+He is away - он отсутствует (уехал далеко)
+change - изменять
+room - комната
+Grateful to for - благодарен __(кому за)
+Include - включает (еда)
+five - 5
+tea - чай
+ready - готовый
+apple - яблоко
+October - октябрь
+real - реальный
+message - сообщение
+supper - поздний ужин
+land - земля L
+Easily - спокойно
+Not necessarily - не обязательно
+bull - бык
+A lot - много
+mix - смешивать
+cherry - вишня
+baby - крошка
+any longer - не дольше
+Intermediate - средний (уровень)
+Rude - грубый
+The Costs - издержки, расходы
+Unknown - неизвестно
+Reason for - причина __
+knife - нож
+wall - стена
+Equipment - оборудование
+have - иметь
+fresh - свежий
+There - там
+lunch - обед
+Fat - толстый
+Disease - болезнь (тяжелая)
+forest - лес
+nasty weather - неприятная погода
+top - верх
+everything - всё
+paint - рисовать
+Frequent - часто происходит
+every - каждый
+Correct - правильный
+Grown Up - взрослый
+Choice - выбор
+Responsible - ответственный
+Devote to - уделять (время) для
+away - прочь
+Razor - бритва
+hello - привет
+Evidence - доказательство
+dolphin - дельфин
+sixteen - 16
+Guest - гость
+pig - свинья
+last for about - (это будет) длится около
+Legal - законный
+read - читать
+Listen to - слышать кого
+hard - тяжёлый, жёсткий
+until - до тех пор (пока)
+Nowadays - настоящее время (одно слово)
+Excellent - отлично E
+soul - душа
+many - много (идей)
+eat - кушать
+queen - королева
+Alone - (живёт) сама
+another - другой (мир)
+Fond of - обожаю
+buy - покупать
+Farm - ферма
+On a regular basis - на регулярной основе (регулярно)
+son - сын
+summer - лето
+mouse - мышь
+Continue doing - продолжить делать
+Armchair - кресло
+Useless - бесполезный
+stop - останавливать
+Get up - вставать
+cry - плакать
+number - число
+The only right - единственно верное
+breakfast - завтрак
+but - но
+Yard - улица, двор
+Interrupt - перебивать
+lemon - лимон
+generation - поколение
+Dangerous - опасно
+tale - сказка
+because - потому что
+nose - нос
+through - сквозь (через)
+In the beginning - в начале
+luck - удача
+Powder - порошок
+Purpose - цель
+Religious - верующая
+spoon - ложка
+Prefers - предпочитает
+Attack - атаковать
+Think it over - обдумать это
+swim - плавать
+between - между
+November - ноябрь
+young - молодой
+three - 3
+lion - лев
+Church - церковь
+book - книга
+dog - собака
+tell - говорить (кому то)
+behind - за
+final - последний, решающий
+Despite - не смотря на (одно слово)
+keep - держать (хранить)
+Reply - ответ (редко)
+Whole night - всю ночь
+look at - смотреть на
+true - истинный
+Worker - рабочий
+Pleasure - удовольствие
+Authorities - власти
+watch - смотреть (телевизор)
+Exercise - заниматься спортом
+i mean - я имею в виду
+sky - небо
+study - учиться
+Angry - злой
+Tower - башня
+Bad at - плохо от
+visa - виза
+when - когда
+street - улица
+feel - чувствовать
+work - работать
+mad - безумный
+very - очень
+Width - ширина
+quick - быстрый
+choose - выбирать
+Anywhere - где угодно
+moon - луна
+hundred - 100 (сто)
+cheap - дешёвый
+at the beginning of the year - в начале этого года
+clock - часы
+can - может
+Get dark - темнеет
+Century - 100 летие
+The staff - сотрудники
+Employee - работник
+down - вниз
+Resolve the conflict - решить конфликт
+Tired of - устал от
+under - под
+Memory - память
+low - низкий
+you - ты
+Somehow - как то
+Rest - отдыхать
+word - слово
+chicken - курица, цыплёнок
+four - 4
+Check - проверить
+Marry - жениться на
+Available - доступен
+world - мир
+sad - грустный
+wish - желать
+Deep - глубоко
+Square - площадь
+Useful - полезный
+yellow - жёлтый
+yesterday - вчера
+flee - спасаться бегством
+Accident - происшествие
+Accuse of - обвинять в
+Adapt to - адаптироваться к
+At once - сразу же (во первых)
+Attention - внимание
+Beauty - красота
+Behave very badly - вести себя очень плохо
+Cousin - двоюродный брат
+Crime - преступление
+Cross - пересекать (улицу)
+dance - танцевать
+Deliver - доставлять
+Describe - описывать
+Description - описание
+Deserved - заслужила
+Developed - развивать (past)
+Died - умер (past)
+Disappeared - исчезли (past)
+Discover - открыть (Америку)
+During - на протяжении (моего сна)
+Effort - усилие
+Enter - входить, вступать, поступать
+Example - пример
+Expected - ожидал (past)
+Expectedly - ожидаемо
+Experience - опыт
+fill - наполнять
+Following - следующие (ошибки)
+Greatly - очень сильно
+Calm - спокойный
+Complain - жалуется
+Confirm - подтвердить
+Divide it into - делить это на
+Face problem - столкнутся с проблемой
+Guild - вина
+Had a rest - отдыхал
+Happened to - произошло с
+Have a rest - отдыхать
+He washed himself - он покупался
+I washed myself - я покупался
+Introduce - представить
+Invite to - приглашать на
+Killed - убили (past)
+Knock at - стучать в
+Last for - длится _
+Midnight - полночь
+Negative - отрицательная
+Opportunity - возможность
+Pack - упаковать
+Parcel - посылка
+Park there - парковаться там
+Partly - частично
+Rarely - редко
+React to - реагировать на
+Receive - получать, принимать
+repeat - повторять
+Required - требовало (past)
+respect - уважать
+Returned - вернулся (past)
+Saint - святой
+She washed herself - она покупалась
+Singer - певец
+Skills - навыки
+Strong - сильный
+Task - задача
+Tend - тенденция
+The following - следующие (вопросы)
+Thief - вор
+Turn - поворачивать
+Unique - уникальная
+victory - победа
+Wait for - ждать _ (кого то)
+Wait for him - ждать его
+I washed my face - я вымыл лицо
+A couple of questions - пара вопросов
+Abilities - способности
+Appearance - внешность
+Defend - защищать
+Goods - товары
+Moved - переехал (past)
+Passed - сдал, прошел (past)
+Perform - исполнять (выступать)
+Prayed - молился
+Provided - обеспечивали (предоставляли)
+Reached - достиг
+Require - требовать
+Revised - повторённый, пересмотренный
+Several - несколько
+sing - петь
+Sound - звучать
+Stay - остаться
+Stayed - оставался (past)
+Suddenly - вдруг, внезапно
+The day before yesterday - позавчера
+To our surprise - к нашему удивлению
+Turn on - включить
+Fell off into - упал с , на
+Cheaper - дешевле
+engineer - инженер
+jug - кувшин
+mail - почта
+Data - данные
+He is out - его нет дома (но он рядом)
+spring - весна
+smoke - дым, курить
+winter - зима
+week - неделя
+husband - муж, супруг
+eighteen - 18
+eleven - 11
+each - каждый
+power - сила
+food - еда
+The same - то же самое (два слова)
+Disappointed - расстроенный
+Quite seldom - достаточно редко
+Expect - ожидать
+For no reason - без какой либо причины
+Happen to - произошло с
+Happily - счастливо
+high - высокий
+Imagine - воображать
+Punish - наказывать
+Remained - оставался (past)
+Seldom - редко
+Suggested - предлагал (past)
+Suggested going - предлагал пойти (past)
+Switch on - включить
+Went to the park on foot - пошли в парк пешком (go)
+also - также
+Front - перед (домом)
+art - искусство
+Division - деление
+may - мочь
+Lend - давать в долг
+Property - недвижимость
+small - маленький
+In spite of - несмотря на (с предлогом)
+Report - отчёт
+hate - ненавидеть
+man - человек, мужик
+bed - кровать
+Vegetables - овощи
+Late - опоздавший
+Finish it - закончить это
+Chair - стул
+sell - продавать
+want - хотеть
+Significantly - значительно (S)
+police - полиция
+much - много
+owe them - Должен им
+Anniversary - годовщина
+Consider - учитывать
+Inform of - информировать о
+Innocent - невинный
+Remain - остатся, продержатся
+Revis - повторить, пересмотреть
+Suggest - предлагать
+Topic - тема
+Unexpectedly - неожиданно
+Wash up the dishes - мыть посуду
+Fell - упал
+Impress - впечатлять
+grass - трава
+Equal - одинаковые
+ear - ухо
+Usually - обычно
+Piss me off - вывести из себя
+Keen on - увлекатся
+hold - держать
+everybody - каждый (человек)
+make - делать (что то новое)
+Will it last for - Сколько это продлится?
+Career - карьера
+Everywhere - везде
+same - тот же
+tent - палатка
+Amazing - восхитительно
+relax - расслабляться
+soon - скоро
+Pair - пара
+sit - сидеть
+Sales - продажи
+like - любить
+listen - слушать
+Advertising - реклама
+What kind of - какого рода?
+need - нуждаться
+bird - птица
+Pay for - платить за
+write - писать
+cold - холодный
+Pocket - карман
+Single - один
+place - место
+pink - розовый
+Double - удвоить
+see - видеть
+white - белый
+devil - дьявол
+Satisfied with - удовлетворён с
+never - никогда
+zero - 0
+Funny - забавно
+juice - сок
+game - игра
+nineteen - 19
+camel - верблюд
+Afternoon - днем
+Deserve - заслуживать
+To get in touch with - связаться с
+device - прибор
+Disagree - не согласен
+On a business trip - в командировке
+little - маленький
+ice - лёд
+See you tomorrow - увидимся завтра
+Adjective - прилагательное
+Advanced - продвинутый
+money - деньги
+Saturday - суббота
+Laugh at - смеяться над
+thirteen - 13
+stand - стоять
+around - вокруг
+Will Continue doing - будет продолжать делать
+hair - волосы
+Pass by - проходят мимо
+Certainly - конечно
+mean - означать, иметь в виду
+good - хороший
+train - тренировка
+Refuse to - отказываться _
+go - идти
+February - февраль
+at first - сначала
+people - люди
+Phrase - фраза
+fast - быстрый
+new - новый
+Thin - тощий
+boy - мальчик
+Behave - ведёт себя
+sugar - сахар
+duck - утка
+Trust - доверяю
+body - тело
+morning - утро
+soup - суп
+she - она
+usual - обычный
+travel - путешествовать
+mother - мать
+second - второй
+Special - особенный
+West Coast - западный берег
+Free - (быть) свободным
+Bed Sheet - простынь
+star - звезда
+Celebrate - праздновать
+enough - достаточно
+along - вдоль
+Wheel - колесо
+Participate - принимать участие
+holiday - праздничный день
+Inspire - вдохновлять
+daughter - дочь
+other - другие
+a Bit - немного B
+Powerful - мощный
+As always - как всегда, як завжди
+sun - солнце
+goodbye - до свидания
+Prepare - подготовится
+what - что
+shit - дерьмо
+Waste time - тратить время
+print - печатать
+How many - Сколько (друзей)
+policeman - полицейский
+sometimes - иногда
+Siblings - братья и сёстры
+anyone - любой
+monkey - обезьяна
+teacher - учитель
+door - дверь
+web - сеть, паутина
+Look it up in a dictionary - найти это в словаре
+Question mark - вопросительный знак
+drunk - пьяный
+please - пожалуйста
+Invent - изобретать
+too - слишком
+thing - вещь
+Quickly - быстро Q
+Region - район R
+Activity - деятельность
+long - длинный
+friend - друг
+wait - ждать
+Explanation - объяснения
+eight - 8
+Slim - стройный
+on - на
+song - песня
+always - всегда
+today - сегодня
+Insist on - настаивать на
+spider - паук
+kind - добрый
+Improve - улучшить
+Valley - долина
+six - 6
+January - январь
+father - отец
+Bilingual - двуязычный (знает два языка)
+color - цвет
+Suspicious - подозрительно
+However - Однако
+textbook - учебник
+Waste of time - потеря времени
+Suit - подходит
+tonight - сегодня вечером
+oneself - себя
+autumn - осень
+Will Start doing - начнёт делать
+learn - учиться
+grey - серый
+Walk into - зайти внутрь
+wrong - неправильный
+tree - дерево
+manner - манера
+god - бог
+way - путь
+Financial - финансовый
+forget - забывать
+Brilliant - блестящий
+Tall - высокий
+Low blow - удар ниже пояса
+Desk - письменный стол
+seventeen - 17
+hospital - больница
+fox - лиса
+Windy - ветреный
+window - окно
+Thoroughly - тщательно
+meat - мясо
+Simple - простой
+Decision - решение
+person - человек
+country - страна
+warm - тёплый
+Afraid of - испуган от
+Influence - влиять на
+Conversation - разговор
+fall - падать
+Correctly - правильно
+Expression - выражение
+On Wednesdays - по средам
+The day after tomorrow - послезавтра
+Write it down - записывать что то
+Wise - мудрый
+app - приложение
+Range - диапазон
+Absent - отсутствует
+So what - ну и что?
+In The end - в конце
+Thursday - четверг
+toothbrush - зубная щётка
+together - вместе
+Entry - вход
+Native speaker - носитель языка
+Prison - тюрьма
+Go on - продолжать 2 слова
+cut - резать
+open - открывать
+cake - пироженое
+June - июнь
+Poor - бедный
+woman - женщина
+Aunt - тетка
+Current - текущий (курс)
+more - более
+fly - летать
+Friendly - дружелюбный
+Famous - известный
+weather - погода
+Polite - вежливый
+Translate from into - переводить с на
+sister - сестра
+shop - магазин
+life - жизнь
+Different - другой, разные
+March - март
+bye - пока
+Educated - образованный
+Foreign - иностранный
+Belong to - принадлежать
+False - не правда
+Might - возможно (modal)
+Living - живой
+toilet - туалет
+nature - природа
+few - мало
+Attitude to - отношение к
+light - более лёгкий, свет
+sir - сэр
+hi - привет
+fifteen - 15
+By profession - по профессии
+speed - скорость
+In a year - (выучить) за год
+become - стать
+Clear - ясно понятно
+ask - спрашивать
+tiger - тигр
+party - вечеринка
+hope - надеяться
+As soon as possible - как можно быстрее
+with - с
+car - автомобиль
+fish - рыба
+abroad - за границей
+red - красный
+Slowly - медленно S
+Fourth - четвёртое
+only - только
+Clothes - одежда
+Take place - проходит (иметь место)
+without - без
+joke - шутка
+Sunday - воскресенье
+Dry - сушить
+Comfortable - удобное
+I feel sorry for the boy - мне жаль этого парня
+here - здесь
+Monday - понедельник
+Repair - исправить
+December - декабрь
+Get a job - получить работу
+silver - серебро
+Present day - сегодня
+As - в то время когда (я ем _ я гуляю)
+not - не
+it seems to be - это кажется
+Surprising - удивительный
+Criticize - критиковать
+Assistant - ассистент
+fork - вилка
+Frighten - пугает
+kill - убийство
+puddle - лужа
+how - как
+North - север
+Good at - хорошо от
+Nowhere - нигде
+wolf - волк
+What time - в какое время
+Important - важный
+wife - жена
+difficult - трудный
+Shirt - рубашка
+box - коробка
+Except for - кроме __(огурцов)
+which - который
+beach - пляж
+Ineffective - неэффективно
+I'll - болен
+it - это
+love - любить
+use - использовать
+worse - хуже
+capital - столица
+The end - конец
+quantity - количество
+rain - дождь
+name - имя, назвать
+no - нет
+Meet - знакомиться, встречать
+Twice - дважды
+Roof - крыша
+Build - строить
+Apply - применить, подать заявку, занести
+Beat - бить, победить
+Reach - достиг, достигнуть, тянутся
+Finish - закончить
+Service - услуга
+Construction - строительство
+Act - поступок
+Other countries - другие страны
+Another country - другая страна
+Other side - другая сторона
+Another opportunity - еще одна возможность
+It's very kind of you - это очень приятно с твоей стороны
+Weak - слабый
+Large - большой (L)
+Able - способный, здібний
+after - после
+Older - старше (возраст)
+Younger - младше (возраст)
+Bigger - больше (размер)
+More or less - более менее
+Cleaner - чище (чистота)
+Short - низкий, короткий
+Bad - плохой
+Fair - ярмарок, справедливо, красавица, русый
+Take on - взять на
+just - только, просто, только что
+Will finish doing - закончу делать (Будущее)
+Should - следует
+near - около, рядом
+Absence - отсутствие, недостаток, неявка
+they - они
+understand - понимать
+apartment - квартира (A)
+Edge of - край _
+Spend on - тратить на
+town - город (T)
+response time - время отклика
+Wake - будить, просыпаться, осознать, очнуться
+Production - производство
+Over time everything changes - со временем всё меняется
+This problem has nothing to do with you - эта проблема не имеет к тебе отношения
+View - вид, мнение, взгляд
+Met - знаком
+Living room - прихожая комната
+Assume - допускать, Предполагать, присваивать себе
+Transform - превратиться
+Sharp - острый
+Tremendous - огромный, потрясающий
+Independent of - независимая от, самостоятельный _
+Considerably - значительно (С)
+stone - камень
+Avenue - проспект
+all - все
+letter - буква, письмо, символ
+call - вызов, призыв, зов
+Worry - беспокоить, волноваться
+Opposite - противоположные
+thousand - 1000
+enjoy - наслаждаться
+foot - нога
+easy - легко, лёгкий, спокойно 
+castle - замок
+soft - мягкий
+On Holiday - На выходных
+Illness - болезнь (простуда)
+Lawyer - юрист
+less - менее, меньше
+modern - современный
+Bag - сумка
+seven - 7
+On top - сверху
+Sign - подписать
+save - спасать
+Manage - уметь (управлять)
+Produce - производить
+I have nothing to do with this matter - я не имею отношения к этому делу
+In any case I like it here - во всяком случае мне нравится тут
+How do i add images to my page - как мне добавить изображения на мою страницу
+Have a good flight - желаю хорошего полёта
+Performance - представление, исполнение, спектакль
+Smaller - меньше (меньше меня)
+Previously - ранее, предварительно, заранее
+The side of the road - узбіччя дороги
+Especially - особенно, специально
+Definitely - точно!, Определенно, разумеется!
+Towards - к, в направлении, по отношению 
+slow - медленный
+Carefully - осторожно, внимательно, бережно
+toy - игрушка
+anybody - любой, никто, всякий (body)
+Bring up - воспитывать
+bruh - братан
+maybe - может быть
+social - общественный
+bottle - бутылка
+notebook - тетрадь
+Inside - изнутри, внутри
+Take part - принимать участие
+fuck - трахать
+often - часто
+lake - озеро
+One more time - еще раз
+Do The Shopping - делать покупки
+Married - женат
+Wonderful - Замечательный, чудесный
+put - класть
+Decade - 10 летие
+soldier - солдат
+snow - снег
+Age - возраст
+Point at - указать на
+dead - мёртвый
+Eyes - глаза
+one - 1
+boyfriend - парень (её)
+Salary - зарплата
+great - великий
+move - двигаться
+Floor - пол
+house - дом
+Go out - идти на выход, выходить
+have had had - иметь
+Do did done - делать
+Make made made - делать
+know knew known - знать
+Tell told told - говорить кому то
+Come came come - вернуть (irregular verbs)
+Feel felt felt - чувствовать
+Become became become - стал
+put put put - положить
+Find found found - найти
+Give gave given - дать
+begin began begun - начинать
+let let let - позволить
+Hear heard heard - слышать
+Write wrote written - писать
+Send - отправить
+Go went gone - идти
+Can could be able - могу, умею
+Say said said - сказал
+Speak spoke spoken - разговаривать (говорить)
+Think thought thought - думать
+cost cost cost - стоить
+had a good time together - провели хорошо время вместе
+differently - по другому (иначе)
+i heard it on tv - я услышал это по телевизору
+stand up - встать
+Prevent - Предотвращать, не допускать, предохранять
+Exist - существовать
+change of clothes - сменная одежда
+work for - Работать на
+Prettier - красивее
+Since - поскольку, тому назад, (S)
+Much more - Гораздо более
+multiplication - умножение
+Cheaply - дешево
+goose - гусь
+Compete - соревноваться
+pen - ручка
+It's just a mouse - это просто мышь
+let - позволять
+fortune - удача, случай
+finger - палец
+Don't freak out - не паникуй
+speak - говорить
+job - работа
+Lazy - ленивые
+be was were been - быть
+See saw seen - видеть
+mean meant meant - иметь в виду (означать)
+using - испольЗУЯ
+i leave for - я уехал в
+i cut myself - я порезался
+amount - количество (a)
+get got got - получать
+Take took taken - брать
+Leave Left Left - оставил, покинул
+run ran run - бежать
+talk - разговаривать
+Choose chose chosen - выбирать
+Allow allowed allowed - разрешить
+favor - одолжение
+bitterly - горько
+quietly - тихо
+upset - расстроенный (U)
+Find out - узнали
+i mean to do it - я хочу сделать это
+i heard it in the news - я услышал это в новостях
+Avoid - избегать
+Protection - защита (P)
+Content - состав, зміст, наполнение
+Previous - предыдущий
+before - до
+Pretty - довольно, красиво
+eagle - орёл
+Feeling - чувство
+put off - откладывать (на потом) два слова
+Though - хотя, однако, несмотря на, даже, всё таки
+What made him change his mind - что заставило его изменить свое мнение
+Efficient - эффективно
+Bring in - приносить
+Depends on - зависит от
+school - школа
+Pronunciation - произношение
+happy - счастливый
+Sooner or later - рано или поздно
+remember - помнить
+child - ребёнок
+milk - молоко
+big - большой
+pay - платить
+now - сейчас
+animal - животное
+strange - странный
+drink - пить
+fourteen - 14
+Earlier - ранее
+trouble - проблема
+Beginner - новичок
+cow - корова
+Success - успех
+old - старый
+Mix up - перемешать
+Rich - богатый
+explain - объясни
+Trousers - брюки
+On time - вовремя
+Route - маршрут
+Meaning - значение
+Article - статья
+In August - в августе
+twelve - 12
+hand - рука
+Community - общество
+Tasty - вкусно
+nickname - прозвище
+Right now - прямо сейчас
+Health - здоровье
+news - новости
+hear - слышать
+Skirt - юбка
+Earn - заработать
+main - главный
+translate - переводить
+Start doing - начать делать
+Impolite - невежливый
+nine - 9
+hell - ад
+Borrow - брать в долг
+read read read - читать
+sit sat sat - сидеть
+sit down - присесть
+Lose lost lost - терять
+Pay paid paid - платить
+set set set - установить
+set up a company - основать компанию
+learn learnt learnt - учить
+By heart - наизусть
+Understand understood understood - понимать
+Immediately - сразу
+Cut cut cut - резать
+Win won won - выигрывать
+Send sent sent - отправлять
+Fall fell fallen - упал
+Arm - рука
+Keep kept kept - хранить
+Promise - обещание
+Throw at me - бросил в меня
+stand stood stood - встать
+meet met met - встречать
+Country house - загородный дом
+Spend spent spent - тратить
+Discount - скидка
+Throw to me - бросил мне
+Subject - предмет
+Piece - кусок
+At last - наконец
+At least - принаймні, хотя бы
+Take - брать
+Later - позже
+ago - назад (час назад)
+hear it for the first time - слышу это первый раз
+Sell sold sold - продать
+Sell for - продать за
+Break broke broken - ломать
+School uniform - школьная форма
+Part - часть
+Give up - бросать (курить)
+set - устанавливать
+add - добавлять
+create - создавать
+delete - удалять
+find - находить
+sort - сортировать
+update - обновлять
+Grow grew grown - расти, выращивать
+Fight fought fought - сражаться
+Courage - отвага
+Complaint - жалоба
+Throw away - выбросить
+Stylish - стильная
+Teach me a lesson - он преподал мне урок
+I lay down - я лёг
+Cover - открывать, освещать
+Classmate - одноклассник
+get - получать
+Append - добавить, присоединять
+compare - сравнивать
+run - бежать
+debug - отлаживать
+Catch - поймать
+Sleep slept slept - спать
+Eat ate eaten - есть
+Drink drank drunk - пить
+Fit fit fit - подходит (идёт)
+Overcome overcame overcome - преодолеть
+River - река
+sea - море
+ocean - океан
+Buy bought bought - покупать
+bring brought brought - принести
+Death died die - умер
+Increase - усилить, увеличить
+space - космос, пространство
+show showed shown - показывать
+postpone - откладывать (на потом)
+give up smoking - бросить курить
+outstanding - выдающийся
+Force - заставить
