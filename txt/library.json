@@ -9,30 +9,9 @@
       },
       {
          "id": 0,
-         "english": "least",
-         "russian": "наименее, как минимум",
-         "theme": "adjective",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
          "english": "to",
          "russian": "в, к",
          "theme": "preposition",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "still",
-         "russian": "всё ещё, ещё, до сих пор",
-         "theme": "adverb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "ball",
-         "russian": "мяч",
-         "theme": "noun",
          "rightAnswer": 0
       },
       {
@@ -163,20 +142,6 @@
       },
       {
          "id": 0,
-         "english": "Hit hit hit",
-         "russian": "ударить",
-         "theme": "irregular verb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Pie",
-         "russian": "пирог",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
          "english": "Hide hid hidden",
          "russian": "прятать",
          "theme": "irregular verb",
@@ -208,13 +173,6 @@
          "english": "Pond",
          "russian": "пруд",
          "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Lend lent lent",
-         "russian": "одолжить (кому то)",
-         "theme": "irregular verb",
          "rightAnswer": 0
       },
       {
@@ -296,13 +254,6 @@
       },
       {
          "id": 0,
-         "english": "Catch caught caught",
-         "russian": "ловить",
-         "theme": "irregular verb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
          "english": "Draw drew drawn",
          "russian": "рисовать",
          "theme": "irregular verb",
@@ -310,30 +261,9 @@
       },
       {
          "id": 0,
-         "english": "Masterpiece",
-         "russian": "шедевр",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Courageously",
-         "russian": "отважно",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
          "english": "Deal dealt dealt",
          "russian": "иметь дело",
          "theme": "irregular verb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Customer",
-         "russian": "покупатель",
-         "theme": "",
          "rightAnswer": 0
       },
       {
@@ -12101,6 +12031,76 @@
          "english": "above",
          "russian": "выше, свыше, более",
          "theme": "pronoun",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "least",
+         "russian": "наименее, как минимум",
+         "theme": "adjective",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "still",
+         "russian": "всё ещё, ещё, до сих пор",
+         "theme": "adverb",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "ball",
+         "russian": "мяч",
+         "theme": "noun",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Hit hit hit",
+         "russian": "ударить",
+         "theme": "irregular verb",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Pie",
+         "russian": "пирог",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Lend lent lent",
+         "russian": "одолжить (кому то)",
+         "theme": "irregular verb",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Catch caught caught",
+         "russian": "ловить",
+         "theme": "irregular verb",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Masterpiece",
+         "russian": "шедевр",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Courageously",
+         "russian": "отважно",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Customer",
+         "russian": "покупатель",
+         "theme": "",
          "rightAnswer": 1
       }
    ]

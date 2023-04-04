@@ -1,8 +1,5 @@
 Currently - В настоящее время, теперь
-least - наименее, как минимум
 to - в, к
-still - всё ещё, ещё, до сих пор
-ball - мяч
 excuse - извинять
 into - в
 begin - начинать
@@ -21,14 +18,11 @@ Hurt hurt hurt - задеть, слегка повредить
 It stopped working properly - это сломалось
 Sing sang sung - петь
 Forget forgot forgot - забывать
-Hit hit hit - ударить
-Pie - пирог
 Hide hid hidden - прятать
 Ride rode ridden - водить, ехать
 Feed fed fed - кормить
 Swim swam swum - плавать
 Pond - пруд
-Lend lent lent - одолжить (кому то)
 Blow blew blown - дуть
 Injury - сильно задеть
 Dream dreamt dreamt - мечтать
@@ -40,12 +34,8 @@ Hole - яма
 Forgive forgave forgiven - прощать
 Hold held held - держать в руках
 Break down - сломаться
-Catch caught caught - ловить
 Draw drew drawn - рисовать
-Masterpiece - шедевр
-Courageously - отважно
 Deal dealt dealt - иметь дело
-Customer - покупатель
 Throw threw thrown - бросать
 Wear wore worn - носить (одежду)
 Fashionable - модная
@@ -1727,3 +1717,13 @@ Affect - влиять, действовать (A)
 Define - определять, давать характеристику
 Has turned into - превратился
 above - выше, свыше, более
+least - наименее, как минимум
+still - всё ещё, ещё, до сих пор
+ball - мяч
+Hit hit hit - ударить
+Pie - пирог
+Lend lent lent - одолжить (кому то)
+Catch caught caught - ловить
+Masterpiece - шедевр
+Courageously - отважно
+Customer - покупатель
