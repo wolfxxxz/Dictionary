@@ -28,6 +28,22 @@ func SaveTXT(s []*models.Word, files string) {
 	//fmt.Println("Done.")
 }
 
+func SaveForLearningTxt(s []*models.Word, files string) {
+	file, err := os.Create(files)
+	if err != nil {
+		fmt.Println("Unable to create file:", err)
+		os.Exit(1)
+	}
+	defer file.Close()
+	for _, v := range s {
+		file.WriteString(v.English)
+		file.WriteString(" - ")
+		file.WriteString(v.Russian)
+		file.WriteString("\n")
+	}
+	//fmt.Println("Done.")
+}
+
 // Часть 1 Добавление новых слов в библиотеку Загрузкой с файла txt
 func TakeTXT(filetxt string) []*models.Word {
 	//fmt.Println("Start") //

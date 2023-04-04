@@ -2,44 +2,9 @@
    "Words": [
       {
          "id": 0,
-         "english": "Accept",
-         "russian": "принять (A)",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Define",
-         "russian": "определять, давать характеристику",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Affect",
-         "russian": "влиять, действовать (A)",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Has turned into",
-         "russian": "превратился",
-         "theme": "Phrase",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
          "english": "Currently",
          "russian": "В настоящее время, теперь",
          "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "above",
-         "russian": "выше, свыше, более",
-         "theme": "pronoun",
          "rightAnswer": 0
       },
       {
@@ -12101,6 +12066,41 @@
          "english": "Force",
          "russian": "заставить",
          "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Accept",
+         "russian": "принять (A)",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Affect",
+         "russian": "влиять, действовать (A)",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Define",
+         "russian": "определять, давать характеристику",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Has turned into",
+         "russian": "превратился",
+         "theme": "Phrase",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "above",
+         "russian": "выше, свыше, более",
+         "theme": "pronoun",
          "rightAnswer": 1
       }
    ]

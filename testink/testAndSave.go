@@ -76,6 +76,7 @@ func TestKnowlig(l []*models.Word) {
 	s, e, incorectWords, rightWords := Work(TestWords)
 	if len(incorectWords) >= 1 {
 		library.Print(incorectWords)
+		library.SaveForLearningTxt(incorectWords, "txt/learning.txt")
 		//Test_2
 		WorkMistake(incorectWords)
 		fmt.Println(s, e)
@@ -89,6 +90,7 @@ func TestKnowlig(l []*models.Word) {
 	incorectWords = append(incorectWords, rttt...)
 	//Сохранить в txt file
 	library.SaveTXT(incorectWords, "txt/library.txt")
+
 	//Сохранить в json file
 	library.Savejson(incorectWords, "txt/library.json")
 
