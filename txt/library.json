@@ -16,34 +16,6 @@
       },
       {
          "id": 0,
-         "english": "Woke up",
-         "russian": "проснулся",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Hurt hurt hurt",
-         "russian": "обижать, задеть, слегка повредить",
-         "theme": "irregular verb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "It stopped working properly",
-         "russian": "Он перестал работать должным образом",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Forget forgot forgotten",
-         "russian": "забывать",
-         "theme": "irregular verb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
          "english": "Hide hid hidden",
          "russian": "прятать",
          "theme": "irregular verb",
@@ -51,50 +23,8 @@
       },
       {
          "id": 0,
-         "english": "Ride rode ridden",
-         "russian": "водить, ехать",
-         "theme": "irregular verb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Feed fed fed",
-         "russian": "кормить",
-         "theme": "irregular verb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Swim swam swum",
-         "russian": "плавать",
-         "theme": "irregular verb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Pond",
-         "russian": "пруд",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
          "english": "Blow blew blown",
          "russian": "дуть",
-         "theme": "irregular verb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Injury",
-         "russian": "рана, травма",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Dream dreamt dreamt",
-         "russian": "мечтать",
          "theme": "irregular verb",
          "rightAnswer": 0
       },
@@ -114,41 +44,6 @@
       },
       {
          "id": 0,
-         "english": "Wake woke waken",
-         "russian": "просыпаться",
-         "theme": "irregular verb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Dig dug dug",
-         "russian": "рыть",
-         "theme": "irregular verb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Hole",
-         "russian": "яма, отверстие, дыра",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Forgive forgave forgiven",
-         "russian": "прощать",
-         "theme": "irregular verb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Hold held held",
-         "russian": "держать в руках",
-         "theme": "irregular verb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
          "english": "Break down",
          "russian": "сломаться",
          "theme": "Phrase verb",
@@ -158,13 +53,6 @@
          "id": 0,
          "english": "Draw drew drawn",
          "russian": "рисовать",
-         "theme": "irregular verb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Deal dealt dealt",
-         "russian": "иметь дело",
          "theme": "irregular verb",
          "rightAnswer": 0
       },
@@ -184,20 +72,6 @@
       },
       {
          "id": 0,
-         "english": "Teach taught taught",
-         "russian": "преподавать",
-         "theme": "irregular verb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Lie lay lain",
-         "russian": "лежать",
-         "theme": "irregular verb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
          "english": "Lie lied lied",
          "russian": "Врать (не путать с лежать)",
          "theme": "irregular verb",
@@ -208,20 +82,6 @@
          "english": "Fly flew flown",
          "russian": "летать",
          "theme": "irregular verb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Instead of",
-         "russian": "вместо (него)",
-         "theme": "preposition",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "remove",
-         "russian": "удалять",
-         "theme": "Programming",
          "rightAnswer": 0
       },
       {
@@ -240,22 +100,8 @@
       },
       {
          "id": 0,
-         "english": "prepend",
-         "russian": "добавлять в начало",
-         "theme": "Programming",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
          "english": "increment",
          "russian": "увеличивать",
-         "theme": "Programming",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "decrement",
-         "russian": "уменьшать",
          "theme": "Programming",
          "rightAnswer": 0
       },
@@ -270,41 +116,6 @@
          "id": 0,
          "english": "deallocate",
          "russian": "освобождать память",
-         "theme": "Programming",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "initialize",
-         "russian": "инициализировать",
-         "theme": "Programming",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "execute",
-         "russian": "выполнять",
-         "theme": "Programming",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "compile",
-         "russian": "компилировать",
-         "theme": "Programming",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "exception",
-         "russian": "исключение",
-         "theme": "Programming",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "throw",
-         "russian": "выбрасывать исключение",
          "theme": "Programming",
          "rightAnswer": 0
       },
@@ -340,13 +151,6 @@
          "id": 0,
          "english": "method",
          "russian": "метод",
-         "theme": "Programming",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "function",
-         "russian": "функция",
          "theme": "Programming",
          "rightAnswer": 0
       },
@@ -12093,6 +11897,202 @@
          "id": 0,
          "english": "error",
          "russian": "ошибка",
+         "theme": "Programming",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Woke up",
+         "russian": "проснулся",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Ride rode ridden",
+         "russian": "водить, ехать",
+         "theme": "irregular verb",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Dream dreamt dreamt",
+         "russian": "мечтать",
+         "theme": "irregular verb",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Hole",
+         "russian": "яма, отверстие, дыра",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Forgive forgave forgiven",
+         "russian": "прощать",
+         "theme": "irregular verb",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Teach taught taught",
+         "russian": "преподавать",
+         "theme": "irregular verb",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Instead of",
+         "russian": "вместо (него)",
+         "theme": "preposition",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "initialize",
+         "russian": "инициализировать",
+         "theme": "Programming",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "execute",
+         "russian": "выполнять",
+         "theme": "Programming",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "compile",
+         "russian": "компилировать",
+         "theme": "Programming",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "throw",
+         "russian": "выбрасывать исключение",
+         "theme": "Programming",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "function",
+         "russian": "функция",
+         "theme": "Programming",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Hurt hurt hurt",
+         "russian": "обижать, задеть, слегка повредить",
+         "theme": "irregular verb",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "It stopped working properly",
+         "russian": "Это перестало работать должным образом",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Feed fed fed",
+         "russian": "кормить",
+         "theme": "irregular verb",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Swim swam swum",
+         "russian": "плавать",
+         "theme": "irregular verb",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Pond",
+         "russian": "пруд",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Wake woke waken",
+         "russian": "просыпаться",
+         "theme": "irregular verb",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Deal dealt dealt",
+         "russian": "иметь дело",
+         "theme": "irregular verb",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Lie lay lain",
+         "russian": "лежать",
+         "theme": "irregular verb",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Forget forgot forgotten",
+         "russian": "забывать",
+         "theme": "irregular verb",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Injury",
+         "russian": "рана, травма",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Dig dug dug",
+         "russian": "рыть",
+         "theme": "irregular verb",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Hold held held",
+         "russian": "держать в руках",
+         "theme": "irregular verb",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "remove",
+         "russian": "удалять",
+         "theme": "Programming",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "prepend",
+         "russian": "добавлять в начало",
+         "theme": "Programming",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "decrement",
+         "russian": "уменьшать",
+         "theme": "Programming",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "exception",
+         "russian": "исключение",
          "theme": "Programming",
          "rightAnswer": 1
       }

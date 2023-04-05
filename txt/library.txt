@@ -1,53 +1,25 @@
 ridge - хребет
 Lay laid laid - ложить
-Woke up - проснулся
-Hurt hurt hurt - обижать, задеть, слегка повредить
-It stopped working properly - Он перестал работать должным образом
-Forget forgot forgotten - забывать
 Hide hid hidden - прятать
-Ride rode ridden - водить, ехать
-Feed fed fed - кормить
-Swim swam swum - плавать
-Pond - пруд
 Blow blew blown - дуть
-Injury - рана, травма
-Dream dreamt dreamt - мечтать
 Steal stole stolen - украсть
 Jewelry - украшения
-Wake woke waken - просыпаться
-Dig dug dug - рыть
-Hole - яма, отверстие, дыра
-Forgive forgave forgiven - прощать
-Hold held held - держать в руках
 Break down - сломаться
 Draw drew drawn - рисовать
-Deal dealt dealt - иметь дело
 Throw threw thrown - бросать
 Wear wore worn - носить (одежду)
-Teach taught taught - преподавать
-Lie lay lain - лежать
 Lie lied lied - Врать (не путать с лежать)
 Fly flew flown - летать
-Instead of - вместо (него)
-remove - удалять
 replace - заменять
 reverse - обращать
-prepend - добавлять в начало
 increment - увеличивать
-decrement - уменьшать
 allocate - выделять память
 deallocate - освобождать память
-initialize - инициализировать
-execute - выполнять
-compile - компилировать
-exception - исключение
-throw - выбрасывать исключение
 try - пробовать
 finally - наконец
 class - класс
 object - объект
 method - метод
-function - функция
 variable - переменная
 constant - постоянный, постоянная величина
 array - массив
@@ -1726,3 +1698,31 @@ Sing sang sung - петь
 Fashionable - модная
 Half an hour - полчаса
 error - ошибка
+Woke up - проснулся
+Ride rode ridden - водить, ехать
+Dream dreamt dreamt - мечтать
+Hole - яма, отверстие, дыра
+Forgive forgave forgiven - прощать
+Teach taught taught - преподавать
+Instead of - вместо (него)
+initialize - инициализировать
+execute - выполнять
+compile - компилировать
+throw - выбрасывать исключение
+function - функция
+Hurt hurt hurt - обижать, задеть, слегка повредить
+It stopped working properly - Это перестало работать должным образом
+Feed fed fed - кормить
+Swim swam swum - плавать
+Pond - пруд
+Wake woke waken - просыпаться
+Deal dealt dealt - иметь дело
+Lie lay lain - лежать
+Forget forgot forgotten - забывать
+Injury - рана, травма
+Dig dug dug - рыть
+Hold held held - держать в руках
+remove - удалять
+prepend - добавлять в начало
+decrement - уменьшать
+exception - исключение
