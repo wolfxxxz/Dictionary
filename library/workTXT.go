@@ -163,6 +163,7 @@ func UpdateLibrary(filetxt string, oldWords []*models.Word) {
 
 	r := []*models.Word{}
 	SaveTXT(r, filetxt)
+	SaveForLearningTxt(r[:20], "txt/learning.txt")
 
 	if d != c {
 		fmt.Println("                   New Words Add:", d-c)
