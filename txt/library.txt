@@ -1,5 +1,40 @@
+with whom - с кем
+i like better - мне нравится больше
 suffer - страдать
 belt - ремень
+Leg - нога
+Drive drove driven - ехать
+Hang hung hung - вешать
+Hook - крюк
+Jacket - куртка, пиджак
+Burn burnt burnt - гореть
+Shoot shot shot - стрелять
+Sink sank sunk - тонуть
+ship - корабль
+He drowned - он утонул
+Drown - тонуть (человек)
+Rise rose risen - вставать, подъем
+Sun - солнце
+Rose by - выросла на (цена)
+Ring rang rung - звонить
+Spoil spoilt spoilt - портить
+Smell smelt smelt - пахнуть
+Terrible - ужасно
+Withdraw withdrew withdrawn - снять деньги
+Misunderstand misunderstood misunderstood - неправильно понять
+Underpay underpaid underpaid - недоплачивать
+Employee - сотрудник
+Overpay overpaid overpaid - переплатить
+For no reason - без какой либо причины
+Tear tore torn - рвать
+Tears - слёзы
+Redo redid redone - переделать
+Oversleep overslept overslept - проспать
+Overeat overate overeaten - переедать
+Light lit lit - зажечь
+Candle - свеча
+Bite bit bitten - кусать
+Foresee foresaw foreseen - предвидеть
 ridge - хребет
 Hide hid hidden - прятать
 Steal stole stolen - украсть
@@ -8,45 +43,28 @@ Wear wore worn - носить (одежду)
 Lie lied lied - Врать (не путать с лежать)
 Fly flew flown - летать
 replace - заменять
-reverse - обращать
-increment - увеличивать
 allocate - выделять память
-try - пробовать
 finally - наконец
-object - объект
 variable - переменная
 queue - очередь
 stack - стек
 reference - ссылка
-iteration - итерация
-loop - цикл
 conditional - условный
 switch - переключатель
-default - по умолчанию
 foreach - для каждого
-return - возвращаемое значение
 yield - возвращать последовательность
 map - отображать
 filter - фильтровать
 Reduce - уменьшить
 aggregate - агрегировать
-group - группировать
-Join - присоединится
 select - выбирать
-from - из
-where - где
 order - упорядочить
 by - по
 ascending - возрастаю
 descending - убывающий
 inner - внутренний
 outer - внешний
-left - левый
-right - правый
-full - полный
 index - индекс
-key - ключ
-value - значение
 Length - длина
 size - размер
 capacity - емкость
@@ -505,7 +523,6 @@ admire - восхищаться
 hot - горячий
 ten - 10
 fire - огонь
-ship - корабль
 city - город
 must - должен
 over - над
@@ -810,7 +827,6 @@ can - может
 Get dark - темнеет
 Century - 100 летие
 The staff - сотрудники
-Employee - работник
 down - вниз
 Resolve the conflict - решить конфликт
 Tired of - устал от
@@ -952,7 +968,6 @@ The same - то же самое (два слова)
 Disappointed - расстроенный
 Quite seldom - достаточно редко
 Expect - ожидать
-For no reason - без какой либо причины
 Happen to - произошло с
 Happily - счастливо
 high - высокий
@@ -1107,7 +1122,6 @@ other - другие
 a Bit - немного B
 Powerful - мощный
 As always - как всегда, як завжди
-sun - солнце
 goodbye - до свидания
 Prepare - подготовится
 what - что
@@ -1728,5 +1742,20 @@ for - для
 break - ломать, перерыв
 Continue - продолжать
 lambda - лямбда
-with whom - с кем
-i like better - мне нравится больше
+reverse - обращать
+increment - увеличивать
+try - пробовать
+object - объект
+iteration - итерация
+loop - цикл
+default - по умолчанию
+return - возвращаемое значение
+group - группировать
+Join - присоединится
+from - из
+where - где
+left - левый
+right - правый
+full - полный
+key - ключ
+value - значение

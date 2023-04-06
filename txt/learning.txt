@@ -1,3 +1,5 @@
+suffer                     - страдать
+belt                       - ремень
 ridge                      - хребет
 Hide hid hidden            - прятать
 Steal stole stolen         - украсть
@@ -6,23 +8,26 @@ Wear wore worn             - носить (одежду)
 Lie lied lied              - Врать (не путать с лежать)
 Fly flew flown             - летать
 replace                    - заменять
-reverse                    - обращать
-increment                  - увеличивать
 allocate                   - выделять память
-try                        - пробовать
 finally                    - наконец
-object                     - объект
 variable                   - переменная
 queue                      - очередь
 stack                      - стек
 reference                  - ссылка
-iteration                  - итерация
-loop                       - цикл
 conditional                - условный
 switch                     - переключатель
-default                    - по умолчанию
 foreach                    - для каждого
-return                     - возвращаемое значение
 yield                      - возвращать последовательность
 map                        - отображать
 filter                     - фильтровать
+Reduce                     - уменьшить
+aggregate                  - агрегировать
+select                     - выбирать
+order                      - упорядочить
+by                         - по
+ascending                  - возрастаю
+descending                 - убывающий
+inner                      - внутренний
+outer                      - внешний
+index                      - индекс
+Length                     - длина
