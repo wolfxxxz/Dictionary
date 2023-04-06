@@ -1,5 +1,3 @@
-with whom - с кем
-i like better - мне нравится больше
 suffer - страдать
 belt - ремень
 ridge - хребет
@@ -1730,3 +1728,5 @@ for - для
 break - ломать, перерыв
 Continue - продолжать
 lambda - лямбда
+with whom - с кем
+i like better - мне нравится больше

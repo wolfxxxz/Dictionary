@@ -2,20 +2,6 @@
    "Words": [
       {
          "id": 0,
-         "english": "with whom",
-         "russian": "с кем",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "i like better",
-         "russian": "мне нравится больше",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
          "english": "suffer",
          "russian": "страдать",
          "theme": "",
@@ -12122,6 +12108,20 @@
          "english": "lambda",
          "russian": "лямбда",
          "theme": "Programming",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "with whom",
+         "russian": "с кем",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "i like better",
+         "russian": "мне нравится больше",
+         "theme": "",
          "rightAnswer": 1
       }
    ]
