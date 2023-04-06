@@ -1,12 +1,7 @@
 ridge                      - хребет
-Lay laid laid              - ложить
 Hide hid hidden            - прятать
-Blow blew blown            - дуть
 Steal stole stolen         - украсть
 Jewelry                    - украшения
-Break down                 - сломаться
-Draw drew drawn            - рисовать
-Throw threw thrown         - бросать
 Wear wore worn             - носить (одежду)
 Lie lied lied              - Врать (не путать с лежать)
 Fly flew flown             - летать
@@ -14,4 +9,20 @@ replace                    - заменять
 reverse                    - обращать
 increment                  - увеличивать
 allocate                   - выделять память
-deallocate                 - освобождать память
+try                        - пробовать
+finally                    - наконец
+object                     - объект
+variable                   - переменная
+queue                      - очередь
+stack                      - стек
+reference                  - ссылка
+iteration                  - итерация
+loop                       - цикл
+conditional                - условный
+switch                     - переключатель
+default                    - по умолчанию
+foreach                    - для каждого
+return                     - возвращаемое значение
+yield                      - возвращать последовательность
+map                        - отображать
+filter                     - фильтровать

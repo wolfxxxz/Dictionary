@@ -1,12 +1,11 @@
+with whom - с кем
+i like better - мне нравится больше
+suffer - страдать
+belt - ремень
 ridge - хребет
-Lay laid laid - ложить
 Hide hid hidden - прятать
-Blow blew blown - дуть
 Steal stole stolen - украсть
 Jewelry - украшения
-Break down - сломаться
-Draw drew drawn - рисовать
-Throw threw thrown - бросать
 Wear wore worn - носить (одежду)
 Lie lied lied - Врать (не путать с лежать)
 Fly flew flown - летать
@@ -14,38 +13,21 @@ replace - заменять
 reverse - обращать
 increment - увеличивать
 allocate - выделять память
-deallocate - освобождать память
 try - пробовать
 finally - наконец
-class - класс
 object - объект
-method - метод
 variable - переменная
-constant - постоянный, постоянная величина
-array - массив
-list - список
-dictionary - словарь
 queue - очередь
 stack - стек
-pointer - указатель
 reference - ссылка
 iteration - итерация
 loop - цикл
 conditional - условный
-if - если
-else - ещё, иначе, кроме
 switch - переключатель
-case - случай
 default - по умолчанию
-while - пока
-do - делать
-for - для
 foreach - для каждого
-break - ломать, перерыв
-Continue - продолжать
 return - возвращаемое значение
 yield - возвращать последовательность
-lambda - лямбда
 map - отображать
 filter - фильтровать
 Reduce - уменьшить
@@ -1726,3 +1708,25 @@ remove - удалять
 prepend - добавлять в начало
 decrement - уменьшать
 exception - исключение
+Lay laid laid - ложить
+Blow blew blown - дуть
+Break down - сломаться
+Draw drew drawn - рисовать
+Throw threw thrown - бросать
+deallocate - освобождать память
+class - класс
+method - метод
+constant - постоянный, постоянная величина
+array - массив
+list - список
+dictionary - словарь
+pointer - указатель
+if - если
+else - ещё, иначе, кроме
+case - случай
+while - пока
+do - делать
+for - для
+break - ломать, перерыв
+Continue - продолжать
+lambda - лямбда

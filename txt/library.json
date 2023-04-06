@@ -2,6 +2,34 @@
    "Words": [
       {
          "id": 0,
+         "english": "with whom",
+         "russian": "с кем",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "i like better",
+         "russian": "мне нравится больше",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "suffer",
+         "russian": "страдать",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
+         "english": "belt",
+         "russian": "ремень",
+         "theme": "",
+         "rightAnswer": 0
+      },
+      {
+         "id": 0,
          "english": "ridge",
          "russian": "хребет",
          "theme": "",
@@ -9,22 +37,8 @@
       },
       {
          "id": 0,
-         "english": "Lay laid laid",
-         "russian": "ложить",
-         "theme": "irregular verb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
          "english": "Hide hid hidden",
          "russian": "прятать",
-         "theme": "irregular verb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Blow blew blown",
-         "russian": "дуть",
          "theme": "irregular verb",
          "rightAnswer": 0
       },
@@ -40,27 +54,6 @@
          "english": "Jewelry",
          "russian": "украшения",
          "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Break down",
-         "russian": "сломаться",
-         "theme": "Phrase verb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Draw drew drawn",
-         "russian": "рисовать",
-         "theme": "irregular verb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Throw threw thrown",
-         "russian": "бросать",
-         "theme": "irregular verb",
          "rightAnswer": 0
       },
       {
@@ -114,13 +107,6 @@
       },
       {
          "id": 0,
-         "english": "deallocate",
-         "russian": "освобождать память",
-         "theme": "Programming",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
          "english": "try",
          "russian": "пробовать",
          "theme": "verb",
@@ -135,13 +121,6 @@
       },
       {
          "id": 0,
-         "english": "class",
-         "russian": "класс",
-         "theme": "Programming",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
          "english": "object",
          "russian": "объект",
          "theme": "Programming",
@@ -149,43 +128,8 @@
       },
       {
          "id": 0,
-         "english": "method",
-         "russian": "метод",
-         "theme": "Programming",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
          "english": "variable",
          "russian": "переменная",
-         "theme": "Programming",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "constant",
-         "russian": "постоянный, постоянная величина",
-         "theme": "",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "array",
-         "russian": "массив",
-         "theme": "Programming",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "list",
-         "russian": "список",
-         "theme": "Programming",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "dictionary",
-         "russian": "словарь",
          "theme": "Programming",
          "rightAnswer": 0
       },
@@ -200,13 +144,6 @@
          "id": 0,
          "english": "stack",
          "russian": "стек",
-         "theme": "Programming",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "pointer",
-         "russian": "указатель",
          "theme": "Programming",
          "rightAnswer": 0
       },
@@ -240,29 +177,8 @@
       },
       {
          "id": 0,
-         "english": "if",
-         "russian": "если",
-         "theme": "preposition",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "else",
-         "russian": "ещё, иначе, кроме",
-         "theme": "pronoun",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
          "english": "switch",
          "russian": "переключатель",
-         "theme": "Programming",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "case",
-         "russian": "случай",
          "theme": "Programming",
          "rightAnswer": 0
       },
@@ -275,45 +191,10 @@
       },
       {
          "id": 0,
-         "english": "while",
-         "russian": "пока",
-         "theme": "Programming",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "do",
-         "russian": "делать",
-         "theme": "Programming",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "for",
-         "russian": "для",
-         "theme": "Programming",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
          "english": "foreach",
          "russian": "для каждого",
          "theme": "Programming",
          "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "break",
-         "russian": "ломать, перерыв",
-         "theme": "verb",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "Continue",
-         "russian": "продолжать",
-         "theme": "",
-         "rightAnswer": 1
       },
       {
          "id": 0,
@@ -326,13 +207,6 @@
          "id": 0,
          "english": "yield",
          "russian": "возвращать последовательность",
-         "theme": "Programming",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "lambda",
-         "russian": "лямбда",
          "theme": "Programming",
          "rightAnswer": 0
       },
@@ -12093,6 +11967,160 @@
          "id": 0,
          "english": "exception",
          "russian": "исключение",
+         "theme": "Programming",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Lay laid laid",
+         "russian": "ложить",
+         "theme": "irregular verb",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Blow blew blown",
+         "russian": "дуть",
+         "theme": "irregular verb",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Break down",
+         "russian": "сломаться",
+         "theme": "Phrase verb",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Draw drew drawn",
+         "russian": "рисовать",
+         "theme": "irregular verb",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Throw threw thrown",
+         "russian": "бросать",
+         "theme": "irregular verb",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "deallocate",
+         "russian": "освобождать память",
+         "theme": "Programming",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "class",
+         "russian": "класс",
+         "theme": "Programming",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "method",
+         "russian": "метод",
+         "theme": "Programming",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "constant",
+         "russian": "постоянный, постоянная величина",
+         "theme": "",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "array",
+         "russian": "массив",
+         "theme": "Programming",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "list",
+         "russian": "список",
+         "theme": "Programming",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "dictionary",
+         "russian": "словарь",
+         "theme": "Programming",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "pointer",
+         "russian": "указатель",
+         "theme": "Programming",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "if",
+         "russian": "если",
+         "theme": "preposition",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "else",
+         "russian": "ещё, иначе, кроме",
+         "theme": "pronoun",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "case",
+         "russian": "случай",
+         "theme": "Programming",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "while",
+         "russian": "пока",
+         "theme": "Programming",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "do",
+         "russian": "делать",
+         "theme": "Programming",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "for",
+         "russian": "для",
+         "theme": "Programming",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "break",
+         "russian": "ломать, перерыв",
+         "theme": "verb",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "Continue",
+         "russian": "продолжать",
+         "theme": "",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "lambda",
+         "russian": "лямбда",
          "theme": "Programming",
          "rightAnswer": 1
       }
