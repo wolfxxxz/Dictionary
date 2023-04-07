@@ -1,20 +1,14 @@
-with whom - с кем
-i like better - мне нравится больше
 suffer - страдать
-belt - ремень
 Leg - нога
 Drive drove driven - ехать
 Hang hung hung - вешать
 Hook - крюк
-Jacket - куртка, пиджак
 Burn burnt burnt - гореть
 Shoot shot shot - стрелять
 Sink sank sunk - тонуть
-ship - корабль
 He drowned - он утонул
 Drown - тонуть (человек)
 Rise rose risen - вставать, подъем
-Sun - солнце
 Rose by - выросла на (цена)
 Ring rang rung - звонить
 Spoil spoilt spoilt - портить
@@ -24,7 +18,6 @@ Withdraw withdrew withdrawn - снять деньги
 Misunderstand misunderstood misunderstood - неправильно понять
 Underpay underpaid underpaid - недоплачивать
 Employee - сотрудник
-Overpay overpaid overpaid - переплатить
 For no reason - без какой либо причины
 Tear tore torn - рвать
 Tears - слёзы
@@ -39,15 +32,12 @@ ridge - хребет
 Hide hid hidden - прятать
 Steal stole stolen - украсть
 Jewelry - украшения
-Wear wore worn - носить (одежду)
-Lie lied lied - Врать (не путать с лежать)
 Fly flew flown - летать
 replace - заменять
 allocate - выделять память
 finally - наконец
 variable - переменная
 queue - очередь
-stack - стек
 reference - ссылка
 conditional - условный
 switch - переключатель
@@ -1759,3 +1749,13 @@ right - правый
 full - полный
 key - ключ
 value - значение
+with whom - с кем
+i like better - мне нравится больше
+belt - ремень
+Jacket - куртка, пиджак
+ship - корабль
+Sun - солнце
+Overpay overpaid overpaid - переплатить
+Wear wore worn - носить (одежду)
+Lie lied lied - Врать (не путать с лежать)
+stack - стек

@@ -2,29 +2,8 @@
    "Words": [
       {
          "id": 0,
-         "english": "with whom",
-         "russian": "с кем",
-         "theme": "",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "i like better",
-         "russian": "мне нравится больше",
-         "theme": "",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
          "english": "suffer",
          "russian": "страдать",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "belt",
-         "russian": "ремень",
          "theme": "",
          "rightAnswer": 0
       },
@@ -39,14 +18,14 @@
          "id": 0,
          "english": "Drive drove driven",
          "russian": "ехать",
-         "theme": "",
+         "theme": "irregular verb",
          "rightAnswer": 0
       },
       {
          "id": 0,
          "english": "Hang hung hung",
          "russian": "вешать",
-         "theme": "",
+         "theme": "irregular verb",
          "rightAnswer": 0
       },
       {
@@ -58,37 +37,23 @@
       },
       {
          "id": 0,
-         "english": "Jacket",
-         "russian": "куртка, пиджак",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
          "english": "Burn burnt burnt",
          "russian": "гореть",
-         "theme": "",
+         "theme": "irregular verb",
          "rightAnswer": 0
       },
       {
          "id": 0,
          "english": "Shoot shot shot",
          "russian": "стрелять",
-         "theme": "",
+         "theme": "irregular verb",
          "rightAnswer": 0
       },
       {
          "id": 0,
          "english": "Sink sank sunk",
          "russian": "тонуть",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "ship",
-         "russian": "корабль",
-         "theme": "noun",
+         "theme": "irregular verb",
          "rightAnswer": 0
       },
       {
@@ -109,14 +74,7 @@
          "id": 0,
          "english": "Rise rose risen",
          "russian": "вставать, подъем",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Sun",
-         "russian": "солнце",
-         "theme": "",
+         "theme": "irregular verb",
          "rightAnswer": 0
       },
       {
@@ -130,21 +88,21 @@
          "id": 0,
          "english": "Ring rang rung",
          "russian": "звонить",
-         "theme": "",
+         "theme": "irregular verb",
          "rightAnswer": 0
       },
       {
          "id": 0,
          "english": "Spoil spoilt spoilt",
          "russian": "портить",
-         "theme": "",
+         "theme": "irregular verb",
          "rightAnswer": 0
       },
       {
          "id": 0,
          "english": "Smell smelt smelt",
          "russian": "пахнуть",
-         "theme": "",
+         "theme": "irregular verb",
          "rightAnswer": 0
       },
       {
@@ -158,34 +116,27 @@
          "id": 0,
          "english": "Withdraw withdrew withdrawn",
          "russian": "снять деньги",
-         "theme": "",
+         "theme": "irregular verb",
          "rightAnswer": 0
       },
       {
          "id": 0,
          "english": "Misunderstand misunderstood misunderstood",
          "russian": "неправильно понять",
-         "theme": "",
+         "theme": "irregular verb",
          "rightAnswer": 0
       },
       {
          "id": 0,
          "english": "Underpay underpaid underpaid",
          "russian": "недоплачивать",
-         "theme": "",
+         "theme": "irregular verb",
          "rightAnswer": 0
       },
       {
          "id": 0,
          "english": "Employee",
          "russian": "сотрудник",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Overpay overpaid overpaid",
-         "russian": "переплатить",
          "theme": "",
          "rightAnswer": 0
       },
@@ -200,7 +151,7 @@
          "id": 0,
          "english": "Tear tore torn",
          "russian": "рвать",
-         "theme": "",
+         "theme": "irregular verb",
          "rightAnswer": 0
       },
       {
@@ -214,28 +165,28 @@
          "id": 0,
          "english": "Redo redid redone",
          "russian": "переделать",
-         "theme": "",
+         "theme": "irregular verb",
          "rightAnswer": 0
       },
       {
          "id": 0,
          "english": "Oversleep overslept overslept",
          "russian": "проспать",
-         "theme": "",
+         "theme": "irregular verb",
          "rightAnswer": 0
       },
       {
          "id": 0,
          "english": "Overeat overate overeaten",
          "russian": "переедать",
-         "theme": "",
+         "theme": "irregular verb",
          "rightAnswer": 0
       },
       {
          "id": 0,
          "english": "Light lit lit",
          "russian": "зажечь",
-         "theme": "",
+         "theme": "irregular verb",
          "rightAnswer": 0
       },
       {
@@ -249,14 +200,14 @@
          "id": 0,
          "english": "Bite bit bitten",
          "russian": "кусать",
-         "theme": "",
+         "theme": "irregular verb",
          "rightAnswer": 0
       },
       {
          "id": 0,
          "english": "Foresee foresaw foreseen",
          "russian": "предвидеть",
-         "theme": "",
+         "theme": "irregular verb",
          "rightAnswer": 0
       },
       {
@@ -285,20 +236,6 @@
          "english": "Jewelry",
          "russian": "украшения",
          "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Wear wore worn",
-         "russian": "носить (одежду)",
-         "theme": "irregular verb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Lie lied lied",
-         "russian": "Врать (не путать с лежать)",
-         "theme": "irregular verb",
          "rightAnswer": 0
       },
       {
@@ -340,13 +277,6 @@
          "id": 0,
          "english": "queue",
          "russian": "очередь",
-         "theme": "Programming",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "stack",
-         "russian": "стек",
          "theme": "Programming",
          "rightAnswer": 0
       },
@@ -12324,6 +12254,76 @@
          "id": 0,
          "english": "value",
          "russian": "значение",
+         "theme": "Programming",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "with whom",
+         "russian": "с кем",
+         "theme": "",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "i like better",
+         "russian": "мне нравится больше",
+         "theme": "",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "belt",
+         "russian": "ремень",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Jacket",
+         "russian": "куртка, пиджак",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "ship",
+         "russian": "корабль",
+         "theme": "noun",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Sun",
+         "russian": "солнце",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Overpay overpaid overpaid",
+         "russian": "переплатить",
+         "theme": "irregular verb",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Wear wore worn",
+         "russian": "носить (одежду)",
+         "theme": "irregular verb",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Lie lied lied",
+         "russian": "Врать (не путать с лежать)",
+         "theme": "irregular verb",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "stack",
+         "russian": "стек",
          "theme": "Programming",
          "rightAnswer": 1
       }
