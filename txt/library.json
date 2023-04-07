@@ -9,13 +9,6 @@
       },
       {
          "id": 0,
-         "english": "Leg",
-         "russian": "нога",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
          "english": "Drive drove driven",
          "russian": "ехать",
          "theme": "irregular verb",
@@ -44,23 +37,9 @@
       },
       {
          "id": 0,
-         "english": "Shoot shot shot",
-         "russian": "стрелять",
-         "theme": "irregular verb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
          "english": "Sink sank sunk",
          "russian": "тонуть",
          "theme": "irregular verb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "He drowned",
-         "russian": "он утонул",
-         "theme": "",
          "rightAnswer": 0
       },
       {
@@ -75,13 +54,6 @@
          "english": "Rise rose risen",
          "russian": "вставать, подъем",
          "theme": "irregular verb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Rose by",
-         "russian": "выросла на (цена)",
-         "theme": "",
          "rightAnswer": 0
       },
       {
@@ -121,13 +93,6 @@
       },
       {
          "id": 0,
-         "english": "Misunderstand misunderstood misunderstood",
-         "russian": "неправильно понять",
-         "theme": "irregular verb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
          "english": "Underpay underpaid underpaid",
          "russian": "недоплачивать",
          "theme": "irregular verb",
@@ -142,13 +107,6 @@
       },
       {
          "id": 0,
-         "english": "For no reason",
-         "russian": "без какой либо причины",
-         "theme": "Phrase",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
          "english": "Tear tore torn",
          "russian": "рвать",
          "theme": "irregular verb",
@@ -159,27 +117,6 @@
          "english": "Tears",
          "russian": "слёзы",
          "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Redo redid redone",
-         "russian": "переделать",
-         "theme": "irregular verb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Oversleep overslept overslept",
-         "russian": "проспать",
-         "theme": "irregular verb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Overeat overate overeaten",
-         "russian": "переедать",
-         "theme": "irregular verb",
          "rightAnswer": 0
       },
       {
@@ -240,13 +177,6 @@
       },
       {
          "id": 0,
-         "english": "Fly flew flown",
-         "russian": "летать",
-         "theme": "irregular verb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
          "english": "replace",
          "russian": "заменять",
          "theme": "Programming",
@@ -282,22 +212,8 @@
       },
       {
          "id": 0,
-         "english": "reference",
-         "russian": "ссылка",
-         "theme": "Programming",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
          "english": "conditional",
          "russian": "условный",
-         "theme": "Programming",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "switch",
-         "russian": "переключатель",
          "theme": "Programming",
          "rightAnswer": 0
       },
@@ -321,20 +237,6 @@
          "russian": "отображать",
          "theme": "Programming",
          "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "filter",
-         "russian": "фильтровать",
-         "theme": "Programming",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Reduce",
-         "russian": "уменьшить",
-         "theme": "",
-         "rightAnswer": 1
       },
       {
          "id": 0,
@@ -12326,6 +12228,104 @@
          "russian": "стек",
          "theme": "Programming",
          "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Leg",
+         "russian": "нога",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Shoot shot shot",
+         "russian": "стрелять",
+         "theme": "irregular verb",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "He drowned",
+         "russian": "он утонул",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Rose by",
+         "russian": "выросла на (цена)",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Misunderstand misunderstood misunderstood",
+         "russian": "неправильно понять",
+         "theme": "irregular verb",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "For no reason",
+         "russian": "без какой либо причины",
+         "theme": "Phrase",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "Redo redid redone",
+         "russian": "переделать",
+         "theme": "irregular verb",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Oversleep overslept overslept",
+         "russian": "проспать",
+         "theme": "irregular verb",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Overeat overate overeaten",
+         "russian": "переедать",
+         "theme": "irregular verb",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Fly flew flown",
+         "russian": "летать",
+         "theme": "irregular verb",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "reference",
+         "russian": "ссылка",
+         "theme": "Programming",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "switch",
+         "russian": "переключатель",
+         "theme": "Programming",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "filter",
+         "russian": "фильтровать",
+         "theme": "Programming",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Reduce",
+         "russian": "уменьшить",
+         "theme": "",
+         "rightAnswer": 2
       }
    ]
 }

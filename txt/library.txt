@@ -1,29 +1,20 @@
 suffer - страдать
-Leg - нога
 Drive drove driven - ехать
 Hang hung hung - вешать
 Hook - крюк
 Burn burnt burnt - гореть
-Shoot shot shot - стрелять
 Sink sank sunk - тонуть
-He drowned - он утонул
 Drown - тонуть (человек)
 Rise rose risen - вставать, подъем
-Rose by - выросла на (цена)
 Ring rang rung - звонить
 Spoil spoilt spoilt - портить
 Smell smelt smelt - пахнуть
 Terrible - ужасно
 Withdraw withdrew withdrawn - снять деньги
-Misunderstand misunderstood misunderstood - неправильно понять
 Underpay underpaid underpaid - недоплачивать
 Employee - сотрудник
-For no reason - без какой либо причины
 Tear tore torn - рвать
 Tears - слёзы
-Redo redid redone - переделать
-Oversleep overslept overslept - проспать
-Overeat overate overeaten - переедать
 Light lit lit - зажечь
 Candle - свеча
 Bite bit bitten - кусать
@@ -32,20 +23,15 @@ ridge - хребет
 Hide hid hidden - прятать
 Steal stole stolen - украсть
 Jewelry - украшения
-Fly flew flown - летать
 replace - заменять
 allocate - выделять память
 finally - наконец
 variable - переменная
 queue - очередь
-reference - ссылка
 conditional - условный
-switch - переключатель
 foreach - для каждого
 yield - возвращать последовательность
 map - отображать
-filter - фильтровать
-Reduce - уменьшить
 aggregate - агрегировать
 select - выбирать
 order - упорядочить
@@ -1759,3 +1745,17 @@ Overpay overpaid overpaid - переплатить
 Wear wore worn - носить (одежду)
 Lie lied lied - Врать (не путать с лежать)
 stack - стек
+Leg - нога
+Shoot shot shot - стрелять
+He drowned - он утонул
+Rose by - выросла на (цена)
+Misunderstand misunderstood misunderstood - неправильно понять
+For no reason - без какой либо причины
+Redo redid redone - переделать
+Oversleep overslept overslept - проспать
+Overeat overate overeaten - переедать
+Fly flew flown - летать
+reference - ссылка
+switch - переключатель
+filter - фильтровать
+Reduce - уменьшить
