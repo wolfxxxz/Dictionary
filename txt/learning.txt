@@ -1,36 +1,41 @@
-suffer                     - страдать
-Drive drove driven         - ехать
 Hang hung hung             - вешать
-Hook                       - крюк
-Burn burnt burnt           - гореть
 Sink sank sunk             - тонуть
-Drown                      - тонуть (человек)
 Rise rose risen            - вставать, подъем
 Ring rang rung             - звонить
-Spoil spoilt spoilt        - портить
 Smell smelt smelt          - пахнуть
 Terrible                   - ужасно
 Withdraw withdrew withdrawn - снять деньги
-Underpay underpaid underpaid - недоплачивать
-Employee                   - сотрудник
 Tear tore torn             - рвать
-Tears                      - слёзы
 Light lit lit              - зажечь
 Candle                     - свеча
 Bite bit bitten            - кусать
-Foresee foresaw foreseen   - предвидеть
 ridge                      - хребет
 Hide hid hidden            - прятать
 Steal stole stolen         - украсть
-Jewelry                    - украшения
 replace                    - заменять
-allocate                   - выделять память
-finally                    - наконец
 variable                   - переменная
 queue                      - очередь
 conditional                - условный
-foreach                    - для каждого
 yield                      - возвращать последовательность
 map                        - отображать
 aggregate                  - агрегировать
-select                     - выбирать
+ascending                  - возрастаю
+inner                      - внутренний
+outer                      - внешний
+capacity                   - емкость
+pointer arithmetic         - арифметика указателей
+bitwise                    - побитовые операции
+shift                      - сдвиг
+logical                    - логические операции
+arithmetic                 - арифметические операции
+comparison                 - операции сравнения
+assignment                 - операция присваивания
+pass by value              - передача по значению
+pass by reference          - передача по ссылке
+call by value              - вызов по значению
+stack overflow             - переполнение стека
+heap                       - куча
+garbage collection         - сборка мусора
+memory leak                - утечка памяти
+algorithm                  - алгоритм
+data structure             - структура данных

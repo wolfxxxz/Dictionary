@@ -1,48 +1,77 @@
-suffer - страдать
-Drive drove driven - ехать
+Cycling - кататься на велосипеде
+Recover - восстанавливать
+Cover - открывать, освещать
+Flutter - порхать
+Benefit - выгода, польза
+Title - название
+Efforts - усилия
+Religion - религия
+Faith - вера
+Permission - разрешение
+Load - груз
+truth - правда
+Interest - процент
+Damage - повреждение
+Failure - провал
+Total - полный
+Reality - реальность
+Origin - происхождение
+Attempt - спроба, попытка
+Lack - нехватка, недостаток
+Signature - подпись
+Direction - инструкция, направление
+Circle - круг
+Symbol - символ
+Exit - выход
+Position - должность
+Strength - сильная сторона, сила
+Instance - случай, пример
+Humor - юмор
+Relation - связь, отношения
+Permit - разрешение, пропуск
+Fear - страх
+Shape - форма (состояние)
+Doubt - сомнение
+Pleasure - удовольствие
+Existence - существование
+Desire - желание
+Consequence - последствие
+Possibility - возможность
+Fault - вина
+Conversation - разговор
+Murder - убийство
+Joy - радость
+Danger - опасность
+Honor - честь
+Shadow - тень
+Entrance - вход
+Establish - основывать, установить
+Establish the order - установить порядок
+One chapter has turned into a book - один раздел превратился в книгу
 Hang hung hung - вешать
-Hook - крюк
-Burn burnt burnt - гореть
 Sink sank sunk - тонуть
-Drown - тонуть (человек)
 Rise rose risen - вставать, подъем
 Ring rang rung - звонить
-Spoil spoilt spoilt - портить
 Smell smelt smelt - пахнуть
 Terrible - ужасно
 Withdraw withdrew withdrawn - снять деньги
-Underpay underpaid underpaid - недоплачивать
-Employee - сотрудник
 Tear tore torn - рвать
-Tears - слёзы
 Light lit lit - зажечь
 Candle - свеча
 Bite bit bitten - кусать
-Foresee foresaw foreseen - предвидеть
 ridge - хребет
 Hide hid hidden - прятать
 Steal stole stolen - украсть
-Jewelry - украшения
 replace - заменять
-allocate - выделять память
-finally - наконец
 variable - переменная
 queue - очередь
 conditional - условный
-foreach - для каждого
 yield - возвращать последовательность
 map - отображать
 aggregate - агрегировать
-select - выбирать
-order - упорядочить
-by - по
 ascending - возрастаю
-descending - убывающий
 inner - внутренний
 outer - внешний
-index - индекс
-Length - длина
-size - размер
 capacity - емкость
 pointer arithmetic - арифметика указателей
 bitwise - побитовые операции
@@ -54,8 +83,6 @@ assignment - операция присваивания
 pass by value - передача по значению
 pass by reference - передача по ссылке
 call by value - вызов по значению
-call by reference - вызов по ссылке
-recursion - рекурсия
 stack overflow - переполнение стека
 heap - куча
 garbage collection - сборка мусора
@@ -214,13 +241,11 @@ Exactly - точно! , конкретнее
 Recent - свежая
 button - кнопка
 Careful - осторожно
-danger - опасность
 voice - голос
 next - следующий
 cheese - сыр
 Lead to - приводит к
 chief - начальник
-truth - правда
 Objective - цель (O)
 page - страница
 Huge - огромный
@@ -773,7 +798,6 @@ Whole night - всю ночь
 look at - смотреть на
 true - истинный
 Worker - рабочий
-Pleasure - удовольствие
 Authorities - власти
 watch - смотреть (телевизор)
 Exercise - заниматься спортом
@@ -1180,7 +1204,6 @@ country - страна
 warm - тёплый
 Afraid of - испуган от
 Influence - влиять на
-Conversation - разговор
 fall - падать
 Correctly - правильно
 Expression - выражение
@@ -1611,7 +1634,6 @@ Throw away - выбросить
 Stylish - стильная
 Teach me a lesson - он преподал мне урок
 I lay down - я лёг
-Cover - открывать, освещать
 Classmate - одноклассник
 get - получать
 Append - добавить, присоединять
@@ -1759,3 +1781,26 @@ reference - ссылка
 switch - переключатель
 filter - фильтровать
 Reduce - уменьшить
+suffer - страдать
+Drive drove driven - ехать
+Hook - крюк
+Burn burnt burnt - гореть
+Underpay underpaid underpaid - недоплачивать
+Employee - сотрудник
+Tears - слёзы
+Foresee foresaw foreseen - предвидеть
+Jewelry - украшения
+allocate - выделять память
+finally - наконец
+foreach - для каждого
+select - выбирать
+Length - длина
+Drown - тонуть (человек)
+Spoil spoilt spoilt - портить
+order - упорядочить
+by - по
+descending - убывающий
+index - индекс
+size - размер
+call by reference - вызов по ссылке
+recursion - рекурсия
