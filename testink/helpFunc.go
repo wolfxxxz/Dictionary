@@ -11,6 +11,7 @@ import (
 
 // Scan bufio
 func Scan() string {
+	fmt.Print("    ")
 	in := bufio.NewScanner(os.Stdin)
 	var nn string
 	if in.Scan() {

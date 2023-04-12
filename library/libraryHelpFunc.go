@@ -51,6 +51,7 @@ func DelDublikat(s []*models.Word) []*models.Word {
 }
 
 func Scan() (string, error) {
+	fmt.Print("    ")
 	in := bufio.NewScanner(os.Stdin)
 	if in.Scan() {
 		return in.Text(), nil

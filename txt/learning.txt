@@ -1,32 +1,29 @@
+Attempt                    - спроба, попытка
+Lack                       - нехватка, недостаток
+Strength                   - сильная сторона, сила
+Instance                   - случай, пример
+Relation                   - связь, отношения
+Permit                     - разрешение, пропуск
+Shape                      - форма (состояние)
+Doubt                      - сомнение
+Existence                  - существование
+Desire                     - желание
+Consequence                - последствие
+Possibility                - возможность
+Fault                      - вина
+Joy                        - радость
+Establish                  - основывать, установить
 Hang hung hung             - вешать
-Sink sank sunk             - тонуть
-Rise rose risen            - вставать, подъем
-Ring rang rung             - звонить
-Smell smelt smelt          - пахнуть
-Terrible                   - ужасно
-Withdraw withdrew withdrawn - снять деньги
 Tear tore torn             - рвать
 Light lit lit              - зажечь
-Candle                     - свеча
 Bite bit bitten            - кусать
 ridge                      - хребет
 Hide hid hidden            - прятать
-Steal stole stolen         - украсть
-replace                    - заменять
-variable                   - переменная
 queue                      - очередь
-conditional                - условный
 yield                      - возвращать последовательность
-map                        - отображать
 aggregate                  - агрегировать
-ascending                  - возрастаю
-inner                      - внутренний
-outer                      - внешний
-capacity                   - емкость
 pointer arithmetic         - арифметика указателей
 bitwise                    - побитовые операции
-shift                      - сдвиг
-logical                    - логические операции
 arithmetic                 - арифметические операции
 comparison                 - операции сравнения
 assignment                 - операция присваивания
@@ -39,3 +36,6 @@ garbage collection         - сборка мусора
 memory leak                - утечка памяти
 algorithm                  - алгоритм
 data structure             - структура данных
+parameter                  - параметр
+Condition                  - условия
+inheritance                - наследование

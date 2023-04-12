@@ -1,82 +1,29 @@
-Cycling - кататься на велосипеде
-Recover - восстанавливать
-Cover - открывать, освещать
-Flutter - порхать
-Benefit - выгода, польза
-Title - название
-Efforts - усилия
-Religion - религия
-Faith - вера
-Permission - разрешение
-Load - груз
-truth - правда
-Interest - процент
-Damage - повреждение
-Failure - провал
-Total - полный
-Reality - реальность
-Origin - происхождение
 Attempt - спроба, попытка
 Lack - нехватка, недостаток
-Signature - подпись
-Direction - инструкция, направление
-Circle - круг
-Symbol - символ
-Exit - выход
-Position - должность
 Strength - сильная сторона, сила
 Instance - случай, пример
-Humor - юмор
 Relation - связь, отношения
 Permit - разрешение, пропуск
-Fear - страх
 Shape - форма (состояние)
 Doubt - сомнение
-Pleasure - удовольствие
 Existence - существование
 Desire - желание
 Consequence - последствие
 Possibility - возможность
 Fault - вина
-Conversation - разговор
-Murder - убийство
 Joy - радость
-Danger - опасность
-Honor - честь
-Shadow - тень
-Entrance - вход
 Establish - основывать, установить
-Establish the order - установить порядок
-One chapter has turned into a book - один раздел превратился в книгу
 Hang hung hung - вешать
-Sink sank sunk - тонуть
-Rise rose risen - вставать, подъем
-Ring rang rung - звонить
-Smell smelt smelt - пахнуть
-Terrible - ужасно
-Withdraw withdrew withdrawn - снять деньги
 Tear tore torn - рвать
 Light lit lit - зажечь
-Candle - свеча
 Bite bit bitten - кусать
 ridge - хребет
 Hide hid hidden - прятать
-Steal stole stolen - украсть
-replace - заменять
-variable - переменная
 queue - очередь
-conditional - условный
 yield - возвращать последовательность
-map - отображать
 aggregate - агрегировать
-ascending - возрастаю
-inner - внутренний
-outer - внешний
-capacity - емкость
 pointer arithmetic - арифметика указателей
 bitwise - побитовые операции
-shift - сдвиг
-logical - логические операции
 arithmetic - арифметические операции
 comparison - операции сравнения
 assignment - операция присваивания
@@ -90,7 +37,6 @@ memory leak - утечка памяти
 algorithm - алгоритм
 data structure - структура данных
 parameter - параметр
-argument - аргумент
 Condition - условия
 inheritance - наследование
 polymorphism - полиморфизм
@@ -1804,3 +1750,57 @@ index - индекс
 size - размер
 call by reference - вызов по ссылке
 recursion - рекурсия
+Cycling - кататься на велосипеде
+Recover - восстанавливать
+Cover - открывать, освещать
+Title - название
+truth - правда
+Damage - повреждение
+Reality - реальность
+Circle - круг
+Exit - выход
+Humor - юмор
+Pleasure - удовольствие
+Danger - опасность
+Honor - честь
+Efforts - усилия
+Permission - разрешение
+Load - груз
+Interest - процент
+Signature - подпись
+Symbol - символ
+Conversation - разговор
+Murder - убийство
+Shadow - тень
+Entrance - вход
+Establish the order - установить порядок
+One chapter has turned into a book - один раздел превратился в книгу
+Rise rose risen - вставать, подъем
+Smell smelt smelt - пахнуть
+Terrible - ужасно
+Flutter - порхать
+Benefit - выгода, польза
+Religion - религия
+Failure - провал
+Origin - происхождение
+Position - должность
+Sink sank sunk - тонуть
+Ring rang rung - звонить
+Candle - свеча
+Steal stole stolen - украсть
+replace - заменять
+variable - переменная
+conditional - условный
+map - отображать
+inner - внутренний
+outer - внешний
+shift - сдвиг
+Faith - вера
+Total - полный, суммарный
+Direction - инструкция, направление
+Fear - страх
+Withdraw withdrew withdrawn - снять деньги
+ascending - возрастаю
+capacity - емкость
+logical - логические операции
+argument - аргумент

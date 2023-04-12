@@ -26,14 +26,14 @@ func init() {
 
 func main() {
 
-	fmt.Println("Тест    знаний    введите   1")
-	fmt.Println("Добавить или изменить слова 2")
-	fmt.Println("Запустить сервер            3")
+	fmt.Println("    Тест    знаний    введите   1")
+	fmt.Println("    Добавить или изменить слова 2")
+	fmt.Println("    Запустить сервер            3")
 	f, _ := library.Scan()
 	ff, _ := strconv.Atoi(f)
 	if ff == 1 {
-		fmt.Println("Тест слов по количеству    1")
-		fmt.Println("Тест знаний по теме        2")
+		fmt.Println("    Тест слов по количеству    1")
+		fmt.Println("    Тест знаний по теме        2")
 
 		f, _ := library.Scan()
 		fff, _ := strconv.Atoi(f)
@@ -42,13 +42,13 @@ func main() {
 		} else if fff == 2 {
 			testink.ThemesOfWords(Rttr)
 		} else {
-			fmt.Println("YOU ARE LAZY")
+			fmt.Println("    YOU ARE LAZY")
 		}
 	} else if ff == 2 {
-		fmt.Println("Добавить новые слова СПИСКОМ - введите 1")
-		fmt.Println("Ввести новые слова в ручном режиме     2")
-		fmt.Println("Добавить тему или изменить слова       3")
-		fmt.Println("Сортировать библиотеку порядок изменится  4")
+		fmt.Println("    Добавить новые слова СПИСКОМ - введите 1")
+		fmt.Println("    Ввести новые слова в ручном режиме     2")
+		fmt.Println("    Добавить тему или изменить слова       3")
+		fmt.Println("    Сортировать библиотеку порядок изменится  4")
 		f, _ := library.Scan()
 		fff, _ := strconv.Atoi(f)
 		if fff == 1 {
@@ -59,15 +59,15 @@ func main() {
 		} else if fff == 3 {
 			library.AddTheme(Rttr)
 		} else if fff == 4 {
-			fmt.Println("start sort")
+			fmt.Println("    start sort")
 			library.SortLibrary(Rttr, "txt/library.json")
 		} else {
-			fmt.Println("YOU ARE LAZY")
+			fmt.Println("    YOU ARE LAZY")
 		}
 	} else if ff == 3 {
 		StartServer()
 	} else {
-		fmt.Println("YOU ARE LAZY")
+		fmt.Println("    YOU ARE LAZY")
 	}
 	time.Sleep(5 * time.Second)
 }

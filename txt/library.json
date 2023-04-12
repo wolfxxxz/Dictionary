@@ -2,132 +2,6 @@
    "Words": [
       {
          "id": 0,
-         "english": "Cycling",
-         "russian": "кататься на велосипеде",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Recover",
-         "russian": "восстанавливать",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Cover",
-         "russian": "открывать, освещать",
-         "theme": "",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "Flutter",
-         "russian": "порхать",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Benefit",
-         "russian": "выгода, польза",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Title",
-         "russian": "название",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Efforts",
-         "russian": "усилия",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Religion",
-         "russian": "религия",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Faith",
-         "russian": "вера",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Permission",
-         "russian": "разрешение",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Load",
-         "russian": "груз",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "truth",
-         "russian": "правда",
-         "theme": "noun",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Interest",
-         "russian": "процент",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Damage",
-         "russian": "повреждение",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Failure",
-         "russian": "провал",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Total",
-         "russian": "полный",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Reality",
-         "russian": "реальность",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Origin",
-         "russian": "происхождение",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
          "english": "Attempt",
          "russian": "спроба, попытка",
          "theme": "",
@@ -137,48 +11,6 @@
          "id": 0,
          "english": "Lack",
          "russian": "нехватка, недостаток",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Signature",
-         "russian": "подпись",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Direction",
-         "russian": "инструкция, направление",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Circle",
-         "russian": "круг",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Symbol",
-         "russian": "символ",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Exit",
-         "russian": "выход",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Position",
-         "russian": "должность",
          "theme": "",
          "rightAnswer": 0
       },
@@ -198,13 +30,6 @@
       },
       {
          "id": 0,
-         "english": "Humor",
-         "russian": "юмор",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
          "english": "Relation",
          "russian": "связь, отношения",
          "theme": "",
@@ -219,13 +44,6 @@
       },
       {
          "id": 0,
-         "english": "Fear",
-         "russian": "страх",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
          "english": "Shape",
          "russian": "форма (состояние)",
          "theme": "",
@@ -235,13 +53,6 @@
          "id": 0,
          "english": "Doubt",
          "russian": "сомнение",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Pleasure",
-         "russian": "удовольствие",
          "theme": "",
          "rightAnswer": 0
       },
@@ -282,50 +93,8 @@
       },
       {
          "id": 0,
-         "english": "Conversation",
-         "russian": "разговор",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Murder",
-         "russian": "убийство",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
          "english": "Joy",
          "russian": "радость",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Danger",
-         "russian": "опасность",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Honor",
-         "russian": "честь",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Shadow",
-         "russian": "тень",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Entrance",
-         "russian": "вход",
          "theme": "",
          "rightAnswer": 0
       },
@@ -338,64 +107,8 @@
       },
       {
          "id": 0,
-         "english": "Establish the order",
-         "russian": "установить порядок",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "One chapter has turned into a book",
-         "russian": "один раздел превратился в книгу",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
          "english": "Hang hung hung",
          "russian": "вешать",
-         "theme": "irregular verb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Sink sank sunk",
-         "russian": "тонуть",
-         "theme": "irregular verb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Rise rose risen",
-         "russian": "вставать, подъем",
-         "theme": "irregular verb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Ring rang rung",
-         "russian": "звонить",
-         "theme": "irregular verb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Smell smelt smelt",
-         "russian": "пахнуть",
-         "theme": "irregular verb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Terrible",
-         "russian": "ужасно",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Withdraw withdrew withdrawn",
-         "russian": "снять деньги",
          "theme": "irregular verb",
          "rightAnswer": 0
       },
@@ -411,13 +124,6 @@
          "english": "Light lit lit",
          "russian": "зажечь",
          "theme": "irregular verb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Candle",
-         "russian": "свеча",
-         "theme": "",
          "rightAnswer": 0
       },
       {
@@ -443,36 +149,8 @@
       },
       {
          "id": 0,
-         "english": "Steal stole stolen",
-         "russian": "украсть",
-         "theme": "irregular verb",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "replace",
-         "russian": "заменять",
-         "theme": "Programming",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "variable",
-         "russian": "переменная",
-         "theme": "Programming",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
          "english": "queue",
          "russian": "очередь",
-         "theme": "Programming",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "conditional",
-         "russian": "условный",
          "theme": "Programming",
          "rightAnswer": 0
       },
@@ -485,43 +163,8 @@
       },
       {
          "id": 0,
-         "english": "map",
-         "russian": "отображать",
-         "theme": "Programming",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
          "english": "aggregate",
          "russian": "агрегировать",
-         "theme": "Programming",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "ascending",
-         "russian": "возрастаю",
-         "theme": "Programmingщий",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "inner",
-         "russian": "внутренний",
-         "theme": "Programming",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "outer",
-         "russian": "внешний",
-         "theme": "Programming",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "capacity",
-         "russian": "емкость",
          "theme": "Programming",
          "rightAnswer": 0
       },
@@ -536,20 +179,6 @@
          "id": 0,
          "english": "bitwise",
          "russian": "побитовые операции",
-         "theme": "Programming",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "shift",
-         "russian": "сдвиг",
-         "theme": "Programming",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "logical",
-         "russian": "логические операции",
          "theme": "Programming",
          "rightAnswer": 0
       },
@@ -641,13 +270,6 @@
          "id": 0,
          "english": "parameter",
          "russian": "параметр",
-         "theme": "Programming",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "argument",
-         "russian": "аргумент",
          "theme": "Programming",
          "rightAnswer": 0
       },
@@ -12639,6 +12261,384 @@
          "id": 0,
          "english": "recursion",
          "russian": "рекурсия",
+         "theme": "Programming",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Cycling",
+         "russian": "кататься на велосипеде",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Recover",
+         "russian": "восстанавливать",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Cover",
+         "russian": "открывать, освещать",
+         "theme": "",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "Title",
+         "russian": "название",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "truth",
+         "russian": "правда",
+         "theme": "noun",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Damage",
+         "russian": "повреждение",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Reality",
+         "russian": "реальность",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Circle",
+         "russian": "круг",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Exit",
+         "russian": "выход",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Humor",
+         "russian": "юмор",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Pleasure",
+         "russian": "удовольствие",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Danger",
+         "russian": "опасность",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Honor",
+         "russian": "честь",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Efforts",
+         "russian": "усилия",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Permission",
+         "russian": "разрешение",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Load",
+         "russian": "груз",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Interest",
+         "russian": "процент",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Signature",
+         "russian": "подпись",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Symbol",
+         "russian": "символ",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Conversation",
+         "russian": "разговор",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Murder",
+         "russian": "убийство",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Shadow",
+         "russian": "тень",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Entrance",
+         "russian": "вход",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Establish the order",
+         "russian": "установить порядок",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "One chapter has turned into a book",
+         "russian": "один раздел превратился в книгу",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Rise rose risen",
+         "russian": "вставать, подъем",
+         "theme": "irregular verb",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Smell smelt smelt",
+         "russian": "пахнуть",
+         "theme": "irregular verb",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Terrible",
+         "russian": "ужасно",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Flutter",
+         "russian": "порхать",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Benefit",
+         "russian": "выгода, польза",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Religion",
+         "russian": "религия",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Failure",
+         "russian": "провал",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Origin",
+         "russian": "происхождение",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Position",
+         "russian": "должность",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Sink sank sunk",
+         "russian": "тонуть",
+         "theme": "irregular verb",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Ring rang rung",
+         "russian": "звонить",
+         "theme": "irregular verb",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Candle",
+         "russian": "свеча",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Steal stole stolen",
+         "russian": "украсть",
+         "theme": "irregular verb",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "replace",
+         "russian": "заменять",
+         "theme": "Programming",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "variable",
+         "russian": "переменная",
+         "theme": "Programming",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "conditional",
+         "russian": "условный",
+         "theme": "Programming",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "map",
+         "russian": "отображать",
+         "theme": "Programming",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "inner",
+         "russian": "внутренний",
+         "theme": "Programming",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "outer",
+         "russian": "внешний",
+         "theme": "Programming",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "shift",
+         "russian": "сдвиг",
+         "theme": "Programming",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Faith",
+         "russian": "вера",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Total",
+         "russian": "полный, суммарный",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Direction",
+         "russian": "инструкция, направление",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Fear",
+         "russian": "страх",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Withdraw withdrew withdrawn",
+         "russian": "снять деньги",
+         "theme": "irregular verb",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "ascending",
+         "russian": "возрастаю",
+         "theme": "Programmingщий",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "capacity",
+         "russian": "емкость",
+         "theme": "Programming",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "logical",
+         "russian": "логические операции",
+         "theme": "Programming",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "argument",
+         "russian": "аргумент",
          "theme": "Programming",
          "rightAnswer": 1
       }
