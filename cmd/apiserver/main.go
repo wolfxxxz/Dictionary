@@ -34,6 +34,7 @@ func main() {
 	if ff == 1 {
 		fmt.Println("    Тест слов по количеству    1")
 		fmt.Println("    Тест знаний по теме        2")
+		fmt.Println("    Тест на время              3")
 
 		f, _ := library.Scan()
 		fff, _ := strconv.Atoi(f)
@@ -41,6 +42,8 @@ func main() {
 			testink.TestKnowlig(Rttr)
 		} else if fff == 2 {
 			testink.ThemesOfWords(Rttr)
+		} else if fff == 3 {
+			testink.TestKnowligTime(Rttr)
 		} else {
 			fmt.Println("    YOU ARE LAZY")
 		}

@@ -1,41 +1,45 @@
-Attempt                    - спроба, попытка
-Lack                       - нехватка, недостаток
-Strength                   - сильная сторона, сила
-Instance                   - случай, пример
-Relation                   - связь, отношения
-Permit                     - разрешение, пропуск
-Shape                      - форма (состояние)
-Doubt                      - сомнение
-Existence                  - существование
-Desire                     - желание
-Consequence                - последствие
-Possibility                - возможность
-Fault                      - вина
-Joy                        - радость
-Establish                  - основывать, установить
 Hang hung hung             - вешать
-Tear tore torn             - рвать
-Light lit lit              - зажечь
 Bite bit bitten            - кусать
-ridge                      - хребет
 Hide hid hidden            - прятать
-queue                      - очередь
-yield                      - возвращать последовательность
-aggregate                  - агрегировать
-pointer arithmetic         - арифметика указателей
-bitwise                    - побитовые операции
-arithmetic                 - арифметические операции
-comparison                 - операции сравнения
-assignment                 - операция присваивания
-pass by value              - передача по значению
-pass by reference          - передача по ссылке
-call by value              - вызов по значению
-stack overflow             - переполнение стека
-heap                       - куча
-garbage collection         - сборка мусора
-memory leak                - утечка памяти
-algorithm                  - алгоритм
-data structure             - структура данных
-parameter                  - параметр
-Condition                  - условия
-inheritance                - наследование
+Feel felt felt             - чувствовать
+Hear heard heard           - слышать
+Can could be able          - могу, умею
+Think thought thought      - думать
+be was were been           - быть
+mean meant meant           - иметь в виду (означать)
+get got got                - получать
+run ran run                - бежать
+Allow allowed allowed      - разрешить
+sit sat sat                - сидеть
+learn learnt learnt        - учить
+Fall fell fallen           - упал
+stand stood stood          - встать
+Grow grew grown            - расти, выращивать
+Eat ate eaten              - есть
+Drink drank drunk          - пить
+Buy bought bought          - покупать
+bring brought brought      - принести
+Death died die             - умер
+show showed shown          - показывать
+Catch caught caught        - ловить
+Sing sang sung             - петь
+Ride rode ridden           - водить, ехать
+Dream dreamt dreamt        - мечтать
+Teach taught taught        - преподавать
+Feed fed fed               - кормить
+Swim swam swum             - плавать
+Wake woke waken            - просыпаться
+Lie lay lain               - лежать
+Forget forgot forgotten    - забывать
+Lay laid laid              - ложить
+Blow blew blown            - дуть
+Draw drew drawn            - рисовать
+Throw threw thrown         - бросать
+Lie lied lied              - Врать (не путать с лежать)
+Misunderstand misunderstood misunderstood - неправильно понять
+Fly flew flown             - летать
+Rise rose risen            - вставать, подъем
+Smell smelt smelt          - пахнуть
+Sink sank sunk             - тонуть
+Steal stole stolen         - украсть
+Withdraw withdrew withdrawn - снять деньги

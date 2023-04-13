@@ -151,3 +151,55 @@ func ThemesOfWords(l []*models.Word) {
 		}
 	}
 }
+
+func TestKnowligTime(l []*models.Word) {
+	fmt.Println("    Количество слов для теста")
+	var quantity int
+	lenLibrary := len(l)
+	for {
+		cc := Scan()
+		i, err := strconv.Atoi(cc)
+		if err != nil {
+			fmt.Println("Incorect, please enter number")
+		} else if i >= lenLibrary {
+			fmt.Printf("Incorect, please enter less number. Len Library is: %v\n", lenLibrary)
+		} else {
+			quantity = i
+			break
+		}
+	}
+	log.Println("            Start")
+
+	//Test_1
+	// Cute slice
+	library.MixUpTime(l)
+	TestWords := l[:quantity]
+	s, e, incorectWords, _ := WorkTime(TestWords)
+
+	if len(incorectWords) >= 1 {
+		fmt.Println(s, e)
+	} else {
+		fmt.Println("    БЕЗ ОШИБОК !!!")
+		fmt.Printf(" Right answers is: %v\n", s)
+	}
+
+	fmt.Println("  All the words in a dictionary: ", len(l)+1)
+	log.Println("Final")
+}
+
+// Сравнение слов
+func WorkTime(s []*models.Word) (yes int, not int, wordsIncorrect []*models.Word, wordsRight []*models.Word) {
+	fmt.Println("                  START")
+	for _, v := range s {
+		y, n := CompareTime(*v)
+		if y > 0 {
+			yes++
+			v.RightAswer += 1
+			wordsRight = append(wordsRight, v)
+		} else if n > 0 {
+			not++
+			wordsIncorrect = append(wordsIncorrect, v)
+		}
+	}
+	return yes, not, wordsIncorrect, wordsRight
+}

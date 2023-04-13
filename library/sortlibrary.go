@@ -50,14 +50,11 @@ func MixUp(rttr []*models.Word, i string) {
 	for i, j := range perm {
 		rttr[i], rttr[j] = rttr[j], rttr[i]
 	}
-
-	/*rand.Seed(time.Now().UnixNano())
-	rand.Shuffle(len(rttr),
-		func(i, j int) { rttr[i], rttr[j] = rttr[j], rttr[i] })*/
 	SaveTXT(rttr, LibraryTXT)
 	Savejson(rttr, i)
 }
 
+// i file.txt
 func SortLibrary(l []*models.Word, i string) {
 	fmt.Println("sort Theme 1 || sort Englisch 2 || sort Russian 3 || mix up 4 || sort RightAnswer 5")
 	c, _ := Scan()
@@ -86,8 +83,13 @@ func MixUpTwo(l []*models.Word) []*models.Word {
 	for i, j := range perm {
 		l[i], l[j] = l[j], l[i]
 	}
-	/*rand.Seed(time.Now().UnixNano())
-	rand.Shuffle(len(l),
-		func(i, j int) { l[i], l[j] = l[j], l[i] })*/
 	return l
+}
+
+func MixUpTime(rttr []*models.Word) {
+	randGen := rand.New(rand.NewSource(time.Now().UnixNano()))
+	perm := randGen.Perm(len(rttr))
+	for i, j := range perm {
+		rttr[i], rttr[j] = rttr[j], rttr[i]
+	}
 }
