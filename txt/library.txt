@@ -1,74 +1,29 @@
 Hang hung hung - вешать
 Bite bit bitten - кусать
 Hide hid hidden - прятать
-Feel felt felt - чувствовать
-Hear heard heard - слышать
-Can could be able - могу, умею
-Think thought thought - думать
-be was were been - быть
-mean meant meant - иметь в виду (означать)
-get got got - получать
-run ran run - бежать
-Allow allowed allowed - разрешить
-sit sat sat - сидеть
-learn learnt learnt - учить
-Fall fell fallen - упал
-stand stood stood - встать
-Grow grew grown - расти, выращивать
-Eat ate eaten - есть
-Drink drank drunk - пить
+Allow allowed allowed - разрешить (A)
 Buy bought bought - покупать
 bring brought brought - принести
-Death died die - умер
-show showed shown - показывать
 Catch caught caught - ловить
-Sing sang sung - петь
-Ride rode ridden - водить, ехать
-Dream dreamt dreamt - мечтать
-Teach taught taught - преподавать
-Feed fed fed - кормить
 Swim swam swum - плавать
-Wake woke waken - просыпаться
 Lie lay lain - лежать
-Forget forgot forgotten - забывать
 Lay laid laid - ложить
-Blow blew blown - дуть
-Draw drew drawn - рисовать
-Throw threw thrown - бросать
-Lie lied lied - Врать (не путать с лежать)
-Misunderstand misunderstood misunderstood - неправильно понять
-Fly flew flown - летать
-Rise rose risen - вставать, подъем
-Smell smelt smelt - пахнуть
-Sink sank sunk - тонуть
 Steal stole stolen - украсть
-Withdraw withdrew withdrawn - снять деньги
-Tear tore torn - рвать
 Light lit lit - зажечь
-Take took taken - брать
-test - тест
-nine - 9
 Lack - нехватка, недостаток
-Instance - случай, пример
-Permit - разрешение, пропуск
 Shape - форма (состояние)
 Doubt - сомнение
 Consequence - последствие
 Fault - вина
-Establish - основывать, установить
-ridge - хребет
-Issue - проблема
 kebab - case
 Learn something new - узнать что
 Raise - растить
 Passion - страсть
 Sure - конечно
 Exactly - точно! , конкретнее
-Recent - свежая
 Careful - осторожно
 Objective - цель (O)
 Huge - огромный
-Leave - покидать
 How much - Сколько (денег)
 Have read - прочитать
 The worst - самый худший
@@ -1805,3 +1760,47 @@ Underpay underpaid underpaid - недоплачивать
 Foresee foresaw foreseen - предвидеть
 Spoil spoilt spoilt - портить
 Ring rang rung - звонить
+Feel felt felt - чувствовать
+Hear heard heard - слышать
+Can could - могу, умею
+be was were been - быть
+mean meant meant - иметь в виду (означать)
+run ran run - бежать
+Fall fell fallen - упал
+stand stood stood - встать (он встал)
+Eat ate eaten - есть, кушать
+Drink drank drunk - пить
+Think thought thought - думать
+get got got - получать
+learn learnt learnt - учить (учится)
+Grow grew grown - расти, выращивать
+show showed shown - показывать
+Sing sang sung - петь
+Draw drew drawn - рисовать
+Lie lied lied - Врать (не путать с лежать)
+Withdraw withdrew withdrawn - снять деньги
+nine - 9
+Issue - проблема
+Death died die - умер
+Dream dreamt dreamt - мечтать
+Teach taught taught - преподавать
+Wake woke waken - просыпаться
+Blow blew blown - дуть
+Throw threw thrown - бросать
+Misunderstand misunderstood misunderstood - неправильно понять
+Rise rose risen - вставать, подъем (сонце)
+Smell smelt smelt - пахнуть
+Tear tore torn - рвать
+Take took taken - брать
+Instance - случай, пример
+Establish - основывать, установить
+ridge - хребет
+Recent - свежая
+Leave - покидать
+sit sat sat - сидеть
+Ride rode ridden - водить, ехать
+Feed fed fed - кормить
+Forget forgot forgotten - забывать
+Fly flew flown - летать
+Sink sank sunk - тонуть
+Permit - разрешение, пропуск

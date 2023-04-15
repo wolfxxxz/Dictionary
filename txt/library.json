@@ -23,115 +23,10 @@
       },
       {
          "id": 0,
-         "english": "Feel felt felt",
-         "russian": "чувствовать",
-         "theme": "irregular verb",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "Hear heard heard",
-         "russian": "слышать",
-         "theme": "irregular verb",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "Can could",
-         "russian": "могу, умею",
-         "theme": "irregular verb",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "Think thought thought",
-         "russian": "думать",
-         "theme": "irregular verb",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "be was were been",
-         "russian": "быть",
-         "theme": "irregular verb",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "mean meant meant",
-         "russian": "иметь в виду (означать)",
-         "theme": "irregular verb",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "get got got",
-         "russian": "получать",
-         "theme": "irregular verb",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "run ran run",
-         "russian": "бежать",
-         "theme": "irregular verb",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
          "english": "Allow allowed allowed",
          "russian": "разрешить (A)",
          "theme": "irregular verb",
          "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "sit sat sat",
-         "russian": "сидеть",
-         "theme": "irregular verb",
-         "rightAnswer": 2
-      },
-      {
-         "id": 0,
-         "english": "learn learnt learnt",
-         "russian": "учить (учится)",
-         "theme": "irregular verb",
-         "rightAnswer": 2
-      },
-      {
-         "id": 0,
-         "english": "Fall fell fallen",
-         "russian": "упал",
-         "theme": "irregular verb",
-         "rightAnswer": 2
-      },
-      {
-         "id": 0,
-         "english": "stand stood stood",
-         "russian": "встать (он встал)",
-         "theme": "irregular verb",
-         "rightAnswer": 2
-      },
-      {
-         "id": 0,
-         "english": "Grow grew grown",
-         "russian": "расти, выращивать",
-         "theme": "irregular verb",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "Eat ate eaten",
-         "russian": "есть, кушать",
-         "theme": "irregular verb",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "Drink drank drunk",
-         "russian": "пить",
-         "theme": "irregular verb",
-         "rightAnswer": 2
       },
       {
          "id": 0,
@@ -149,57 +44,8 @@
       },
       {
          "id": 0,
-         "english": "Death died die",
-         "russian": "умер",
-         "theme": "irregular verb",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "show showed shown",
-         "russian": "показывать",
-         "theme": "irregular verb",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
          "english": "Catch caught caught",
          "russian": "ловить",
-         "theme": "irregular verb",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "Sing sang sung",
-         "russian": "петь",
-         "theme": "irregular verb",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "Ride rode ridden",
-         "russian": "водить, ехать",
-         "theme": "irregular verb",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "Dream dreamt dreamt",
-         "russian": "мечтать",
-         "theme": "irregular verb",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "Teach taught taught",
-         "russian": "преподавать",
-         "theme": "irregular verb",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "Feed fed fed",
-         "russian": "кормить",
          "theme": "irregular verb",
          "rightAnswer": 1
       },
@@ -212,22 +58,8 @@
       },
       {
          "id": 0,
-         "english": "Wake woke waken",
-         "russian": "просыпаться",
-         "theme": "irregular verb",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
          "english": "Lie lay lain",
          "russian": "лежать",
-         "theme": "irregular verb",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "Forget forgot forgotten",
-         "russian": "забывать",
          "theme": "irregular verb",
          "rightAnswer": 1
       },
@@ -240,85 +72,8 @@
       },
       {
          "id": 0,
-         "english": "Blow blew blown",
-         "russian": "дуть",
-         "theme": "irregular verb",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "Draw drew drawn",
-         "russian": "рисовать",
-         "theme": "irregular verb",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "Throw threw thrown",
-         "russian": "бросать",
-         "theme": "irregular verb",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "Lie lied lied",
-         "russian": "Врать (не путать с лежать)",
-         "theme": "irregular verb",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "Misunderstand misunderstood misunderstood",
-         "russian": "неправильно понять",
-         "theme": "irregular verb",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "Fly flew flown",
-         "russian": "летать",
-         "theme": "irregular verb",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "Rise rose risen",
-         "russian": "вставать, подъем (сонце)",
-         "theme": "irregular verb",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "Smell smelt smelt",
-         "russian": "пахнуть",
-         "theme": "irregular verb",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "Sink sank sunk",
-         "russian": "тонуть",
-         "theme": "irregular verb",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
          "english": "Steal stole stolen",
          "russian": "украсть",
-         "theme": "irregular verb",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "Withdraw withdrew withdrawn",
-         "russian": "снять деньги",
-         "theme": "irregular verb",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "Tear tore torn",
-         "russian": "рвать",
          "theme": "irregular verb",
          "rightAnswer": 1
       },
@@ -331,36 +86,8 @@
       },
       {
          "id": 0,
-         "english": "Take took taken",
-         "russian": "брать",
-         "theme": "irregular verb",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "nine",
-         "russian": "9",
-         "theme": "число",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
          "english": "Lack",
          "russian": "нехватка, недостаток",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Instance",
-         "russian": "случай, пример",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Permit",
-         "russian": "разрешение, пропуск",
          "theme": "",
          "rightAnswer": 0
       },
@@ -389,34 +116,6 @@
          "id": 0,
          "english": "Fault",
          "russian": "вина",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Establish",
-         "russian": "основывать, установить",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "ridge",
-         "russian": "хребет",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Issue",
-         "russian": "проблема",
-         "theme": "",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "kebab",
-         "russian": "case",
          "theme": "",
          "rightAnswer": 0
       },
@@ -457,13 +156,6 @@
       },
       {
          "id": 0,
-         "english": "Recent",
-         "russian": "свежая",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
          "english": "Careful",
          "russian": "осторожно",
          "theme": "",
@@ -480,13 +172,6 @@
          "id": 0,
          "english": "Huge",
          "russian": "огромный",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Leave",
-         "russian": "покидать",
          "theme": "",
          "rightAnswer": 0
       },
@@ -12641,6 +12326,314 @@
          "russian": "звонить",
          "theme": "irregular verb",
          "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "Feel felt felt",
+         "russian": "чувствовать",
+         "theme": "irregular verb",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "Hear heard heard",
+         "russian": "слышать",
+         "theme": "irregular verb",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "Can could",
+         "russian": "могу, умею",
+         "theme": "irregular verb",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "be was were been",
+         "russian": "быть",
+         "theme": "irregular verb",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "mean meant meant",
+         "russian": "иметь в виду (означать)",
+         "theme": "irregular verb",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "run ran run",
+         "russian": "бежать",
+         "theme": "irregular verb",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "Fall fell fallen",
+         "russian": "упал",
+         "theme": "irregular verb",
+         "rightAnswer": 3
+      },
+      {
+         "id": 0,
+         "english": "stand stood stood",
+         "russian": "встать (он встал)",
+         "theme": "irregular verb",
+         "rightAnswer": 3
+      },
+      {
+         "id": 0,
+         "english": "Eat ate eaten",
+         "russian": "есть, кушать",
+         "theme": "irregular verb",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "Drink drank drunk",
+         "russian": "пить",
+         "theme": "irregular verb",
+         "rightAnswer": 3
+      },
+      {
+         "id": 0,
+         "english": "Think thought thought",
+         "russian": "думать",
+         "theme": "irregular verb",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "get got got",
+         "russian": "получать",
+         "theme": "irregular verb",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "learn learnt learnt",
+         "russian": "учить (учится)",
+         "theme": "irregular verb",
+         "rightAnswer": 3
+      },
+      {
+         "id": 0,
+         "english": "Grow grew grown",
+         "russian": "расти, выращивать",
+         "theme": "irregular verb",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "show showed shown",
+         "russian": "показывать",
+         "theme": "irregular verb",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "Sing sang sung",
+         "russian": "петь",
+         "theme": "irregular verb",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "Draw drew drawn",
+         "russian": "рисовать",
+         "theme": "irregular verb",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "Lie lied lied",
+         "russian": "Врать (не путать с лежать)",
+         "theme": "irregular verb",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "Withdraw withdrew withdrawn",
+         "russian": "снять деньги",
+         "theme": "irregular verb",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "nine",
+         "russian": "9",
+         "theme": "число",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "Issue",
+         "russian": "проблема",
+         "theme": "",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "Death died die",
+         "russian": "умер",
+         "theme": "irregular verb",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "Dream dreamt dreamt",
+         "russian": "мечтать",
+         "theme": "irregular verb",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "Teach taught taught",
+         "russian": "преподавать",
+         "theme": "irregular verb",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "Wake woke waken",
+         "russian": "просыпаться",
+         "theme": "irregular verb",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "Blow blew blown",
+         "russian": "дуть",
+         "theme": "irregular verb",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "Throw threw thrown",
+         "russian": "бросать",
+         "theme": "irregular verb",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "Misunderstand misunderstood misunderstood",
+         "russian": "неправильно понять",
+         "theme": "irregular verb",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "Rise rose risen",
+         "russian": "вставать, подъем (сонце)",
+         "theme": "irregular verb",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "Smell smelt smelt",
+         "russian": "пахнуть",
+         "theme": "irregular verb",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "Tear tore torn",
+         "russian": "рвать",
+         "theme": "irregular verb",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "Take took taken",
+         "russian": "брать",
+         "theme": "irregular verb",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "Instance",
+         "russian": "случай, пример",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Establish",
+         "russian": "основывать, установить",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "ridge",
+         "russian": "хребет",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Recent",
+         "russian": "свежая",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Leave",
+         "russian": "покидать",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "sit sat sat",
+         "russian": "сидеть",
+         "theme": "irregular verb",
+         "rightAnswer": 3
+      },
+      {
+         "id": 0,
+         "english": "Ride rode ridden",
+         "russian": "водить, ехать",
+         "theme": "irregular verb",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "Feed fed fed",
+         "russian": "кормить",
+         "theme": "irregular verb",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "Forget forgot forgotten",
+         "russian": "забывать",
+         "theme": "irregular verb",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "Fly flew flown",
+         "russian": "летать",
+         "theme": "irregular verb",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "Sink sank sunk",
+         "russian": "тонуть",
+         "theme": "irregular verb",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "Permit",
+         "russian": "разрешение, пропуск",
+         "theme": "",
+         "rightAnswer": 1
       }
    ]
 }
