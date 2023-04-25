@@ -47,6 +47,39 @@ func WorkMistake(s []*models.Word) {
 	}
 }
 
+// learn words
+func learnWords(s []*models.Word) {
+	fmt.Println("                 Learn Words")
+	//fmt.Println("--- Check and repair ---")
+	//n := len(s)
+	for {
+		if len(s) == 0 {
+			break
+		}
+		v := s[0]
+		/*
+			//Последний?
+			v := s[len(s)-1]*/
+		y, _ := Compare(*v)
+
+		if y > 0 && len(s) != 1 {
+			s = s[1:]
+			//PrintXpen()
+			//fmt.Println(len(s))
+		} else if y < 1 {
+
+			copy(s, s[1:])
+			s[len(s)-1] = v
+			PrintXpen()
+			/*
+				s = s[1 : len(s)-1]
+				s = append(s, v)*/
+		} else if y > 0 && len(s) == 1 {
+			break
+		}
+	}
+}
+
 // Тест по количеству
 func TestKnowlig(l []*models.Word) {
 	//fmt.Println("Flag-----------------------------------------------")
@@ -96,6 +129,34 @@ func TestKnowlig(l []*models.Word) {
 
 	fmt.Println("  All the words in a dictionary: ", len(incorectWords)+1)
 	log.Println("Final")
+}
+
+// Учить слова
+func LearnWordsByQuantity(l []*models.Word) {
+	//Scan quantity words for test
+	//----------------------------------------------
+	fmt.Println("Количество слов которые нужно выучить")
+	var quantity int
+	lenLibrary := len(l)
+	for {
+		cc := Scan()
+		i, err := strconv.Atoi(cc)
+		if err != nil {
+			fmt.Println("Incorect, please enter number")
+		} else if i >= lenLibrary {
+			fmt.Printf("Incorect, please enter less number. Len Library is: %v\n", lenLibrary)
+		} else {
+			quantity = i
+			break
+		}
+	}
+	log.Println("                 Start learning")
+
+	// Cute some
+	LearnWords := l[:quantity]
+
+	learnWords(LearnWords)
+
 }
 
 // Тест по темам

@@ -28,7 +28,8 @@ func main() {
 
 	fmt.Println("    Тест    знаний    введите   1")
 	fmt.Println("    Добавить или изменить слова 2")
-	fmt.Println("    Запустить сервер            3")
+	fmt.Println("    Учить слова                 3")
+	fmt.Println("    Запустить сервер            4")
 	f, _ := library.Scan()
 	ff, _ := strconv.Atoi(f)
 	if ff == 1 {
@@ -68,6 +69,8 @@ func main() {
 			fmt.Println("    YOU ARE LAZY")
 		}
 	} else if ff == 3 {
+		testink.LearnWordsByQuantity(Rttr)
+	} else if ff == 4 {
 		StartServer()
 	} else {
 		fmt.Println("    YOU ARE LAZY")

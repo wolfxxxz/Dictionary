@@ -1,13 +1,20 @@
-Hang hung hung             - вешать
-Bite bit bitten            - кусать
-Hide hid hidden            - прятать
-Allow allowed allowed      - разрешить (A)
-Buy bought bought          - покупать
-bring brought brought      - принести
-Catch caught caught        - ловить
-Swim swam swum             - плавать
-Lie lay lain               - лежать
-Lay laid laid              - ложить
-Steal stole stolen         - украсть
-Light lit lit              - зажечь
-Lack                       - нехватка, недостаток
+Below average              - ниже среднего
+Thick                      - толстый (книга)
+Athlete                    - атлет
+Acquaintance               - знакомый
+Shy                        - застенчивый
+Wedding                    - свадьба
+goal                       - цель
+Score a goal               - забивать гол
+Univers                    - вселенная
+Responsibility             - обязанность, ответственность
+Desire                     - желание
+Relations                  - отношения
+Pit                        - яма
+Talk                       - разговаривать
+Split split split          - расставаться
+Boast                      - хвастаться
+Call of                    - отменить
+Disturb                    - мешать
+Suit                       - подходить (по)
+Expect                     - ожидать

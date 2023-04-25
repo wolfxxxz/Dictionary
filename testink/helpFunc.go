@@ -149,3 +149,15 @@ func CompareTime(l models.Word) (yes int, not int) {
 	}
 	return yes, not*/
 }
+
+func PrintXpen() {
+	var d int
+	for i := 0; i <= 15; i++ {
+
+		d++
+		for i := 0; i <= d; i++ {
+			fmt.Print(" ")
+		}
+		fmt.Println("O p e n   y o u r   m i n d")
+	}
+}
