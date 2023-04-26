@@ -4,17 +4,25 @@ Athlete                    - атлет
 Acquaintance               - знакомый
 Shy                        - застенчивый
 Wedding                    - свадьба
-goal                       - цель
 Score a goal               - забивать гол
-Univers                    - вселенная
 Responsibility             - обязанность, ответственность
 Desire                     - желание
 Relations                  - отношения
-Pit                        - яма
-Talk                       - разговаривать
-Split split split          - расставаться
-Boast                      - хвастаться
 Call of                    - отменить
-Disturb                    - мешать
-Suit                       - подходить (по)
-Expect                     - ожидать
+Increase                   - увеличить
+Former                     - бывший
+explore                    - исследовать
+curious                    - любопытный
+admit                      - признавать
+focused                    - сосредоточенный
+Crop                       - урожай
+Keep it simple             - держать все простым
+Take a break               - сделать перерыв
+Get some rest              - отдохнуть
+Get started                - начать
+Stay focused               - оставаться сосредоточенным
+Give it a try              - попробовать
+Be patient                 - быть терпеливым
+Keep practicing            - продолжать тренироваться
+Island                     - остров
+random                     - случайный

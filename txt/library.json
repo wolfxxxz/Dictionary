@@ -44,24 +44,10 @@
       },
       {
          "id": 0,
-         "english": "goal",
-         "russian": "цель",
-         "theme": "",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
          "english": "Score a goal",
          "russian": "забивать гол",
          "theme": "",
          "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Univers",
-         "russian": "вселенная",
-         "theme": "",
-         "rightAnswer": 1
       },
       {
          "id": 0,
@@ -86,58 +72,9 @@
       },
       {
          "id": 0,
-         "english": "Pit",
-         "russian": "яма",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Talk",
-         "russian": "разговаривать",
-         "theme": "",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "Split split split",
-         "russian": "расставаться",
-         "theme": "irregular verb",
-         "rightAnswer": 1
-      },
-      {
-         "id": 0,
-         "english": "Boast",
-         "russian": "хвастаться",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
          "english": "Call of",
          "russian": "отменить",
          "theme": "фразовый глагол",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Disturb",
-         "russian": "мешать",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Suit",
-         "russian": "подходить (по)",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Expect",
-         "russian": "ожидать",
-         "theme": "",
          "rightAnswer": 0
       },
       {
@@ -151,34 +88,6 @@
          "id": 0,
          "english": "Former",
          "russian": "бывший",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Where do we begin",
-         "russian": "с чего начнём",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "I had not eaten since Tuesday",
-         "russian": "я не ел со вторника",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "He wants to respond to her",
-         "russian": "он хочет ответить ей",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "She doesn't affect me",
-         "russian": "она не влияет на меня",
          "theme": "",
          "rightAnswer": 0
       },
@@ -240,27 +149,6 @@
       },
       {
          "id": 0,
-         "english": "Threat",
-         "russian": "угроза",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Completely",
-         "russian": "полностью (согласен)",
-         "theme": "",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Make a plan",
-         "russian": "составить план",
-         "theme": "Phrase",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
          "english": "Keep it simple",
          "russian": "держать все простым",
          "theme": "Phrase",
@@ -283,14 +171,7 @@
       {
          "id": 0,
          "english": "Get started",
-         "russian": "начать",
-         "theme": "Phrase",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Work hard",
-         "russian": "усердно работать",
+         "russian": "начинай",
          "theme": "Phrase",
          "rightAnswer": 0
       },
@@ -338,15 +219,8 @@
       },
       {
          "id": 0,
-         "english": "He is away",
-         "russian": "он отсутствует (уехал далеко)",
-         "theme": "Phrase",
-         "rightAnswer": 0
-      },
-      {
-         "id": 0,
-         "english": "Rains",
-         "russian": "дощ",
+         "english": "Rain",
+         "russian": "дождь",
          "theme": "Weather",
          "rightAnswer": 0
       },
@@ -360,7 +234,7 @@
       {
          "id": 0,
          "english": "start",
-         "russian": "начинать",
+         "russian": "начинать (S)",
          "theme": "verb",
          "rightAnswer": 0
       },
@@ -13151,6 +13025,132 @@
          "english": "Choice",
          "russian": "выбор",
          "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "goal",
+         "russian": "цель",
+         "theme": "",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "Univers",
+         "russian": "вселенная",
+         "theme": "",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "Pit",
+         "russian": "яма",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Talk",
+         "russian": "разговаривать",
+         "theme": "",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "Split split split",
+         "russian": "расставаться",
+         "theme": "irregular verb",
+         "rightAnswer": 2
+      },
+      {
+         "id": 0,
+         "english": "Boast",
+         "russian": "хвастаться",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Disturb",
+         "russian": "мешать",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Suit",
+         "russian": "подходить (по)",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Expect",
+         "russian": "ожидать",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Where do we begin",
+         "russian": "с чего начнём",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "I had not eaten since Tuesday",
+         "russian": "я не ел со вторника",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "He wants to respond to her",
+         "russian": "он хочет ответить ей",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "She doesn't affect me",
+         "russian": "она не влияет на меня",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Threat",
+         "russian": "угроза",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Completely",
+         "russian": "полностью (согласен)",
+         "theme": "",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Make a plan",
+         "russian": "составить план",
+         "theme": "Phrase",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "Work hard",
+         "russian": "усердно работать",
+         "theme": "Phrase",
+         "rightAnswer": 1
+      },
+      {
+         "id": 0,
+         "english": "He is away",
+         "russian": "он отсутствует (уехал далеко)",
+         "theme": "Phrase",
          "rightAnswer": 1
       }
    ]
