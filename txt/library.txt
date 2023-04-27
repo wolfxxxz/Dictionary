@@ -1,15 +1,5 @@
 Below average - ниже среднего
-Thick - толстый (книга)
-Athlete - атлет
-Acquaintance - знакомый
-Shy - застенчивый
-Wedding - свадьба
-Score a goal - забивать гол
-Responsibility - обязанность, ответственность
-Desire - желание
-Relations - отношения
 Call of - отменить
-Increase - увеличить
 Former - бывший
 She had not earned anything - она ничего не заработала
 explore - исследовать
@@ -17,37 +7,22 @@ curious - любопытный
 admit - признавать
 focused - сосредоточенный
 I'm ready for the consequences - Я готов к последствиям
-There was a great lack of rice that year - В том году было большое нехватка риса
 Crop - урожай
 Keep it simple - держать все простым
 Take a break - сделать перерыв
 Get some rest - отдохнуть
-Get started - начать
 Stay focused - оставаться сосредоточенным
 Give it a try - попробовать
 Be patient - быть терпеливым
 Keep practicing - продолжать тренироваться
-Island - остров
 random - случайный
-Rains - дощ
 fight - драться
-start - начинать
-day - день
-change - изменять
-room - комната
-request - запрос
 then - тогда
-Prepare for - подготовиться к
 nice - приятный
-Garden - сад
 Accept failure - принимать неудачи
-half - половина
-nothing - ничто
 Take a chance - рискнуть
 take off clothes - снимать одежду
 Follow your dreams - следовать своим мечтам
-Trip - поездка
-jump - прыгать
 head - голова
 wash - мыть
 cool - классный
@@ -1877,3 +1852,28 @@ Completely - полностью (согласен)
 Make a plan - составить план
 Work hard - усердно работать
 He is away - он отсутствует (уехал далеко)
+Thick - толстый (книга)
+Athlete - атлет
+Acquaintance - знакомый
+Shy - застенчивый
+Wedding - свадьба
+Score a goal - забивать гол
+Responsibility - обязанность, ответственность
+Desire - желание
+Relations - отношения
+Increase - увеличить
+There was a great lack of rice that year - В том году было большое нехватка риса
+Get started - начинай
+Island - остров
+Rain - дождь
+start - начинать (S)
+day - день
+change - изменять
+room - комната
+request - запрос
+Prepare for - подготовиться к
+Garden - сад
+half - половина
+nothing - ничто
+Trip - поездка
+jump - прыгать
