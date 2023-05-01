@@ -1,25 +1,23 @@
-Below average              - ниже среднего
-Call of                    - отменить
+Threshold                  - порог
+Confidence                 - уверенность
+Accustomed                 - привык
+Earth                      - земля
 Former                     - бывший
-She had not earned anything - она ничего не заработала
-explore                    - исследовать
-curious                    - любопытный
 admit                      - признавать
-focused                    - сосредоточенный
-I'm ready for the consequences - Я готов к последствиям
-Crop                       - урожай
-Keep it simple             - держать все простым
-Take a break               - сделать перерыв
-Get some rest              - отдохнуть
-Stay focused               - оставаться сосредоточенным
 Give it a try              - попробовать
 Be patient                 - быть терпеливым
 Keep practicing            - продолжать тренироваться
-random                     - случайный
-fight                      - драться
-then                       - тогда
-nice                       - приятный
-Accept failure             - принимать неудачи
-Take a chance              - рискнуть
-take off clothes           - снимать одежду
-Follow your dreams         - следовать своим мечтам
+brush your teeth           - чистить зубы
+Sleep on it                - обдумать еще раз
+regression test            - регрессионное тестирование
+do the laundry             - стирать белье
+tsunami                    - цунами
+protected                  - защищенный
+Keep an open mind          - оставаться открытым к новому
+calm down                  - успокоиться
+Stay organized             - оставаться организованным
+forward                    - вперёд
+peace                      - мир
+at the end of the meeting  - в конце встречи
+Git                        - система контроля версий Git
+paradise                   - рай

@@ -1,99 +1,40 @@
-Below average - ниже среднего
-Call of - отменить
+Exactly - точно! , конкретнее
+Used to - привык к
+Accustomed to - привык к
+Exception - исключение
+Confident - уверен
+Proud of - гордится за
+Violin - скрипка
+Flute - флейта
+Faith - вера
+Sun - солнце
+Effort - усилие
+For instance - например (сыр)
+Went on - продолжать
+Feel like - хочу
+Threshold - порог
+Confidence - уверенность
+Accustomed - привык
+Earth - земля
 Former - бывший
-She had not earned anything - она ничего не заработала
-explore - исследовать
-curious - любопытный
 admit - признавать
-focused - сосредоточенный
-I'm ready for the consequences - Я готов к последствиям
-Crop - урожай
-Keep it simple - держать все простым
-Take a break - сделать перерыв
-Get some rest - отдохнуть
-Stay focused - оставаться сосредоточенным
 Give it a try - попробовать
 Be patient - быть терпеливым
 Keep practicing - продолжать тренироваться
-random - случайный
-fight - драться
-then - тогда
-nice - приятный
-Accept failure - принимать неудачи
-Take a chance - рискнуть
-take off clothes - снимать одежду
-Follow your dreams - следовать своим мечтам
-head - голова
-wash - мыть
-cool - классный
-catch up - догонять(два слова)
-could - мог
-ground - земля
-coin - монета
-so - так
-Inconvenient - неудобно (время)
-crazy - безумный
-Hard working - трудолюбивый
-somebody - кто нибудь
-August - август
-month - месяц
-dear - дорогой, уважаемый
-The most interesting - самый интересный
-at - в, на
-conflict - конфликт
-yes/yeah - да
 brush your teeth - чистить зубы
-he - он
-mouth - рот
-Celebrate success - праздновать успехи
-indentation - отступы
-In general - в основном
-girlfriend - девушка (его)
 Sleep on it - обдумать еще раз
-Solution to - решение __
 regression test - регрессионное тестирование
-dark - тёмный
-close - близкий, закрыть
 do the laundry - стирать белье
-king - король
-already - уже
-authorization - авторизация
-egg - яйцо
-show - показывать
 tsunami - цунами
-why - почему
-Divorced - разведен
-Stupid - глупый S
-read a book - читать книгу
-screen - экран
-clean the house - убирать дом
-elephant - слон
 protected - защищенный
-come - приходить
-Multiply - умножить
-Advertisement - рекламное объявление
 Keep an open mind - оставаться открытым к новому
-third - третий
-Area - область, район
 calm down - успокоиться
-tea - чай
-question - вопрос
 Stay organized - оставаться организованным
-rat - крыса
-picture - картинка
 forward - вперёд
-last - последний
 peace - мир
 at the end of the meeting - в конце встречи
-about - о
-real - реальный
-beer - пиво
 Git - система контроля версий Git
-For years - годами
 paradise - рай
-dirty - грязный
-ring - кольцо
-Ask for - просит _
 anything - что угодно
 Practice makes perfect - практика делает совершенным
 Only once in a year - только раз в год?
@@ -262,7 +203,6 @@ Depend on - зависит от
 Help others - помогать другим
 Simplicity - простота
 patient - терпеливый, пациент
-Proud of - гордится за
 sweet - сладкий
 Wednesday - среда
 death - смерть
@@ -460,7 +400,6 @@ Candle - свеча
 Reality - реальность
 Abilities - способности
 Discount - скидка
-Effort - усилие
 Entry - вход
 bruh - братан
 window - окно
@@ -556,7 +495,6 @@ Interrupt - перебивать
 low - низкий
 data structure - структура данных
 Tall - высокий
-Sun - солнце
 Amazing - восхитительно
 Stylish - стильная
 Disagree - не согласен
@@ -829,7 +767,6 @@ Invent - изобретать
 Returned - вернулся (past)
 job - работа
 pointer - указатель
-nature - природа
 Prefers - предпочитает
 Total - полный, суммарный
 spoon - ложка
@@ -1089,7 +1026,6 @@ Benefit - выгода, польза
 Dangerous - опасно
 In spite of - несмотря на (с предлогом)
 Familiar - знакомо
-Faith - вера
 feel - чувствовать
 spring - весна
 Wait for - ждать _ (кого то)
@@ -1130,7 +1066,6 @@ Bell - звон, колокол
 sad - грустный
 Cost - стоить (глагол)
 be able - смогу (будущее)
-Field - поле
 but - но
 i cut myself - я порезался
 Tired of - устал от
@@ -1293,7 +1228,6 @@ Sheet - лист, страница
 Disappeared - исчезли (past)
 Salary - зарплата
 Present day - сегодня
-exception - исключение
 Fair - ярмарок, справедливо, красавица, русый
 Agreement - договоренность
 Sponge - губка
@@ -1428,7 +1362,6 @@ Is there a way to prevent it - Есть ли способ предотврати
 Pure - чистый
 remember - помнить
 Another opportunity - еще одна возможность
-Earth - планета (планета Земля)
 beach - пляж
 What kind of - какого рода?
 list - список
@@ -1473,7 +1406,6 @@ daughter - дочь
 Adjective - прилагательное
 Border - граница
 Introduction - вступление
-Exactly - точно! , конкретнее
 many - много (идей)
 along - вдоль
 life - жизнь
@@ -1629,7 +1561,6 @@ How do they prepare this fish in France - Как готовят эту рыбу 
 Plant - растение
 Circle - круг
 Construction - строительство
-Leaf - лист
 Library - библиотека
 Joi - радость
 Native speaker - носитель языка
@@ -1810,7 +1741,6 @@ Hospitable - гостеприимство
 Thin - тонкий (книга)
 Establish - основывать, установить
 Deserve - заслуживать
-Generous - щедрый
 Enthusiasm - энтузиазм
 Risky - рискованно
 Invite - приглашать
@@ -1855,7 +1785,6 @@ He is away - он отсутствует (уехал далеко)
 Thick - толстый (книга)
 Athlete - атлет
 Acquaintance - знакомый
-Shy - застенчивый
 Wedding - свадьба
 Score a goal - забивать гол
 Responsibility - обязанность, ответственность
@@ -1865,7 +1794,6 @@ Increase - увеличить
 There was a great lack of rice that year - В том году было большое нехватка риса
 Get started - начинай
 Island - остров
-Rain - дождь
 start - начинать (S)
 day - день
 change - изменять
@@ -1877,3 +1805,97 @@ half - половина
 nothing - ничто
 Trip - поездка
 jump - прыгать
+Below average - ниже среднего
+She had not earned anything - она ничего не заработала
+focused - сосредоточенный
+I'm ready for the consequences - Я готов к последствиям
+Crop - урожай
+Take a break - сделать перерыв
+Stay focused - оставаться сосредоточенным
+random - случайный
+fight - драться
+then - тогда
+nice - приятный
+Follow your dreams - следовать своим мечтам
+wash - мыть
+catch up - догонять(два слова)
+Inconvenient - неудобно (время)
+Hard working - трудолюбивый
+August - август
+month - месяц
+The most interesting - самый интересный
+conflict - конфликт
+he - он
+In general - в основном
+insurance - страхование
+below - ниже
+Shy - застенчивый
+Used - привык
+Vacation - отпуск (V)
+Field - поле
+Volcano - вулкан
+Woods - лес
+Call of - отменить
+explore - исследовать
+curious - любопытный
+Keep it simple - держать все простым
+Get some rest - отдохнуть
+Take a chance - рискнуть
+take off clothes - снимать одежду
+head - голова
+cool - классный
+could - мог
+coin - монета
+crazy - безумный
+somebody - кто нибудь
+dear - дорогой, уважаемый
+at - в, на
+mouth - рот
+Celebrate success - праздновать успехи
+Generous - щедрый
+Leaf - листочек
+Accept failure - принимать неудачи
+so - так
+yes/yeah - да
+girlfriend - девушка (его)
+dark - тёмный
+king - король
+already - уже
+egg - яйцо
+show - показывать
+why - почему
+Divorced - разведен
+Stupid - глупый S
+screen - экран
+clean the house - убирать дом
+elephant - слон
+come - приходить
+Advertisement - рекламное объявление
+third - третий
+tax rate - ставка налога
+early binding - Ранняя оценка
+average - средний
+Absolutely - совершенно
+Be proud of - гордиться за
+Nature - природа
+Rock - камень
+ground - земля
+indentation - отступы
+Solution to - решение __
+close - близкий, закрыть
+authorization - авторизация
+read a book - читать книгу
+Multiply - умножить
+Area - область, район
+tea - чай
+question - вопрос
+rat - крыса
+picture - картинка
+last - последний
+about - о
+real - реальный
+beer - пиво
+For years - годами
+dirty - грязный
+ring - кольцо
+Ask for - просит _
